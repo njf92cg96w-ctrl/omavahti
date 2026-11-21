@@ -1,0 +1,2 @@
+# omavahti
+Oma henkilökohtainen uutisvahti
