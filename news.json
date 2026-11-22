@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-22T19:27:42.200658+00:00",
+  "updated": "2026-11-22T20:37:41.074536+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20258373?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Sebastian Aho syötti näppärän maalin ja Jesperi Kotkaniemi löi NHL-körmyltä nenän verille – Carolina selvään voittoon",
+      "desc": "NHL:n kärkijoukkue Carolina Hurricanes haki vierasvoiton New York Rangersista. Aleksander Barkov saattaa palata kaukaloon ensi viikolla.",
+      "date": "2026-11-22T22:36:24+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258373?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258371?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Turkissa yli sadan ihmisen varat jäädytetty rahastoskandaalin takia",
+      "desc": "Oppositiopuolue TIP:n kansanedustaja Ahmet Sik toi syyttäjien raportin julkisuuteen.",
+      "date": "2026-11-22T21:38:41+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258371?origin=rss"
+    },
     {
       "id": "https://yle.fi/a/74-20258370?origin=rss",
       "cat": "Suomi ja maailma",
@@ -15,7 +35,7 @@
       "id": "https://yle.fi/a/74-20256424?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Jopesta tuli teatteri-ilmiö: Kemiin tulee bussilasteittain yleisöä eri puolilta Suomea ja lippuja on myyty ennätyspaljon",
+      "title": "Kemissä on niin aidonnäköinen Jope Ruonansuu, että siskokin liikuttui – ihmisiä saapuu kaupunkiin bussilasteittain",
       "desc": "Jope Ruonansuun elämästä kertova musiikkinäytelmä on saanut jo lisäesityksiäkin, sillä kysyntä on ollut teatterin mukaan ennätyksellinen.",
       "date": "2026-11-22T20:45:33+02:00",
       "source": "Yle",
@@ -77,7 +97,7 @@
       "icon": "🤖",
       "title": "Perplexity and Intelligence - OpenAI",
       "desc": "Perplexity and Intelligence &nbsp;&nbsp; OpenAI",
-      "date": "2026-11-22T19:07:30+00:00",
+      "date": "2026-11-22T19:12:41+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
     },
@@ -242,6 +262,16 @@
       "url": "https://yle.fi/a/74-20257480?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVdaOU1WWm9EWW5lMkJWb0FLd3AxQjgtWUYxMFU3cTViNllKa0tZSVM2LV8wckR2YnBvU2UtZTNqb2FxUDZkZHljT1pUM0JEaUJ6bWdoSDg0QTktS2RZZnFDQXNRTkdjc0FpS3gyak9mbndxYnBYWmlyUC1CMllMN181bDZCLVRMVnRKdWp5a0dZOU9Pb1ZnakloR2xwOXEzbExyYnlPUGFxMXFWbGlUVlhBWFc?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Breathwork can induce altered states comparable to moderate psychedelic doses, study finds - PsyPost",
+      "desc": "Breathwork can induce altered states comparable to moderate psychedelic doses, study finds &nbsp;&nbsp; PsyPost",
+      "date": "2026-11-22T14:21:10+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVdaOU1WWm9EWW5lMkJWb0FLd3AxQjgtWUYxMFU3cTViNllKa0tZSVM2LV8wckR2YnBvU2UtZTNqb2FxUDZkZHljT1pUM0JEaUJ6bWdoSDg0QTktS2RZZnFDQXNRTkdjc0FpS3gyak9mbndxYnBYWmlyUC1CMllMN181bDZCLVRMVnRKdWp5a0dZOU9Pb1ZnakloR2xwOXEzbExyYnlPUGFxMXFWbGlUVlhBWFc?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20258347?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -260,16 +290,6 @@
       "date": "2026-11-22T14:17:41+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258345?origin=rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVdaOU1WWm9EWW5lMkJWb0FLd3AxQjgtWUYxMFU3cTViNllKa0tZSVM2LV8wckR2YnBvU2UtZTNqb2FxUDZkZHljT1pUM0JEaUJ6bWdoSDg0QTktS2RZZnFDQXNRTkdjc0FpS3gyak9mbndxYnBYWmlyUC1CMllMN181bDZCLVRMVnRKdWp5a0dZOU9Pb1ZnakloR2xwOXEzbExyYnlPUGFxMXFWbGlUVlhBWFc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Breathwork can induce altered states comparable to moderate psychedelic doses, study finds - PsyPost",
-      "desc": "Breathwork can induce altered states comparable to moderate psychedelic doses, study finds &nbsp;&nbsp; PsyPost",
-      "date": "2026-11-22T14:13:12+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVdaOU1WWm9EWW5lMkJWb0FLd3AxQjgtWUYxMFU3cTViNllKa0tZSVM2LV8wckR2YnBvU2UtZTNqb2FxUDZkZHljT1pUM0JEaUJ6bWdoSDg0QTktS2RZZnFDQXNRTkdjc0FpS3gyak9mbndxYnBYWmlyUC1CMllMN181bDZCLVRMVnRKdWp5a0dZOU9Pb1ZnakloR2xwOXEzbExyYnlPUGFxMXFWbGlUVlhBWFc?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258342?origin=rss",
@@ -582,26 +602,6 @@
       "url": "https://yle.fi/a/74-20258300?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20258295?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Venäjän valtionmedia reagoi iskuun rauhoittelemalla kansaa – sotabloggaaja taas väittää, että iskun takana on Nato",
-      "desc": "Isku venäläisalukseen Suomenlahdella sai Venäjän valtionmedian rauhoittelemaan kansalaisia. Sotaa tukevilla somekanavilla isku jakoi mielipiteitä.",
-      "date": "2026-11-21T20:20:38+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258295?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258292?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Lukon voittoputkessa ristiriitainen yksityiskohta – Ismo Lehkonen nostaa esiin tärkeän tilaston: ”Aina ongelmissa”",
-      "desc": "Rauman Lukko kasvatti voittoputkensa jääkiekon SM-liigassa 11 ottelun mittaiseksi, kun se päihitti HPK:n kolmannen erän salamamaaleilla.",
-      "date": "2026-11-21T19:49:24+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258292?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -610,16 +610,6 @@
       "date": "2026-11-21T19:01:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258284?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Sparta II -rahtialus on hinattu pois Suomen talousvyöhykkeeltä",
-      "desc": "Venäläinen rahtialus joutui drooni-iskun kohteeksi Suomenlahdella. Yle seuraa tapauksen tuoreimpia tietoja tässä päivittyvässä artikkelissa.",
-      "date": "2026-11-21T16:51:38+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258284?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE15d0djZEpxd2hWaDJ5eFNYMDlyUlJFdnpxUjhMclQyekxEc01KWjk3T1N1c1I2Z0dOZENiSC03X1h3UVJVa3pFdHJQVzhWQVR4Z0hUaVpJMUVkVGE3Wmc5S3FTb0pyc0hoTktDQW94NDVHQQ?oc=5",
@@ -652,6 +642,26 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13WjdmN0ppMmtibWY4ZVBGNVZBZmFPTnJfRUpOLS1tU0x0a0Q3cUJfdmVJbUdZZVhzeU1oeWhPR2NXOVhmdkdqdUxaQ2dHMkIyaV9LdXRza3M5aXJQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelJxcGhReW41dUlfY2dxa2Q4Q2l4RnVHcjRYUjF0SS1sMmg3X0l3OUY5d1drN3ZPRVZ3Rm05VnNTcFRhQnRwaEViV1FySktBNWktRS1HN1NYWmZ3THlNc3ktZUxpTnB3aDlBZldHalMzR3dMTDhDSF9aeER1MXl2SmVWeGd5SEs4bU9BR1VETVFEOG5xOEtobnFRNzlWQV8zQVRweVJWNmQ?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Adolescent Screen Time and Fitness Linked to Specific Brain Structure Variations - Bioengineer.org",
+      "desc": "Adolescent Screen Time and Fitness Linked to Specific Brain Structure Variations &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-21T01:56:08+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQelJxcGhReW41dUlfY2dxa2Q4Q2l4RnVHcjRYUjF0SS1sMmg3X0l3OUY5d1drN3ZPRVZ3Rm05VnNTcFRhQnRwaEViV1FySktBNWktRS1HN1NYWmZ3THlNc3ktZUxpTnB3aDlBZldHalMzR3dMTDhDSF9aeER1MXl2SmVWeGd5SEs4bU9BR1VETVFEOG5xOEtobnFRNzlWQV8zQVRweVJWNmQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBmT2lvOEJmc3N3ZzlLRVUyZ3VPaUdOYVJKenpCQllSbHp0R3hEMGRNUC1MSTRuT2d0RHAzZlBYWkZxd3hRY1hTWDB3VzluM1dQYXh0LTA4R3czOE1ZWnQxUTFYRlJSSlJ6eEZNMW5pWDZQN3pKdmh5NkREUEYweW9HVVI0d09TOFo4Y2hjWkpQdXF4S0ZzYVF1T1Q1TjR1NnBVejRvdTR6elg0cHpsQmdFSk45bkFVZ25qcW9mOWNyTGlBZkRDUmJ6anBaVUpYd3pNTg?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together - Amazon Web Services",
+      "desc": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together &nbsp;&nbsp; Amazon Web Services",
+      "date": "2026-11-21T01:06:42+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBmT2lvOEJmc3N3ZzlLRVUyZ3VPaUdOYVJKenpCQllSbHp0R3hEMGRNUC1MSTRuT2d0RHAzZlBYWkZxd3hRY1hTWDB3VzluM1dQYXh0LTA4R3czOE1ZWnQxUTFYRlJSSlJ6eEZNMW5pWDZQN3pKdmh5NkREUEYweW9HVVI0d09TOFo4Y2hjWkpQdXF4S0ZzYVF1T1Q1TjR1NnBVejRvdTR6elg0cHpsQmdFSk45bkFVZ25qcW9mOWNyTGlBZkRDUmJ6anBaVUpYd3pNTg?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -660,6 +670,16 @@
       "date": "2026-11-20T22:07:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmZXem9adnJ3MXMzcDFTX2xPSEYzWVp1MmptNHpoc0g5MUFMcWkyOXpTYVBpdTlUZmh2SENWYWFya0NEaUQ5TzJvQmFCeEttV0FQa3hJUHhiTlR0VXZWQnVKUmxWTDBManlmc2tMTFdyUjNwTXZickVoWVFLY1VzUVVHdjc1T1BKQzZDbWJCbmhkLVVCbEZNVmR2UVVTZHpSRE1sZEZDT3JJN1FqU191Rnd0Skl6dEpH?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI | Artificial Intelligence - Amazon Web Services",
+      "desc": "How Standard Bank Group automates AI risk assessment for generative AI | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services",
+      "date": "2026-11-20T20:37:31+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmZXem9adnJ3MXMzcDFTX2xPSEYzWVp1MmptNHpoc0g5MUFMcWkyOXpTYVBpdTlUZmh2SENWYWFya0NEaUQ5TzJvQmFCeEttV0FQa3hJUHhiTlR0VXZWQnVKUmxWTDBManlmc2tMTFdyUjNwTXZickVoWVFLY1VzUVVHdjc1T1BKQzZDbWJCbmhkLVVCbEZNVmR2UVVTZHpSRE1sZEZDT3JJN1FqU191Rnd0Skl6dEpH?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWpWb2IzWDdYa1htRUROVVlZTUFMYlJCdUZEYXRZWEN0N0l4UVdfUTloZmNzeVdGTjBXUTNYV3ZtTF9oNDBnTlU0LVI4Rk1VbHZ4elFnZmRULXcxc0xWbFB6bTBTbE9EVTIydFU1dkFCX3pQQlFJZ2g5QnNmTTJ4aktOYWs3MzNvYTVTb1lNN2VfMEtDZjF3cE9mSGdSeV9LVTdUcUZiQ2E?oc=5",
@@ -732,16 +752,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUZPTUhmd1lpOTJ1MHlFallLV2MtakVqUnBjWlBpcmF4RzUwYTlUREU5WDlaV05LODRPdW01N1h6RE1XNndvNnpoWS1BTHJTMGpoMllFVkVEdndiaWs2X1Nwc3Q4OUp3YWVpY3FuZ2FsOUx4b3pKdTIwRmNySDdFOWdQb0FkMFE0b1M1ZVhiV20zTXZXQlFTUGZqajZPLUhxc3k4X3oxQ0JTRDFPcE5tbVpLWXIxYzVtd3BFak1ob3FKSHE3YVpCcw?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2d3d3BPdVU1bFRENFliNlY0aGtIRkszTXlDamJiRnhjZi14UF8zOFMyTE5RbGxOMGgyTlZqc2xZcG5ydDhWVTFFR003Snd1UUZfV1BaSDlGLU1xWEh5RVhuWXl1a3VMM09OUk9GdEpBS0lxc241VHNGN1M2N2o0ck56ZllCejJKNW92MjBuQjl1Y0p1Xy10aEFTb3ZoaGk5V1gw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "City of Richmond Introduces Official Name, Logo, and Website for RKY Sports Complex - WBONTV",
-      "desc": "City of Richmond Introduces Official Name, Logo, and Website for RKY Sports Complex &nbsp;&nbsp; WBONTV",
-      "date": "2026-11-20T16:21:22+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2d3d3BPdVU1bFRENFliNlY0aGtIRkszTXlDamJiRnhjZi14UF8zOFMyTE5RbGxOMGgyTlZqc2xZcG5ydDhWVTFFR003Snd1UUZfV1BaSDlGLU1xWEh5RVhuWXl1a3VMM09OUk9GdEpBS0lxc241VHNGN1M2N2o0ck56ZllCejJKNW92MjBuQjl1Y0p1Xy10aEFTb3ZoaGk5V1gw?oc=5"
-    },
-    {
       "id": "https://yle.fi/a/74-20258173?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -750,16 +760,6 @@
       "date": "2026-11-20T15:52:58+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258173?origin=rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmVuQjd0cjZ3N0hHaF9yYk4tRUNndWkzdXIwQnlXVlF2RGdGM0Q0dGE1Z3JLZHVfYTFaOUFMV2YzNUkzeHJrYkpEN1FVbGNFVnc4VUFTaF8xOTNqRFdnUVNDQ1gxOUtEczZDczVaQVJzZmhpTTU3UFhBaVNvRWJ2QUhIeGVhVmlldDBlUTRvc2R5VnBRQzZBN2VBQnVoVWQ0clRJNV9IRWoyZWNtTUE1cDBJdTl6a29pdXozNWFuYlRMMVJpZm5SSDJtZ2M1QzYtYnBXVzJnVkZyMVdvU0RybktKdw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Traffic circulation plan on tap for city sports complex - The Transylvania Times",
-      "desc": "Traffic circulation plan on tap for city sports complex &nbsp;&nbsp; The Transylvania Times",
-      "date": "2026-11-20T15:35:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmVuQjd0cjZ3N0hHaF9yYk4tRUNndWkzdXIwQnlXVlF2RGdGM0Q0dGE1Z3JLZHVfYTFaOUFMV2YzNUkzeHJrYkpEN1FVbGNFVnc4VUFTaF8xOTNqRFdnUVNDQ1gxOUtEczZDczVaQVJzZmhpTTU3UFhBaVNvRWJ2QUhIeGVhVmlldDBlUTRvc2R5VnBRQzZBN2VBQnVoVWQ0clRJNV9IRWoyZWNtTUE1cDBJdTl6a29pdXozNWFuYlRMMVJpZm5SSDJtZ2M1QzYtYnBXVzJnVkZyMVdvU0RybktKdw?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/20/kulttuuritalot-kutsuvat-joulun-elamyksiin-ja-yhteiseen-tekemiseen",
@@ -922,6 +922,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW9aOVU5UFRyZUtEMzFCQm9sU2N3ZEtLTlNiY3ZkRG54SWxpNTFBWDNsQ1BNaDk5ZkxFbFpKMlJjTG1fM1c2MDBTNURZZDVJOFdnZjdaQkxOY1htRnprM2llSF83ZkxHT0xRRXNVTU1zcXpmcTI2QlZFdzdFRG8xZTRLSmwzWm8tUG1vTkJuVll4S0RlVHc?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVFBZek5iODV0Skp5N2RUSEJDOUlXRU1Fd1NzVU42aEJqckQyVDVybW1jWmRYTjRWVEo5Y2R2MTNET1VDWUJhMnZENm5ZU3VkamxjTWk1ZGpQcDJCYlZkNkVrdk5jWTR5TmpVbzVUQzF3X1V5Tlo5SFdR?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Los Angeles 2028 Summer Olympic Games | Bidding, Host, Venues, Planning, Sports, Marketing, & Facts - Britannica",
+      "desc": "Los Angeles 2028 Summer Olympic Games | Bidding, Host, Venues, Planning, Sports, Marketing, & Facts &nbsp;&nbsp; Britannica",
+      "date": "2026-11-20T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVFBZek5iODV0Skp5N2RUSEJDOUlXRU1Fd1NzVU42aEJqckQyVDVybW1jWmRYTjRWVEo5Y2R2MTNET1VDWUJhMnZENm5ZU3VkamxjTWk1ZGpQcDJCYlZkNkVrdk5jWTR5TmpVbzVUQzF3X1V5Tlo5SFdR?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20257979?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -930,16 +940,6 @@
       "date": "2026-11-20T06:48:55+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20257979?origin=rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRVFxaDFTWEJOdnRzdjc1X0Rma3ZuVHZLTlZsYmZFeFZaSGd6QUFOaVRyOHdONzdYcjBJb19mLXplbnhCaUxpMmFXc2lXRU02LVk0TzN4ZXFkV1lteDZV?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "computor: AI tutor as a programming learning aid - Phys.org",
-      "desc": "computor: AI tutor as a programming learning aid &nbsp;&nbsp; Phys.org",
-      "date": "2026-11-20T04:40:02+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRVFxaDFTWEJOdnRzdjc1X0Rma3ZuVHZLTlZsYmZFeFZaSGd6QUFOaVRyOHdONzdYcjBJb19mLXplbnhCaUxpMmFXc2lXRU02LVk0TzN4ZXFkV1lteDZV?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fajhCaTJ5Qlk1VUxTdDV2VEZWTC14TWNPRkdvaHhndU9rYkxsWl9DY3h2RUlTS05ZdGRWcXpNUWF5YVF5U1Nlbzk0TjRyajRKek9HLXl1NWtJem5LdXY2a2JrM3I3aG92VDdtY0Exd0FoamQwQlM1SHhCZUM3dHc?oc=5",
@@ -1062,16 +1062,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-on-laulava-kunta-yhdessa-laulaminen-tuodaan-osaksi"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHR6OFZDM3A5RFZZb3ZiMVB3eVRmSGRrN3UyNnJKNVo3S1NqVk5NaXVkWXhMR0pjR0hpc3A4bzUwNDIyWHoxRDJXVnZ1LVhpWk1NZUF2RG10VUU1SXdYb2xXem9HUnBCTFpkQnlZdmFqT2V6emlsb1BiakZ2amhNOEJqcmstc19FZWk2eS0xbHFsYUVWTF8yUVRCQUlicG9OVXF5Z3NCaw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Curators approve Missouri S&T to offer state’s first bachelor’s degree in AI - Missouri S&T",
-      "desc": "Curators approve Missouri S&T to offer state’s first bachelor’s degree in AI &nbsp;&nbsp; Missouri S&T",
-      "date": "2026-11-19T16:21:45+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHR6OFZDM3A5RFZZb3ZiMVB3eVRmSGRrN3UyNnJKNVo3S1NqVk5NaXVkWXhMR0pjR0hpc3A4bzUwNDIyWHoxRDJXVnZ1LVhpWk1NZUF2RG10VUU1SXdYb2xXem9HUnBCTFpkQnlZdmFqT2V6emlsb1BiakZ2amhNOEJqcmstc19FZWk2eS0xbHFsYUVWTF8yUVRCQUlicG9OVXF5Z3NCaw?oc=5"
-    },
-    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-filharmonia-julkaisi-kevaan-konserttiohjelmansa",
       "cat": "Päätöksenteko",
       "icon": "🏛️",
@@ -1172,6 +1162,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-yhdistaa-voimansa-slushissa-27-startup-ja-tutkimustiimia"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe tourism authority puts $5M toward new county rec center - The Asheville Citizen Times",
+      "desc": "Buncombe tourism authority puts $5M toward new county rec center &nbsp;&nbsp; The Asheville Citizen Times",
+      "date": "2026-11-19T12:51:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20257866?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1180,6 +1180,16 @@
       "date": "2026-11-19T12:13:47+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20257866?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TVdPZGxEV244aWlqQ1hOcllJVzZ5UE5YNDloeFI4bm1xaE85TXdvcWYtZTRPSXduR1FOVlVmaGhYdmhXZldrYllTYy1leGc3YThId0xaS1pCWVNHOGdB?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Daily links between rumination and physical activity in major depression and borderline personality disorder - Nature",
+      "desc": "Daily links between rumination and physical activity in major depression and borderline personality disorder &nbsp;&nbsp; Nature",
+      "date": "2026-11-19T12:03:01+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TVdPZGxEV244aWlqQ1hOcllJVzZ5UE5YNDloeFI4bm1xaE85TXdvcWYtZTRPSXduR1FOVlVmaGhYdmhXZldrYllTYy1leGc3YThId0xaS1pCWVNHOGdB?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFl3cWxfeHFaenJyd040V1FzazZxS2lKX3ZHVG9hczNkWTVScVJJLVFfRTRUZTI3a1hnS3ZGVXhKY3dBZHVOTEZvaEZNdl9rUm5JMGtLSWdfM3JicHk0UmZTUVNINHFjclVwWkVtZ1d6b0NnbzNTYUNmRlFhcG5KTXd5Ml9ZU1ByXzA5c1NzRklNMXlUWHpkTUhobDZzcDI3eWhYdVVKRkhpUUxjQUZqMUJTbWJlbXFxWEVTOUtXQQ?oc=5",
@@ -1362,14 +1372,24 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWNSVW9YNzVYUE5IbEw0V0pBZV8xTjlYb0xpQjFrbXJobFk3aFJEUjZnVDhPX1FBMmczVUhmY2lPVVZRSnpkOEFtbFFKZVJRNTZVcUFYY2xBTFdJWDJ4ck9lOG9FdUZGa2RQQkpjdTJwR2lvOWUtMElqWC1FajRlM0V3YWg2Tk1NODhveXJGdHI4T3VENGNEZnZ1eERZc1A4TTcyRnZHbTFOQQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGdtT09PWHdZZ1ItVnI2WDNtUWlfYWJEU21SaGRoel9iV0ZNVlNSR2h2QUFmc1BpYjRWcnFMN20wQ1M1bHpfdzRzb0pUMDdLQUhGWlIyejZtNkFEcklZZHQzSExzLWZ3bW5mZFhFUV9Vb2xaajlxb0R6SmFOUm5TM2puSEJMVjBuenRsTnlRZFFKbzNhNEo3VldxODBLY09SSGRHcE1vOXE3TmQ0T1kydjdhRUFmU1Franc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Research shows better heart health linked to better brain health - UC Davis Health",
-      "desc": "Research shows better heart health linked to better brain health &nbsp;&nbsp; UC Davis Health",
-      "date": "2026-11-18T20:29:22+00:00",
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know. - The New York Times",
+      "desc": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know. &nbsp;&nbsp; The New York Times",
+      "date": "2026-11-18T21:24:08+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGdtT09PWHdZZ1ItVnI2WDNtUWlfYWJEU21SaGRoel9iV0ZNVlNSR2h2QUFmc1BpYjRWcnFMN20wQ1M1bHpfdzRzb0pUMDdLQUhGWlIyejZtNkFEcklZZHQzSExzLWZ3bW5mZFhFUV9Vb2xaajlxb0R6SmFOUm5TM2puSEJMVjBuenRsTnlRZFFKbzNhNEo3VldxODBLY09SSGRHcE1vOXE3TmQ0T1kydjdhRUFmU1Franc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjZHZUZJSFQ2V2t1ZFFIVEJ3ZXl5Z09YTjFnR21ZVzRkLUhzVFNpSUxnanMwVm5maEtwODBkLXhtVE9kX0pvQTlUVXBWXy1uUlM4TUJKenFQR0Z6Tm9wNk9haXU5MVlaU1ptN2ZsTEdZZk1jRGdOUlpDN1gyZnhiTWZnenUxdlNZT1dUdmF4Vll2cmstTDV6VzkzZw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjJfMm9kQUFaem9XZ1dQSHdDdE9FdjBhSlBndVlMZ1VYekd2RV94VTE1a1VCRHpCOU5mZzdyV1pGRHRJYTBodjNablB2SGcwWFlMTjAxQmRUanRaOTJuS1QzTzJCcUZaM1NfTGNwdmllME55Z0JWc1FXakZDUHZ4V1EwX2xnczZ6UDcweVBqWE1RbHFsTkF3UlNCdHdZQlU4QjZxNTUzVlRKeWZtSlNtdFVHeFVFSGdwbUZSUzhsb0tUOFhzODVJTA?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "7 Cricket Grounds, Recreation Campus 'The Pavilion at New Hill' Breaks Ground in Chatham County - Chapelboro.com",
+      "desc": "7 Cricket Grounds, Recreation Campus 'The Pavilion at New Hill' Breaks Ground in Chatham County &nbsp;&nbsp; Chapelboro.com",
+      "date": "2026-11-18T21:06:29+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjJfMm9kQUFaem9XZ1dQSHdDdE9FdjBhSlBndVlMZ1VYekd2RV94VTE1a1VCRHpCOU5mZzdyV1pGRHRJYTBodjNablB2SGcwWFlMTjAxQmRUanRaOTJuS1QzTzJCcUZaM1NfTGNwdmllME55Z0JWc1FXakZDUHZ4V1EwX2xnczZ6UDcweVBqWE1RbHFsTkF3UlNCdHdZQlU4QjZxNTUzVlRKeWZtSlNtdFVHeFVFSGdwbUZSUzhsb0tUOFhzODVJTA?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2NtWUxUaHNJbm5QSWtQNkRZR1pPUzVPSVMxNUNBaHZKRzJjdk5tenFFNkYtV3VITkN3UWQ0Vmx0RjZzaDd6S1BWUC1vUmZoSjh3eHVwS00wazY2M081ZDladE0wbGplV0RlRXJ2TjNuQlhaV2p2SVdmTWFaOFg1Zm5zbkY0SjFCVnQ5TV9XWi1NTFd2RjRaMkV3eTNYMnZGYVl4WWl1eF81dnNsSWFqeXFuaU9TRkR2eDQ3dE9ocGNhUXoyUWNjejJvX3AtRFNoNGg5VjRUYjJFcE1IejhpZ2xjWE9pTjBRM01UV0FIRUlsdw?oc=5",
@@ -1390,16 +1410,6 @@
       "date": "2026-11-18T19:52:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFF5RTEwQkwxOHJvc3FYN08ySmZjbUpoNTl6el9jMDRGMUpvVi1oOW03MFZFcncweXA3ZXhtQzdIOURidUhRRFRxa2huazJNR1NydlJKeDZWOVUydTV5c29OSjJXU0VjM25rTE43Wk1xOFd6YlhQTVJjaUZfY0Y4bF9Rc09PMHg0UTFBVHNNZVRqQnpFY0s3NjdVT0xnMWlLTGc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlB5Qm44S3g3YjRDbUY3VG5yRTlFZDk4T2hWd0ZjdVVuTHdkMnJvR3Z1RnJUaHhVajhaV1dwTXN4WXhacU5wRE1LNDIwNDB3U1pFb1VrcldLTmM3NDdDeGlxSnZNWnNDU2IwaUxRQ3BsTDlRUXd0MjlXV2RXaThOeUhia3VmbzN3LVc1Yw?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "How to Exercise with Heart Valve Disease - HealthCentral",
-      "desc": "How to Exercise with Heart Valve Disease &nbsp;&nbsp; HealthCentral",
-      "date": "2026-11-18T19:34:26+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlB5Qm44S3g3YjRDbUY3VG5yRTlFZDk4T2hWd0ZjdVVuTHdkMnJvR3Z1RnJUaHhVajhaV1dwTXN4WXhacU5wRE1LNDIwNDB3U1pFb1VrcldLTmM3NDdDeGlxSnZNWnNDU2IwaUxRQ3BsTDlRUXd0MjlXV2RXaThOeUhia3VmbzN3LVc1Yw?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5",
@@ -1432,16 +1442,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWTg1aUhiZ3VEQm9sdFlRSUFTRVBWNWMxeFU1bk0xWWdtRGo5Ui1wZXRyeFk1RlRPdnNIWEZIdnpLMTJWa1oyTlNGNWJfQnI0MlppMUZXRXh6OUI2eFdQbHlHN085N0s0Y0o2VnN4aWwtRUdFOW9EMndDZVFWcUMxX3R4QTFtV3lsUThSXzVWamp4eFRFbl9ENzJmUVRWN3VKcjhIc0hQWGFyZ2RuM3RTQ0VzV19mWlNLLWdUTHp0VUR6ZUF3ZTMzRl82b2N5QzBmNWdKdEMtaW9QTmNiWGNHNFIyNHM3X0w3TE13X0x5cldGV3hCSnc?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "City mulls taking over upkeep of UWSP at Marshfield athletic fields - Marshfield News-Herald",
-      "desc": "City mulls taking over upkeep of UWSP at Marshfield athletic fields &nbsp;&nbsp; Marshfield News-Herald",
-      "date": "2026-11-18T16:44:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWTg1aUhiZ3VEQm9sdFlRSUFTRVBWNWMxeFU1bk0xWWdtRGo5Ui1wZXRyeFk1RlRPdnNIWEZIdnpLMTJWa1oyTlNGNWJfQnI0MlppMUZXRXh6OUI2eFdQbHlHN085N0s0Y0o2VnN4aWwtRUdFOW9EMndDZVFWcUMxX3R4QTFtV3lsUThSXzVWamp4eFRFbl9ENzJmUVRWN3VKcjhIc0hQWGFyZ2RuM3RTQ0VzV19mWlNLLWdUTHp0VUR6ZUF3ZTMzRl82b2N5QzBmNWdKdEMtaW9QTmNiWGNHNFIyNHM3X0w3TE13X0x5cldGV3hCSnc?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1462,6 +1462,16 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJRWJqd3JOeW43SlJkdXM4RHcyZkZnS1Mta3V2RG5TeUJCSWlxX3o3Tk9weUhNeWc5eFFya3hMNHNpYkdXTDFJMmNJV0g0RFJIaEwyeUxRa1l4V0RodVdEWWRtakxfRU05R1hyMjFUTnlMNGhKM3VGZ05KQjAwZw?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdrSFgzNl9DOU9VbWNJSnZRZ094bEVkSC16T2daWnIxZ1FvUWpEV1llY1d3WkZxTVlFeXMybk9zdjl2Ym9GRW9WQ2dYa1FpcE9VdUVNNHZOVkRRdjQ1RHR6VmREZjlhRUYxWGNrWmJTdXFla0NsVTlkNjFyM2JSbnUwSGhJZXgtODFFd01kT1BKX2JnMHgwVFJ5R0pJdnhWczhtdVdmZTVULVU0NmVYLQ?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Evening Exercise Modestly Outperforms Morning Training for Fat Loss in Clinical Trials - Bioengineer.org",
+      "desc": "Evening Exercise Modestly Outperforms Morning Training for Fat Loss in Clinical Trials &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-18T10:15:30+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdrSFgzNl9DOU9VbWNJSnZRZ094bEVkSC16T2daWnIxZ1FvUWpEV1llY1d3WkZxTVlFeXMybk9zdjl2Ym9GRW9WQ2dYa1FpcE9VdUVNNHZOVkRRdjQ1RHR6VmREZjlhRUYxWGNrWmJTdXFla0NsVTlkNjFyM2JSbnUwSGhJZXgtODFFd01kT1BKX2JnMHgwVFJ5R0pJdnhWczhtdVdmZTVULVU0NmVYLQ?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/18/talvikunnossapito-valmistautuu-vaihtelevaan-talveen-turvallisuus",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1470,6 +1480,16 @@
       "date": "2026-11-18T10:02:29+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/18/talvikunnossapito-valmistautuu-vaihtelevaan-talveen-turvallisuus"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3M0RkxqYjltc3I4TVkxLWdzVWQtMkZZbkVCaVJnamRVakJyaE41S0dkd25kQ0d0bjNNS0J4TVV3azR2RFlHcW9QWHdxTC10ZkEtcEF0V2NoTHBvVVd4ZjFCbC1vUzBvOTQtSGZ5djZJblllVGQxVDN1QXVob1pwVjZDYmkwNjFFRWttRE04ZGNNZmtWMFZZandXNnd3YW9rdDd1VWo4SE9YNGdtSXdZS29MT0JDOXFNWU9rN2hFWnYwVEVLQnFLa09n?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "The Central Coast Regional Sporting and Recreation Complex (CCRSRC) - Central Coast Council",
+      "desc": "The Central Coast Regional Sporting and Recreation Complex (CCRSRC) &nbsp;&nbsp; Central Coast Council",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3M0RkxqYjltc3I4TVkxLWdzVWQtMkZZbkVCaVJnamRVakJyaE41S0dkd25kQ0d0bjNNS0J4TVV3azR2RFlHcW9QWHdxTC10ZkEtcEF0V2NoTHBvVVd4ZjFCbC1vUzBvOTQtSGZ5djZJblllVGQxVDN1QXVob1pwVjZDYmkwNjFFRWttRE04ZGNNZmtWMFZZandXNnd3YW9rdDd1VWo4SE9YNGdtSXdZS29MT0JDOXFNWU9rN2hFWnYwVEVLQnFLa09n?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5",
@@ -1580,6 +1600,16 @@
       "date": "2026-11-17T18:48:50+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR0_SAbgBQVVfeXFMTTJ3YXNDRmpIZW1FUUpuTkZ6eUZsR0hkQjVEUnlidW9nZDhvTHo4aVQwOXYzbmZ0Z0xsYVFaaUhmeWk3dW4xa29teG5iMGhmazMtdGZzUm9DME52WGFSNC1IbktjTkRwZmlxWHhJWWNGX3drUlJ3UktYLWd3ZmdHWERWUlBkb0h6SWFjZDR3MWhUN3dsUFlLTVdNNFY3MUhiRTZObjVfOTZoYnZUVXJKdkZZYmNrU1Z1YQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "New Sports Facility With Indoor, Outdoor Spaces Proposed In Milford - Patch",
+      "desc": "New Sports Facility With Indoor, Outdoor Spaces Proposed In Milford &nbsp;&nbsp; Patch",
+      "date": "2026-11-17T18:32:43+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR0_SAbgBQVVfeXFMTTJ3YXNDRmpIZW1FUUpuTkZ6eUZsR0hkQjVEUnlidW9nZDhvTHo4aVQwOXYzbmZ0Z0xsYVFaaUhmeWk3dW4xa29teG5iMGhmazMtdGZzUm9DME52WGFSNC1IbktjTkRwZmlxWHhJWWNGX3drUlJ3UktYLWd3ZmdHWERWUlBkb0h6SWFjZDR3MWhUN3dsUFlLTVdNNFY3MUhiRTZObjVfOTZoYnZUVXJKdkZZYmNrU1Z1YQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpONUtPN0dvenNhaEJjRnJJMXBhNU9KSWFnejRkVGNCWV8zMzdSRG9JT3NPT1I5ekN2R0NpNEV3ZjRvMURTM3hwN040TGhOYTJYWnhkdTRTVmUzVm02NHNaNWlpWmFVbnFEUFBkeDJjN1lmcGZtdzdWTWhmSjFOXzMzdGtBYjRHeks4REx1LXBCaDhMWFNvclhGRHkyRmI4MUxtMmVuZkZkaFIwa1BFQUpISWJ6THBLVVE?oc=5",
@@ -1762,16 +1792,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNE9KM1hUU2VYN1IzSDBiY3BhTVFvTzhHTmxQdlBpUWtVRVlyV0pORmtRRnNUeDgyZWZ5dHRIQkxEdVBvZWh5UjZNNThVMHVuMlBtU0hXbGFrQQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVWlyNmwtMWY2YU1lNjI5V1Z5NjdMWmZyczdoQjctNUJYenJXRDVzSk4xQ2FrQUxnRWlURjExU1BJcXIzZ2xnbFZWM2VPZHFSUjRVQ1F0TXVEMlFFbER1NzlwTHQyaUp5NWFPeHppbHAyQW1Wemc?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "What Is a Machine Learning Engineer? (+ How to Get Started) - Coursera",
-      "desc": "What Is a Machine Learning Engineer? (+ How to Get Started) &nbsp;&nbsp; Coursera",
-      "date": "2026-11-17T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVWlyNmwtMWY2YU1lNjI5V1Z5NjdMWmZyczdoQjctNUJYenJXRDVzSk4xQ2FrQUxnRWlURjExU1BJcXIzZ2xnbFZWM2VPZHFSUjRVQ1F0TXVEMlFFbER1NzlwTHQyaUp5NWFPeHppbHAyQW1Wemc?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NWXlTb0N2TUZJWlNJVGY4YTFUUUZNTWR5bE5QbWVkcV85c1E2VC1uOE91dlRTVjdTaGVNeENkSlRJLWgzcFBmbGlB?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -1822,16 +1842,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZGt1UnZFa2dPbWZTbzk4cVBndklVTGY4clJoZG1aSG8tR09LQ3lLeTNxODU4ZHBQSlg1U0NqSHQ3WndYQi1hWmhKeFFOZ2o2VVFCQ3JndXlqSXlzTUdZY1hVYzZhREs0QThBWkN1TGVqY3pvYmw4czFnS3FBSmM?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnZZOWMyc0xRcTdNMFVib1hVVm9ZWVh4dF80OTJXaUNCTG5KWE1HdVRnR0VEUVVCd1BQRkZwZ1dsd1N6RVl6ZXJUR19JQUtyTjM0bjF1eGpyNTYxVnZuYjVHUnAyVjBOMEJ0RjVmRWV5RXVnQmZsQ3B6b3NzNFZ4VFZadExiN2oxTGxZZXhOOWRaUXRuSEk4WWFqZUxySW9TWjd3R3RiRTZ4Q3hrODNweXg2ZUJwNE85UUV3MkxNX2FSdw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "New sports venues bringing excitement to Lee County - Florida Weekly",
-      "desc": "New sports venues bringing excitement to Lee County &nbsp;&nbsp; Florida Weekly",
-      "date": "2026-11-16T21:54:14+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnZZOWMyc0xRcTdNMFVib1hVVm9ZWVh4dF80OTJXaUNCTG5KWE1HdVRnR0VEUVVCd1BQRkZwZ1dsd1N6RVl6ZXJUR19JQUtyTjM0bjF1eGpyNTYxVnZuYjVHUnAyVjBOMEJ0RjVmRWV5RXVnQmZsQ3B6b3NzNFZ4VFZadExiN2oxTGxZZXhOOWRaUXRuSEk4WWFqZUxySW9TWjd3R3RiRTZ4Q3hrODNweXg2ZUJwNE85UUV3MkxNX2FSdw?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1I1T0E5WE5SRWZiMHAwQk5ZZkJYc2NYdGFZRTYtenNmRXFEb0UyczQtbHJmRHVSRmVJV3ZUSElYQ3VscDlxajdicVhHZVJrNlFzRzlKRmpsc2FtQlhWd1llX1h6dW5KVkN1R1Jpb2FLeVYwRHJhb2JqZkhBV3JfZzY0czg1cmlLTktFTkFQLVd0TERULU40bENqLTlaUnBIdWRiSWlWS2Vid3FRYzJxR2JjNHhNQjZ2T0RVNlVnaU5Yamp2UXplZGRGbw?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1840,6 +1850,16 @@
       "date": "2026-11-16T21:53:46+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV1I1T0E5WE5SRWZiMHAwQk5ZZkJYc2NYdGFZRTYtenNmRXFEb0UyczQtbHJmRHVSRmVJV3ZUSElYQ3VscDlxajdicVhHZVJrNlFzRzlKRmpsc2FtQlhWd1llX1h6dW5KVkN1R1Jpb2FLeVYwRHJhb2JqZkhBV3JfZzY0czg1cmlLTktFTkFQLVd0TERULU40bENqLTlaUnBIdWRiSWlWS2Vid3FRYzJxR2JjNHhNQjZ2T0RVNlVnaU5Yamp2UXplZGRGbw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Liikuntapaikat - Keskilaakso",
+      "desc": "Liikuntapaikat &nbsp;&nbsp; Keskilaakso",
+      "date": "2026-11-16T19:45:52+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/16/vuoden-2027-talousarvio-hyvaksyttiin-kaupunginvaltuustossa",
@@ -1972,6 +1992,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDJhbWo4Um1kNU9NdHZwWWRVLTRQMkpsTjdsckFOazI0YzhiSEpxcHU2NFFLb2g5ZUFDZGlONUN0Vk1ILWtYeUJpcWRpWi1iX21SRkM2c1ZOZ1hHT0VBMi1HMnlMaTRyU2ZWNVloWHo1amtkU1NpZDl6UUxWTFJxSkpXZjF4NTNJbUpJTEtxZkY?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Honey Farm sport and recreation precinct master plan - Sunshine Coast Council",
+      "desc": "Honey Farm sport and recreation precinct master plan &nbsp;&nbsp; Sunshine Coast Council",
+      "date": "2026-11-16T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDA0NUIyY0tjQi1ZUlc5MzMxNTVDc2t4R3dZWFBqQlFxNFJveGV3bUw3R0htQ2dkWGowMGNKSGhXbk8tZ0NLSEYwQ3lITnR5cmZhSEhIYmxyanZPTGdVTUxPc0k3aHg3RFAtWHNJUFF1UVNpUWc4TU41OVhRdXMxTA?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2032,14 +2062,14 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCd2dTek4ySGNoUXBUVHNGY0d3aDJ3WjNqRllsUUlMUE1pN2NoZGFQc2NwSmlXVUsxdndtSkowd3VYRGJkWTRsVVdxMl9yQkcxTVdDYTZEOA?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnpzUlVSc1YtZDlXazNFODN6REJfWldQNkg0N3BtdHFkbWlEWjkyNnFZb2JHbHRSYVpzRUhGOVVOMWNYT0dMblpzc0VGRlh3cjlYMDBUdjRkcDUwc0hFaEpWTXN6dkpRb24teGJSWFRON2RrYUlBc3ZIcFg0ZU1RZ0MzNzNhQzdySmhCNzRCaFI3YVE?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
-      "title": "Great Waves will be redeveloped. - Annandale Today",
-      "desc": "Great Waves will be redeveloped. &nbsp;&nbsp; Annandale Today",
-      "date": "2026-11-13T13:00:00+00:00",
+      "title": "New York - Sports, Recreation, Outdoors - Britannica",
+      "desc": "New York - Sports, Recreation, Outdoors &nbsp;&nbsp; Britannica",
+      "date": "2026-11-14T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUnpzUlVSc1YtZDlXazNFODN6REJfWldQNkg0N3BtdHFkbWlEWjkyNnFZb2JHbHRSYVpzRUhGOVVOMWNYT0dMblpzc0VGRlh3cjlYMDBUdjRkcDUwc0hFaEpWTXN6dkpRb24teGJSWFRON2RrYUlBc3ZIcFg0ZU1RZ0MzNzNhQzdySmhCNzRCaFI3YVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWxaV0JXSk1GZjJ1cmk0a2NVd04wdXhYYnotQlJ0N1Z0MzdNd21QNXlkN2VTUkpwRFNIcXdVZ1BDZ2sxM1IzczNBdXBsSG9qcEdybmNCTjdUQWdzc0RCUzFjeHRfY0FLYzRvU1l0eTdqZmlvNElacmRYZWQxbk1oSlhfbnJtVVJieThUQXhR?oc=5",
@@ -2062,26 +2092,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTlPNTQtVFRRbUwyUVN5bmlNRXR5YkRNemY3TDRsNmhVaHNPXzdxTnhreUxXUHpsWnJ2d080ajJHdkJtQ3hFcDhndk14TUJ2MW45MHRyWGt3QW5mZVMyVkhLRHJ2YnN2ZkFCd1o2NXhWWjg3U002R0ppUXllQkx1S2s2a0lGenlqTjhpRFB4YWxDVUlIWTBKdFc2RWg1VXBYVmVacmNDR2N0NXNXSk4tTWtjZUdwTlVkaUZj?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Clinton’s recreation complex gets good rating by tri-state players - The Laurens County Advertiser",
-      "desc": "Clinton’s recreation complex gets good rating by tri-state players &nbsp;&nbsp; The Laurens County Advertiser",
-      "date": "2026-11-12T23:42:45+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZVRWaDI1X2xocUtLNG5MYmVzczJWUWs3TkRzaF9jVkhyazVhcURZa0JBS3owRk10dTJVTkM3eVJtVnJpMi1vY2pUb01QcDR6a0JEZlpmV0xVZlhrLV80R1pNeFlaVU10S0N2RGlkTTF5RDl0ajVpLUpPV1hVLUd2NHh1eVBkTWV6WENDaHQzNlBtVzB2Q0c5VkJqUWp4cjNnMkxzXzFCNk5PX2JwaUdHSTZVdy0zNlMyejg2bXIyUjdQc0NEVzZzWHFzUDJBbTUzQWpJb2g3bHVMbUhtcC16a1NZZkF4U1BJRm15YmhzbTVuSmprSExtQTZFZ05fbmlIQWplcA?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Alexandria leaders defend private talks for $117M sports complex - WUSA9",
-      "desc": "Alexandria leaders defend private talks for $117M sports complex &nbsp;&nbsp; WUSA9",
-      "date": "2026-11-12T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZVRWaDI1X2xocUtLNG5MYmVzczJWUWs3TkRzaF9jVkhyazVhcURZa0JBS3owRk10dTJVTkM3eVJtVnJpMi1vY2pUb01QcDR6a0JEZlpmV0xVZlhrLV80R1pNeFlaVU10S0N2RGlkTTF5RDl0ajVpLUpPV1hVLUd2NHh1eVBkTWV6WENDaHQzNlBtVzB2Q0c5VkJqUWp4cjNnMkxzXzFCNk5PX2JwaUdHSTZVdy0zNlMyejg2bXIyUjdQc0NEVzZzWHFzUDJBbTUzQWpJb2g3bHVMbUhtcC16a1NZZkF4U1BJRm15YmhzbTVuSmprSExtQTZFZ05fbmlIQWplcA?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlc4MEwwUVFjZ3pkTWFnTlJVR0hYbUExMmJ0SkJIdlhtZDFlVk5SbUdmbmRUbnlLTm5BcEZlM2VzMjUyRU4zSWc2Si1GU0lBNjBvREtydHhVRDJnWDBsZWZrN0ZiTnd4Y1VGOTBCTzZ0UFZVUVI0UEsxVEJMb1pjYkJjTkQxQk5IdncwQW1Ic0V4SFFMa0NsM0J2eGxWbHViUnhPc1R2Q2lqeUhEWGlVUDNQQ3dUMU5NWmd1WWFTYldoa2tkcXFGbHo4MGdWZTBhdDE2QUpuQXc1cHBzSVE?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2090,16 +2100,6 @@
       "date": "2026-11-12T06:20:05+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlc4MEwwUVFjZ3pkTWFnTlJVR0hYbUExMmJ0SkJIdlhtZDFlVk5SbUdmbmRUbnlLTm5BcEZlM2VzMjUyRU4zSWc2Si1GU0lBNjBvREtydHhVRDJnWDBsZWZrN0ZiTnd4Y1VGOTBCTzZ0UFZVUVI0UEsxVEJMb1pjYkJjTkQxQk5IdncwQW1Ic0V4SFFMa0NsM0J2eGxWbHViUnhPc1R2Q2lqeUhEWGlVUDNQQ3dUMU5NWmd1WWFTYldoa2tkcXFGbHo4MGdWZTBhdDE2QUpuQXc1cHBzSVE?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaV80cENDNGwxdUxWMVozNFo1dG1YT0VGdkdmQlh0c3l0RVhpU25ud1lmalVBZnJiNnFVbndhUUM4YlNJS0RXczY5VU90MlhRZ2lfR1NCNGZNVnFTYTFUVkRQNjctTjFPelNCNVFmMkctaFFGdGZOWWQxMWlwQzFYc3N5ajFSc29lSVhKZzBMYlJZaXBFVWJ5dWkwcnNOcjZ5RkI0aXR2UQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Kyle Parks and Recreation director shares hopes for the city - Hays Free Press",
-      "desc": "Kyle Parks and Recreation director shares hopes for the city &nbsp;&nbsp; Hays Free Press",
-      "date": "2026-11-11T21:20:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaV80cENDNGwxdUxWMVozNFo1dG1YT0VGdkdmQlh0c3l0RVhpU25ud1lmalVBZnJiNnFVbndhUUM4YlNJS0RXczY5VU90MlhRZ2lfR1NCNGZNVnFTYTFUVkRQNjctTjFPelNCNVFmMkctaFFGdGZOWWQxMWlwQzFYc3N5ajFSc29lSVhKZzBMYlJZaXBFVWJ5dWkwcnNOcjZ5RkI0aXR2UQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbG9OSlpDUDFNbjhBa2RnQl8xbVg5YzBkWThVbHRscEVwTG5Ndm91SW9SME5OdmkwRlhPWDFZTjdTbjEtNFYwRVNIWl94enp5czhHNGJUQ3o5bDJZYTVXOGxfamVHalZDRGUxQnBXU2J6WlRGNlZ1QWUya3Jjdjk4b3RYc3RfVW4wWW9TVFZZbTZrZHpWbVE?oc=5",
@@ -2112,34 +2112,14 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbG9OSlpDUDFNbjhBa2RnQl8xbVg5YzBkWThVbHRscEVwTG5Ndm91SW9SME5OdmkwRlhPWDFZTjdTbjEtNFYwRVNIWl94enp5czhHNGJUQ3o5bDJZYTVXOGxfamVHalZDRGUxQnBXU2J6WlRGNlZ1QWUya3Jjdjk4b3RYc3RfVW4wWW9TVFZZbTZrZHpWbVE?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUF1cEtUNEJfanA5ZGtnVjg0VHUzVjZZb0ZVbHpuMnpMN1YxdmxSeEZEWXg2c1JkeTJvV1N2aENDWWxwdkJZNF9La0dBNFV3dzh4eHFISERtSDBNRzBQYlB6MFRDYUkwMnl4cnZkRDRxTnBMUEJ6SkEyTGhodmQyeEIwR0VDd2Z3N1B0Q0FZdXpYOE5OeXdEMHBfcVJieGJFQWtjTUR1YVEyZw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2RIVldsaFVXV2F4NzItSFdNQW9LQXBZNGxPUlNVUkgzTWh2SUE0ZzE5XzZkaE5sMEZMSl9tTzlZZmJGVWF4TDZzWFJHT2pnSmJzZjVLYzgyV1VoSUkxWGx0aFJFbXhVX3F2N1hsR3ZhV29fVmh6LURoUkE5Y3o3V015UUJkR0k2eW9jdXRQc1BuRGR5Wm1lUg?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
-      "title": "Alexandria Proposes $117M Year-Round Sports Complex at Cameron Run - Alexandria Living Magazine",
-      "desc": "Alexandria Proposes $117M Year-Round Sports Complex at Cameron Run &nbsp;&nbsp; Alexandria Living Magazine",
+      "title": "Fitness and Recreational Sports Centers Market Size, 2034 - Fortune Business Insights",
+      "desc": "Fitness and Recreational Sports Centers Market Size, 2034 &nbsp;&nbsp; Fortune Business Insights",
       "date": "2026-11-11T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUF1cEtUNEJfanA5ZGtnVjg0VHUzVjZZb0ZVbHpuMnpMN1YxdmxSeEZEWXg2c1JkeTJvV1N2aENDWWxwdkJZNF9La0dBNFV3dzh4eHFISERtSDBNRzBQYlB6MFRDYUkwMnl4cnZkRDRxTnBMUEJ6SkEyTGhodmQyeEIwR0VDd2Z3N1B0Q0FZdXpYOE5OeXdEMHBfcVJieGJFQWtjTUR1YVEyZw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDg5TmR1SEc3TVV3UVZEUF84X0pTenpDZV9YSFJqOEY2SC1EbEtCUXhmLVpKWkF4aTdPOU1HQkRuU0YzdkNfQ0R6UU0tMVNpZWExWDdKV01yMmVwaGwxYlduVWRZSUI0Vlg5b2VsMTN4VXF0REg2NlJVLTNwSlVuSGUwazZDQWpHallocEw5eDA0d0NORkJQMTBVSmQxTEY0YTNyVGIzM3dtMXdBeDBrY1JTUFE0dmZLNzNZM05fY3NjV2NVSThnN000Zw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Proposed indoor sports complex at Alexandria park, could bring an end to ice rink, mini golf, Great Waves Waterpark and more - WUSA9",
-      "desc": "Proposed indoor sports complex at Alexandria park, could bring an end to ice rink, mini golf, Great Waves Waterpark and more &nbsp;&nbsp; WUSA9",
-      "date": "2026-11-11T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDg5TmR1SEc3TVV3UVZEUF84X0pTenpDZV9YSFJqOEY2SC1EbEtCUXhmLVpKWkF4aTdPOU1HQkRuU0YzdkNfQ0R6UU0tMVNpZWExWDdKV01yMmVwaGwxYlduVWRZSUI0Vlg5b2VsMTN4VXF0REg2NlJVLTNwSlVuSGUwazZDQWpHallocEw5eDA0d0NORkJQMTBVSmQxTEY0YTNyVGIzM3dtMXdBeDBrY1JTUFE0dmZLNzNZM05fY3NjV2NVSThnN000Zw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHdZeC1tOEV5ZkxDb0dYVVdWYTFmOXU1dEw1WUtWNXN6ZThQckJsRkhjQXp1VVYtaE1BUHlJektSZWZlMjNENFVheHZNd0F4RDZwVnFxR3ZpUGdfNV84M3hkUWtCdm5fazZHbjJUak5DRnNXQ00yczRwX2p6elZzdTlPczZLbGhFbnF4Wm1FZFVla1htQVJSWlQtOHBId2dXLURiWEFKbmpfcVBvNkZHOV96X0lzZVFSemVVNVlmRDE?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Albert Lea's new recreation manager sees potential for expanded opportunities - Albert Lea Tribune",
-      "desc": "Albert Lea's new recreation manager sees potential for expanded opportunities &nbsp;&nbsp; Albert Lea Tribune",
-      "date": "2026-11-11T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHdZeC1tOEV5ZkxDb0dYVVdWYTFmOXU1dEw1WUtWNXN6ZThQckJsRkhjQXp1VVYtaE1BUHlJektSZWZlMjNENFVheHZNd0F4RDZwVnFxR3ZpUGdfNV84M3hkUWtCdm5fazZHbjJUak5DRnNXQ00yczRwX2p6elZzdTlPczZLbGhFbnF4Wm1FZFVla1htQVJSWlQtOHBId2dXLURiWEFKbmpfcVBvNkZHOV96X0lzZVFSemVVNVlmRDE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2RIVldsaFVXV2F4NzItSFdNQW9LQXBZNGxPUlNVUkgzTWh2SUE0ZzE5XzZkaE5sMEZMSl9tTzlZZmJGVWF4TDZzWFJHT2pnSmJzZjVLYzgyV1VoSUkxWGx0aFJFbXhVX3F2N1hsR3ZhV29fVmh6LURoUkE5Y3o3V015UUJkR0k2eW9jdXRQc1BuRGR5Wm1lUg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03d0I1YThkMUNNRy1FWTZiMTFRUW44dmJJY09SU0lTOTgteGVlNlV3UHhNNmQ5QV9nS2FTZEdEZjF6dXRQUFBPaURXenZYb08tSTN4XzQxOFhiMUxY?oc=5",
@@ -2192,16 +2172,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEV5dnB4SFJaV2dRaE9JazExVzRidFlVVGtlckNkQ3hOc3Y4SU5veXliMXJfbVYxSjB1djhqcW1aMGpDNzBLWEhsTi1PZnJOTEtLWWJPZ3lpMTVjYzBTNjV3NWFWSjMyZFpfelVfUjUycGExYVdZa3ZHOXROS3ZCZDl4OTN2QzBRdEV4QWhn?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSkNyZGJEVmJ0a0wtdXlQdFI2QXlTTnllblliNW5STHNCTzNyOVZjRW9hczdEcndRVkM0bHhVaUxBbm1Eay02WFNTWGczanNUV3JsbFNlQllfWmlCR3JBUHZjd2M2aXpzd0lheTFDc0dFQmd6S2lJ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Alexandria Unveils $117 Million Sports Complex Plan to Boost Economy and Expand Youth Opportunities - The Zebra",
-      "desc": "Alexandria Unveils $117 Million Sports Complex Plan to Boost Economy and Expand Youth Opportunities &nbsp;&nbsp; The Zebra",
-      "date": "2026-11-10T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSkNyZGJEVmJ0a0wtdXlQdFI2QXlTTnllblliNW5STHNCTzNyOVZjRW9hczdEcndRVkM0bHhVaUxBbm1Eay02WFNTWGczanNUV3JsbFNlQllfWmlCR3JBUHZjd2M2aXpzd0lheTFDc0dFQmd6S2lJ?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajFlVXJsVkJBS3REV3hFSjA0X0NmbG4tNTZxVXpNMjdpT1M3WG5iTWZGMTVEWjlqSENXcU5EdlkwSS1mSGpUM1JuUWZyRHpPV1JucFNWeDF5c042d1lFc2JRNUxlczZzQ2txTnVnXzVGUE9xLWhxYXI1TzRkemVOUXdxcVNSZ0hrU25Nbk1n?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2242,16 +2212,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LZ3pxbXRzb0NjMXIzS0tlNER3V2dNWUp4UXhuMEF5bGVTZmlsaDNfcTJtdjZsM1RmNThVVzl1NUFvLVdYcWE0YzJSVExCeVE1Umd3dFNkQ2NpUE9XZW12YlpUTzNqeWhYUl9NNXd6czdNdG8?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHZZMWNnQVdSVjlSVVlfSzF6OHplblh6MlVST3NJWjJUOXVWc0ltZmd3MmdyTDdwdWpBV2dqclVUajJOTzh6WTJDbnJTYVJqTEhNdS05Njd6Rnlqc2J4bHl0R1lmNm1oTk5MWmtja0padlFfVVBTeWs5WnZBSnp1MllaamYxNVU0YXhMcjdqd19iREcxU3JySTVpc0JvakZrNlk5WUlvRzJOZTktR0o5MEs3LUJkWS1DRGkwcm12dllJeDJOQ0M1STNRUUY0UQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Leader tapped for Sina Sports Complex in Colonial Heights as zoning review kicks off - Richmond BizSense",
-      "desc": "Leader tapped for Sina Sports Complex in Colonial Heights as zoning review kicks off &nbsp;&nbsp; Richmond BizSense",
-      "date": "2026-11-09T07:02:09+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHZZMWNnQVdSVjlSVVlfSzF6OHplblh6MlVST3NJWjJUOXVWc0ltZmd3MmdyTDdwdWpBV2dqclVUajJOTzh6WTJDbnJTYVJqTEhNdS05Njd6Rnlqc2J4bHl0R1lmNm1oTk5MWmtja0padlFfVVBTeWs5WnZBSnp1MllaamYxNVU0YXhMcjdqd19iREcxU3JySTVpc0JvakZrNlk5WUlvRzJOZTktR0o5MEs3LUJkWS1DRGkwcm12dllJeDJOQ0M1STNRUUY0UQ?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDZZcEpSRUZvSXpTSnNDYXBxb0NyZWdDTWN1RDhyUkR1LUlGaG9mUWNGQktIaXJMRmFvdlRiMW9Rdm8xWS1IQ3VYb21BVkxTeUMxc1Z6OGpzanl5dV94LVo4M3pMMjlxYVlQeTlDbVdvX0duaTVqLTJwRDluZ0NJXy1BYXdPY1ZUUFQ4bk5nYTRYQzRXUmppVHRhYmhaaEFfcWdiMlZPLWVfZ2xUNUw2c2JBNHdyeXc?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2270,26 +2230,6 @@
       "date": "2026-11-07T08:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTjlSWlRTcWRkUHZETmFlbjFmd0lpa3FqRUpFeHROMENrNXAzZXlxcVFYdnhOd3RydGhNZXhucUFaY3ZoRGZ4SGJ1QnlRbkpWMjBSTWprcWt4REZPWUl1MWUxYUdhVV9RTEtOUERhV3pRSkJRVm1UTWg4OGM2aEszY3RIZ1FTUFNzLVQwX2FzWmRPVmVjVmpwWmVBZzkzaWJnSFA4NDFqbnR2R3Fwekh5cU1xMkFjOV9nM1V1SVp4WTF5VENHdWxTV3BqS0lhcEhOa0k2Uw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMS1JbGt6QUdfM1NTZG9hQklpQnQyX2Y3M0RXQkNDa3BLZnRkWlVIZmRDUVJnVEwwZXd2U0E0Nl9TOWc0UFk4ZUpNLWkzajdLSFppMnJwTkNHcF9hcGpRdFNvZUlBSzAwMmtCU01fWnRlLUtqcDg5c0RRcTIxZFZldlN2YTZOX2QwYk84SnZKaVFYYzgtS3lxMnpOZmVwR3JpYkdBNzJ2a3hnbTVCS29GOHcwWGNFMk9GTWdN?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "A $5 million MIDA sports complex is underway near Wasatch County’s Jordanelle area - Park Record",
-      "desc": "A $5 million MIDA sports complex is underway near Wasatch County’s Jordanelle area &nbsp;&nbsp; Park Record",
-      "date": "2026-11-06T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMS1JbGt6QUdfM1NTZG9hQklpQnQyX2Y3M0RXQkNDa3BLZnRkWlVIZmRDUVJnVEwwZXd2U0E0Nl9TOWc0UFk4ZUpNLWkzajdLSFppMnJwTkNHcF9hcGpRdFNvZUlBSzAwMmtCU01fWnRlLUtqcDg5c0RRcTIxZFZldlN2YTZOX2QwYk84SnZKaVFYYzgtS3lxMnpOZmVwR3JpYkdBNzJ2a3hnbTVCS29GOHcwWGNFMk9GTWdN?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzFEYUVlYXlaWUJkTHhCeDZRQ1o2ME94UFlzSmNvckJGa21rZHNmOWNlUkhrUWlkNHg4TFFiRFRXVjRpOUNaMml6TWFrNi1LQVlXcXQ1S1BuSkNYQkJ6UDF1d2F0UTNoRjNwM2JmWS12Z1JoVU96MDZRaHowMlc1c1cxNWd6STg1LWowOU1odVFLQ3N4OS1NWnN2czd6eV8ydkE?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Are Canada's aging sports facilities limiting development of the next Summer McIntosh? - CBC",
-      "desc": "Are Canada's aging sports facilities limiting development of the next Summer McIntosh? &nbsp;&nbsp; CBC",
-      "date": "2026-11-06T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzFEYUVlYXlaWUJkTHhCeDZRQ1o2ME94UFlzSmNvckJGa21rZHNmOWNlUkhrUWlkNHg4TFFiRFRXVjRpOUNaMml6TWFrNi1LQVlXcXQ1S1BuSkNYQkJ6UDF1d2F0UTNoRjNwM2JmWS12Z1JoVU96MDZRaHowMlc1c1cxNWd6STg1LWowOU1odVFLQ3N4OS1NWnN2czd6eV8ydkE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmgtTWlnaG1ySlhYWkV2YUhZYUN1X0VELWVWR2tvOGFWZG9ldkdvVUViYzcxRVBvbnRrTm9MM1M5bHAtaVd2cGl6dHZxNEM0TGJLYnlQaEFCUE5NWEhjdnE3cWNLUlZoQm1JQ29Sd1NfVng0NWdFOGFibnlmblVNSHExNlZvLXphNmVr?oc=5",
@@ -2322,14 +2262,24 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFd0VFlsMW82T05LVHlLM3NYU19mczN4RDRaUDN6NGhQaGdTNTA3OXgzVUQ0aFY2c25LM2NXcnpjRUIxaTdsTW4tYThWU1FId1MxNW9GRzVvbV9Vb0xfNzV6VDB6VFRoU0tKZlgyM2lmTlVOTEUzMk91YkN6TlVVbmN4ZDdqMmtHTDdZNUdMS1RqaUZkcEJlUFJoeWRtVjRzVDAxbkw4NUlEUHFuN0E?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlg0cDNQU01vSUpLbHNob0JYQlREMFVOQzl2WDM0aDE1YnRBSXpUc1FGM21ZRGxCZ1R3djBKUFo0Rno3UlBtUGFvczVCdFFlcWlMc09aLXRuTTA2aTItbDJrVmZZcS04Y0loYUJlejhWVEtUbm43ZmhsZ3lpa2twQXRWeVlOVmtQMHJrOWVJaE13Y0U?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMUR0RkdkMktQcU9vSi1Bc3FnTkRzRlhxMFdUZDdOQW1aWHlPdWJkejFPRXY1MW9kVFF6VGpzd3RZVkNFTFFTUGV6ejFPOUNBbkkxVFFhaFNTSHZkLTlWVWxObkE2TTctSHlJRTYwdw?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
-      "title": "Business Insights | The Youth Sports Facilities Boom - CBRE",
-      "desc": "Business Insights | The Youth Sports Facilities Boom &nbsp;&nbsp; CBRE",
+      "title": "Research and policy - Recreation - The City of Calgary",
+      "desc": "Research and policy - Recreation &nbsp;&nbsp; The City of Calgary",
       "date": "2026-11-04T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlg0cDNQU01vSUpLbHNob0JYQlREMFVOQzl2WDM0aDE1YnRBSXpUc1FGM21ZRGxCZ1R3djBKUFo0Rno3UlBtUGFvczVCdFFlcWlMc09aLXRuTTA2aTItbDJrVmZZcS04Y0loYUJlejhWVEtUbm43ZmhsZ3lpa2twQXRWeVlOVmtQMHJrOWVJaE13Y0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMUR0RkdkMktQcU9vSi1Bc3FnTkRzRlhxMFdUZDdOQW1aWHlPdWJkejFPRXY1MW9kVFF6VGpzd3RZVkNFTFFTUGV6ejFPOUNBbkkxVFFhaFNTSHZkLTlWVWxObkE2TTctSHlJRTYwdw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd0lNWEVtMTJrWGltMmRPb3Q1M0VOLVUyLUU0a1BhYkhmZWl6Qm1HOUVtRFdXWkg5WWRwSDRXVmJyOGNmNm0tcG5DNVhDRVBoZkl5TmlhTktrNmRFNi1UV1FRazVfSXpDZFFCQ1RTUFc?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Foothills Multisport Fieldhouse and Athletic Park redevelopment - The City of Calgary",
+      "desc": "Foothills Multisport Fieldhouse and Athletic Park redevelopment &nbsp;&nbsp; The City of Calgary",
+      "date": "2026-11-04T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd0lNWEVtMTJrWGltMmRPb3Q1M0VOLVUyLUU0a1BhYkhmZWl6Qm1HOUVtRFdXWkg5WWRwSDRXVmJyOGNmNm0tcG5DNVhDRVBoZkl5TmlhTktrNmRFNi1UV1FRazVfSXpDZFFCQ1RTUFc?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXVqX3BxR1VuSDdnd1FMNEJOc3ZSbm94bkw0Qjl4TW9ubFF2XzhwNmNvOHYyNUEwZ3p6RVd6aXZWNThzcnN6WnlqSjRiNkVNVzR1cXlvYURCdS00Njd5bFlWdFBqR1dQN1hjZDMxU1dnbWVqbHEtR00zZjItZDJhcTIzLUlkYXRidjU4ZXdScGI?oc=5",
@@ -2382,6 +2332,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDVmTTZlOElXZ1h1bi1mdjNkZFlBVEF3YUxxRGJCS2xaRFRBNUVvN2l0NVJyR2RxbGR5dG41RldtOHpsQzVZMEktcTZFdEJNNmlkUUxvS2doLS1KN1FwRnVJdmNqR0JydGNBS3dVRjlhT3pGbWdlSXRLUGZsci1vYXIxVmVsbmlCNnhIUm1YdlFLQkh4dEc1b215SGdBeWxCRHlHM1RSX2ROSDhjUktRU1lYczd2dk9Rck92eUU0R0ItcnFxdDV1ekZTbks5M0ZfcnFCWHFpUW82R0dob2xaQmVIeFQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0tFcXpXZXExUUZrakVhbHJGaEFtazdxSGI5Y1Bld2RUV0tvUDVSS0dkdUk0b0g2aFAxTnJfVWxfd2p1OXdOdHJhMGNFWG5raktLR0x4Q3VfZw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Tutkimus | Syöpä sai perheenäidin aloittamaan säännöllisen liikunnan - HS.fi",
+      "desc": "Tutkimus | Syöpä sai perheenäidin aloittamaan säännöllisen liikunnan &nbsp;&nbsp; HS.fi",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0tFcXpXZXExUUZrakVhbHJGaEFtazdxSGI5Y1Bld2RUV0tvUDVSS0dkdUk0b0g2aFAxTnJfVWxfd2p1OXdOdHJhMGNFWG5raktLR0x4Q3VfZw?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHRWVnA5eVkxekppOGJySWNEYzZLYVpGOTVLcTlnSjdhcXBZRnJiU05nSk1zRFBaZ1V0NEJjTUdjNkFxMEhVb0JjaFROZ05LaVliNkNtN0RDSlllMDlHeXFWX2R0QnZsMnFJV0w0RDRvOHhhSEVVVUozd3l5dnJ6UTNxNU81OXNnQlFpZGtMQXd3R2hfZ0pfdzllT2pHTkJDS1hwWA?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2402,54 +2362,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4akVfQzBJc2NqSnRfZkh2dmpTVUhzTjF2cFZOZkEwY1VrTkFTODgyUVF2X1p5LV9sRWRSejBwQ210dFh0ak5OLTFualV5TGxhNWRndkplQ1lHN21IZGpndTlkM2JrcEY5SGJSSjlGbGlSRS10QnREQ3pR?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkdyeER4OTE3RExOUWo0WGtQYld5RlJOUDhUbDhGaE9OMXlERy02RnBiVUpyVGN5SXd3dkNldVdSRXZzS1dGS1JPdUluTFRaTTFYbHQ4UkRXU0dPVVJhS1QwUTd6b21zYUVKdTNwZkJMV1dNTWNEbWJmTkFJT1dpTUFSWVQzQQ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "How Fit Is Macao? Physical Fitness Trends From 20 Years of Data - University of Macau",
-      "desc": "How Fit Is Macao? Physical Fitness Trends From 20 Years of Data &nbsp;&nbsp; University of Macau",
-      "date": "2026-11-02T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkdyeER4OTE3RExOUWo0WGtQYld5RlJOUDhUbDhGaE9OMXlERy02RnBiVUpyVGN5SXd3dkNldVdSRXZzS1dGS1JPdUluTFRaTTFYbHQ4UkRXU0dPVVJhS1QwUTd6b21zYUVKdTNwZkJMV1dNTWNEbWJmTkFJT1dpTUFSWVQzQQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE12S3VDOW9hVlRwRVlQdk5jSlI2QWxvYUlXbXZjc0VRZ0JzR1pLOW5vY2F3VTl1UDA0QVpDRUlRdU5VbFFiNEZmMk5oVnRfTnJVSE0tbmxfa0taUnZRcXFRR0Y0UWlGMm43RlJGMnFCVkhDYWR1bkFxVFJGckpLSlhMVjJRejcwQUFnMElGcXY3NkdWUkc3RlB1TkhLUEFhV0lkZGVrNTJiN09YbzQ0NDVGSDUtRV9WNW9GaHJFNA?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjBoQTJZV1VXTllrWVJRLS1iN0tDYmI4T2N0RkxvM1dJNkFyVlpIQW5GczZtWjd6N21MR1V3dVRGaXNmQzd1akJBMllwcHY2Yml0U1dtdjMyR2NiS25rMk5MM2ctR2RMQ2hkTW96SENObE1zQ1BJblFfVTZlYXZXTDkzQU5OUjZJMTM4eV9IZXhydFVjSGM1OGl3?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
-      "title": "Ashley Whittaker: Whatever happens with Amendment 3, Florida’s parks need a plan - Florida Politics",
-      "desc": "Ashley Whittaker: Whatever happens with Amendment 3, Florida’s parks need a plan &nbsp;&nbsp; Florida Politics",
-      "date": "2026-11-01T07:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE12S3VDOW9hVlRwRVlQdk5jSlI2QWxvYUlXbXZjc0VRZ0JzR1pLOW5vY2F3VTl1UDA0QVpDRUlRdU5VbFFiNEZmMk5oVnRfTnJVSE0tbmxfa0taUnZRcXFRR0Y0UWlGMm43RlJGMnFCVkhDYWR1bkFxVFJGckpLSlhMVjJRejcwQUFnMElGcXY3NkdWUkc3RlB1TkhLUEFhV0lkZGVrNTJiN09YbzQ0NDVGSDUtRV9WNW9GaHJFNA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWw3ZDdhMkJIUTdXb252eGFiVzlLYnJZMmtlOWlFUVgyMWx3VkJfcVJJN1ViLTBJWWg5SzVad2hDdnkteDlmaGJwZGR5MWh2R1JZUjR0TkVsUDNBejZnam91d1JWTjVwRjhXU3d1dWpJUnJsaTNvRlRTbnlYbjhOdVRzd1lKZnVQTU54TUVscHVsbWpjdEJIWEJvMkVYcUgwU1B5SDVqSEZQdTl6Qkt2U1RSLWRkMGhMV0kzZ2ZJdC1uVlk1eVVj?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Jasper, Drummond Co. exploring sports complex - MountainEagle.com",
-      "desc": "Jasper, Drummond Co. exploring sports complex &nbsp;&nbsp; MountainEagle.com",
-      "date": "2026-10-31T07:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUWw3ZDdhMkJIUTdXb252eGFiVzlLYnJZMmtlOWlFUVgyMWx3VkJfcVJJN1ViLTBJWWg5SzVad2hDdnkteDlmaGJwZGR5MWh2R1JZUjR0TkVsUDNBejZnam91d1JWTjVwRjhXU3d1dWpJUnJsaTNvRlRTbnlYbjhOdVRzd1lKZnVQTU54TUVscHVsbWpjdEJIWEJvMkVYcUgwU1B5SDVqSEZQdTl6Qkt2U1RSLWRkMGhMV0kzZ2ZJdC1uVlk1eVVj?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTBsTnA3V0ZRNkRjSVdnMVVLb0tqSzNfRWtBbllSak5aT2lKSHR3QnBhY3pZWnU4eTdZX09RSGVxWUk5a2ZZdU9TdElTRDdJMkt6bWlYN0JTbmJKM1BZYjQ5Wm9DOVYtX3BGaXpNMzk4Xzl6Y3k4bkFEeF9zSkxqSjU4ZkxTTXZHb205V3NEdG1CMU1Nc1o3WWRDb2ZOLTN1UlBUaTJkNkpORWxNa29LMERSR3ByRlBFVDlpeQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "What’s planned for the former Sports City property with Ever Grain Brewing - PennLive.com",
-      "desc": "What’s planned for the former Sports City property with Ever Grain Brewing &nbsp;&nbsp; PennLive.com",
+      "title": "JMU students take center stage at 2026 FIFA Men’s World Cup - James Madison University - JMU",
+      "desc": "JMU students take center stage at 2026 FIFA Men’s World Cup &nbsp;&nbsp; James Madison University - JMU",
       "date": "2026-10-30T07:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWTBsTnA3V0ZRNkRjSVdnMVVLb0tqSzNfRWtBbllSak5aT2lKSHR3QnBhY3pZWnU4eTdZX09RSGVxWUk5a2ZZdU9TdElTRDdJMkt6bWlYN0JTbmJKM1BZYjQ5Wm9DOVYtX3BGaXpNMzk4Xzl6Y3k4bkFEeF9zSkxqSjU4ZkxTTXZHb205V3NEdG1CMU1Nc1o3WWRDb2ZOLTN1UlBUaTJkNkpORWxNa29LMERSR3ByRlBFVDlpeQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUxVdG9GOUFrem5IQ3cydWdiaUFnV3hacVYtZW9RbzBrTktRc2NGejBSWWZlVW1wY09SXzhiaU5NNzZfdkkwVWhCRW0yTXBuUnJ0c21VU0hPSE1NT0xNRWw2RXJNMGNIaWdHaFNubEhZNDZlQmlqMUF5Q3VUbnU2ZnhoWVp2eW14U1RUbGYycUtlRzM5Z2hZ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "SPI breaks ground on $2.3M Water Sports Park - Port Isabel-South Padre Press",
-      "desc": "SPI breaks ground on $2.3M Water Sports Park &nbsp;&nbsp; Port Isabel-South Padre Press",
-      "date": "2026-10-29T07:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUxVdG9GOUFrem5IQ3cydWdiaUFnV3hacVYtZW9RbzBrTktRc2NGejBSWWZlVW1wY09SXzhiaU5NNzZfdkkwVWhCRW0yTXBuUnJ0c21VU0hPSE1NT0xNRWw2RXJNMGNIaWdHaFNubEhZNDZlQmlqMUF5Q3VUbnU2ZnhoWVp2eW14U1RUbGYycUtlRzM5Z2hZ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjBoQTJZV1VXTllrWVJRLS1iN0tDYmI4T2N0RkxvM1dJNkFyVlpIQW5GczZtWjd6N21MR1V3dVRGaXNmQzd1akJBMllwcHY2Yml0U1dtdjMyR2NiS25rMk5MM2ctR2RMQ2hkTW96SENObE1zQ1BJblFfVTZlYXZXTDkzQU5OUjZJMTM4eV9IZXhydFVjSGM1OGl3?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW1RWEs2c1ZFbG1CR2dXa0NwejdBYzNfV3NnYjZZWHAta3lmRnpEM1RHSTZmamloeVYzTC1kRklfVzA3OEZuN1lPWWFJeTJETmJTRm40Z2lLcjdLMFZPdVMwc0FULWlnd0xobS1NdGt2OE5XVWYzcTBPTUNoV1l2NnpqS0FDTDBDSHVZTERyRWZ1Y3l6bmZYSnBqMFRZVDc4TGJHdDFVaFhnbmxPNnZKSGhUbS1ycmU0?oc=5",
@@ -2500,6 +2420,86 @@
       "date": "2026-10-28T07:00:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0J3REJ3bmwxdmpfZGNtY05EZkxLS19MamptRl91N3U0U01qTHJDMFo5S0dWZ2F1TkQ1MGtGLVNYYzJaZjJ1VGVkYVlhVEIyQ3VBMENGbTBBZThNN0dMNS1VUDhCSFkzbnlEUUdGbkJoajJQWGlid2hJVEJ0UDNYSkhIZVFfa2ZMWnJxZnVBRTZwcEdaR3FDNjFHcUgtQ2VRaDZ6T1JIUQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNNllGNDNxY2dpcHI0YnBhS21DUWtmSlJFTHJpZmQ3UTgtQ2U1dUJMbVFQMTBBOEYteURNai1BblBJQTZ3WTlSUXhtbjNrTThwWXZLVXcydk5LUnMyUGtGb1VlZFN3MTk3bWNZel8xRzQyYXRUWWxOV2p0Z19tWUIyZUlJdlBZUGU3QnRnQ2JfdUdxUi1EVC1ZZzJud0xsai1TU0Z3WGRCWUVGWmV6U1JFMEY3dG9DQkNKcDdGNVhmd0t1N3dQS2tGcG9td1dueTVLMXZzNW9NbERxUDVpemVLR3J6Qnp2RXpCMjdRN04taVg3b0RBdzhqN2xTQkpkalo3REVYQTFwWnc5MWd0dENLZzRHZ3llSGY0SWV0T0RKWXdnclMtdkVWaHV2bldWdE5HUVlwTnlOR3lidw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Research report: Accelerometer-derived moderate-to-vigorous-intensity - Bioengineer.org",
+      "desc": "Research report: Accelerometer-derived moderate-to-vigorous-intensity &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-10-28T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNNllGNDNxY2dpcHI0YnBhS21DUWtmSlJFTHJpZmQ3UTgtQ2U1dUJMbVFQMTBBOEYteURNai1BblBJQTZ3WTlSUXhtbjNrTThwWXZLVXcydk5LUnMyUGtGb1VlZFN3MTk3bWNZel8xRzQyYXRUWWxOV2p0Z19tWUIyZUlJdlBZUGU3QnRnQ2JfdUdxUi1EVC1ZZzJud0xsai1TU0Z3WGRCWUVGWmV6U1JFMEY3dG9DQkNKcDdGNVhmd0t1N3dQS2tGcG9td1dueTVLMXZzNW9NbERxUDVpemVLR3J6Qnp2RXpCMjdRN04taVg3b0RBdzhqN2xTQkpkalo3REVYQTFwWnc5MWd0dENLZzRHZ3llSGY0SWV0T0RKWXdnclMtdkVWaHV2bldWdE5HUVlwTnlOR3lidw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmRpNHRfUTk3QzJtR0hSLUJwRVl0SWZhYlpxc1lOZFhuMGNFWWRMNnpuVGJsNVJkdXlhMXdtMGV5cjdXQkZ3bGhaTE43b2Fjb3pZb2dPc0lOdjFRX0lWYmdja01haFJLZW1PSlFhNmxyaWcwblVRSWdsYURDTXRieXcxclkwOS12S21DOTVDSloyNF92M3M1bUdDbGdmM3l6YWlWTDdVd29oQldJN1ZOTXBoVkJENkViSGRhN290NnE0V0VsaFhFem02LUdQMzl1NVI4?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Do Strava and Zwift Challenges Really Make You Exercise More? A Study of 7,534 People Offers New Clues - TodoMountainBike",
+      "desc": "Do Strava and Zwift Challenges Really Make You Exercise More? A Study of 7,534 People Offers New Clues &nbsp;&nbsp; TodoMountainBike",
+      "date": "2026-10-27T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWmRpNHRfUTk3QzJtR0hSLUJwRVl0SWZhYlpxc1lOZFhuMGNFWWRMNnpuVGJsNVJkdXlhMXdtMGV5cjdXQkZ3bGhaTE43b2Fjb3pZb2dPc0lOdjFRX0lWYmdja01haFJLZW1PSlFhNmxyaWcwblVRSWdsYURDTXRieXcxclkwOS12S21DOTVDSloyNF92M3M1bUdDbGdmM3l6YWlWTDdVd29oQldJN1ZOTXBoVkJENkViSGRhN290NnE0V0VsaFhFem02LUdQMzl1NVI4?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3AyX3gwVUVPc0NKcEVQSU1ZdU9HcXQ1cGxQVU4wQ21pUXhZUm1jTTNBbFZoaHhZSDVQd3VUM3JnLVdFU3FRQnJ3VVU5N2pFQjFYOHFwYS1Bd3JPeDdMVjhOamVFMWpSekFCTmpHRUt6dU1PODJIVzZXNkZjdDFIbkxzX3VOQUxNaS1SZEhEVQ?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Longitudinal associations between physical activity and emotional eating among adolescents: a random-intercept cross-lagged panel study - Frontiers",
+      "desc": "Longitudinal associations between physical activity and emotional eating among adolescents: a random-intercept cross-lagged panel study &nbsp;&nbsp; Frontiers",
+      "date": "2026-10-26T09:36:22+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3AyX3gwVUVPc0NKcEVQSU1ZdU9HcXQ1cGxQVU4wQ21pUXhZUm1jTTNBbFZoaHhZSDVQd3VUM3JnLVdFU3FRQnJ3VVU5N2pFQjFYOHFwYS1Bd3JPeDdMVjhOamVFMWpSekFCTmpHRUt6dU1PODJIVzZXNkZjdDFIbkxzX3VOQUxNaS1SZEhEVQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUJsNF80Nnh6YmpybDY3Qnh1MWVKeFJobVotbVNIVTNKcnZRbHRMcHNkSXRNLVdabXU3cGd6UVFxX2lIRkYzR2NYN045ZlV1cWhrWENJbndidHk5a0Z1cDNiMEZuNkphWWVwYWV0ZWktaUVUSUR0WXdQekh0MXcxWENzbw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "2025-2026 Physical Education, Athletics, and Recreation (PEAR) Planning – Facilities - Carleton College",
+      "desc": "2025-2026 Physical Education, Athletics, and Recreation (PEAR) Planning – Facilities &nbsp;&nbsp; Carleton College",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUJsNF80Nnh6YmpybDY3Qnh1MWVKeFJobVotbVNIVTNKcnZRbHRMcHNkSXRNLVdabXU3cGd6UVFxX2lIRkYzR2NYN045ZlV1cWhrWENJbndidHk5a0Z1cDNiMEZuNkphWWVwYWV0ZWktaUVUSUR0WXdQekh0MXcxWENzbw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUhZX19fRGRaWDNjdG1YLUVzb3ZhUjRsVFBUbVFEd0RzamQyaDFiUS1KQWZQdzQ4RW9DR2g2LUlEVU9rTDgxYlhBMHRQSTRFWnBqb0NYb3cwTlZWaVR0ZG16eWYwemo1UTBuNFcyZ19lejBzMGt6U0FNUHFuQ3hXcFJranphRkdoZ3c4Skd4UmtPNndicjNWbVJFMFdIS3g3UWJEZFBudGF0Y0NzVmpxc0J6ajZrYVNYc2c?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "The Woodlands Township advances study for indoor sports facility - Community Impact",
+      "desc": "The Woodlands Township advances study for indoor sports facility &nbsp;&nbsp; Community Impact",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUhZX19fRGRaWDNjdG1YLUVzb3ZhUjRsVFBUbVFEd0RzamQyaDFiUS1KQWZQdzQ4RW9DR2g2LUlEVU9rTDgxYlhBMHRQSTRFWnBqb0NYb3cwTlZWaVR0ZG16eWYwemo1UTBuNFcyZ19lejBzMGt6U0FNUHFuQ3hXcFJranphRkdoZ3c4Skd4UmtPNndicjNWbVJFMFdIS3g3UWJEZFBudGF0Y0NzVmpxc0J6ajZrYVNYc2c?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00bmRsMGQxY1Q2UXRnNkpNaC1BM0xYcE1iWHFJZDZpcGRKMXEzeG04amRyT1hhaDh3dUdaYm01bE9iNUw5SXFPQ2Jhb2xfeEJiWVVIdHhJbVE4UEdm?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Physical activity may help buffer genetic risk for depression, study finds - EurekAlert!",
+      "desc": "Physical activity may help buffer genetic risk for depression, study finds &nbsp;&nbsp; EurekAlert!",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00bmRsMGQxY1Q2UXRnNkpNaC1BM0xYcE1iWHFJZDZpcGRKMXEzeG04amRyT1hhaDh3dUdaYm01bE9iNUw5SXFPQ2Jhb2xfeEJiWVVIdHhJbVE4UEdm?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYm5fZ1FJNVJHZ3pNdWUzNGZpTk5OODdzWUZnMUQxSjZyaUdlQ080TWtNcjNoQ0hCUHRkdUxyVzJVNE1rampnb1UxN1FmYzlpc2J1NmtmM01sZFZOSkQwemhPb3JjYU53bFR6MGVXOA?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Exercise doesn't just strengthen your heart. It rewires it - Science Daily",
+      "desc": "Exercise doesn't just strengthen your heart. It rewires it &nbsp;&nbsp; Science Daily",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYm5fZ1FJNVJHZ3pNdWUzNGZpTk5OODdzWUZnMUQxSjZyaUdlQ080TWtNcjNoQ0hCUHRkdUxyVzJVNE1rampnb1UxN1FmYzlpc2J1NmtmM01sZFZOSkQwemhPb3JjYU53bFR6MGVXOA?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjNZWENIZFhsUlVUXzR3Rks3SDBQYmxXdUNoeVFkMUU4eFlxT3dYMnZwNTBONlFmbFNDdnkxcE9GNVZEbTc2c3FjQ0hIcWpIM0xlYVRNcGNDOEpqMVB3QUl0WFVOcUR1MzM1bEg2WUVKN3ZEOU1CdWdUQ0ZheU1VT1V4VkE4eEZsS1g1R3RFYkJaOXl6SV9IcXFqWTVlMWVaTDA1Q2hXdzdmYlRfR2FNd3ZZVE5XRmc5c0hFLUhVekFuTWFHcHNfZjJ1WTJlV1ZjcFBIbVZ1eXluTHN4S0lfSWwwVVpJY0tRM29lVWNwZFZob0lvd0JwdE1UY3JBWG81REFkbDAwTUIzbFNTSGpB?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Työikäiset suomalaiset kertovat liikkuvansa enemmän, mutta liikemittarilla mitatut askelmäärät eivät ole kasvaneet - STT Info",
+      "desc": "Työikäiset suomalaiset kertovat liikkuvansa enemmän, mutta liikemittarilla mitatut askelmäärät eivät ole kasvaneet &nbsp;&nbsp; STT Info",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjNZWENIZFhsUlVUXzR3Rks3SDBQYmxXdUNoeVFkMUU4eFlxT3dYMnZwNTBONlFmbFNDdnkxcE9GNVZEbTc2c3FjQ0hIcWpIM0xlYVRNcGNDOEpqMVB3QUl0WFVOcUR1MzM1bEg2WUVKN3ZEOU1CdWdUQ0ZheU1VT1V4VkE4eEZsS1g1R3RFYkJaOXl6SV9IcXFqWTVlMWVaTDA1Q2hXdzdmYlRfR2FNd3ZZVE5XRmc5c0hFLUhVekFuTWFHcHNfZjJ1WTJlV1ZjcFBIbVZ1eXluTHN4S0lfSWwwVVpJY0tRM29lVWNwZFZob0lvd0JwdE1UY3JBWG81REFkbDAwTUIzbFNTSGpB?oc=5"
     }
   ],
   "sources": [
@@ -2563,7 +2563,7 @@
       "name": "Google Uutiset",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "reason": ""
     },
     {
@@ -2577,21 +2577,21 @@
       "name": "Google News",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 35,
+      "count": 23,
       "reason": ""
     },
     {
       "name": "Google News",
       "category": "Tutkimus",
       "ok": true,
-      "count": 31,
+      "count": 30,
       "reason": ""
     },
     {
       "name": "Google Uutiset",
       "category": "Tutkimus",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "reason": ""
     },
     {
