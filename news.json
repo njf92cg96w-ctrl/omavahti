@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-23T00:50:57.285369+00:00",
+  "updated": "2026-11-23T02:51:07.240491+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20258380?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Australian pääministeri perustelee ilmastoneuvotteluiden epäonnistumista vaikeilla geopoliittisilla ajoilla",
+      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
+      "date": "2026-11-23T03:18:48+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258380?origin=rss"
+    },
     {
       "id": "https://yle.fi/a/74-20258378?origin=rss",
       "cat": "Suomi ja maailma",
@@ -80,6 +90,16 @@
       "date": "2026-11-22T21:14:24+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258370?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhkM1B6LVN0elk0Z05scXNWcEptWkxQdFVlb0FCOU04ekMzd0Vtazk3by03VGVtcEctbmU1b212MEZtV01ISFhNWi1RRWx2Qy1ELWNVM2I1RTBETjBlYm4xMkoyb2c0S19ubFpFMGJHQkUwQXNHLVRwWjNQWXg2bGR5ejJlai1wSWdVZmkyczEzY2dycUFTN0FzSFcxcVRmcDh6Xw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "City of Gulf Shores announces change for Alabama Gulf Coast Sports Center - FOX10 News",
+      "desc": "City of Gulf Shores announces change for Alabama Gulf Coast Sports Center &nbsp;&nbsp; FOX10 News",
+      "date": "2026-11-22T21:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHhkM1B6LVN0elk0Z05scXNWcEptWkxQdFVlb0FCOU04ekMzd0Vtazk3by03VGVtcEctbmU1b212MEZtV01ISFhNWi1RRWx2Qy1ELWNVM2I1RTBETjBlYm4xMkoyb2c0S19ubFpFMGJHQkUwQXNHLVRwWjNQWXg2bGR5ejJlai1wSWdVZmkyczEzY2dycUFTN0FzSFcxcVRmcDh6Xw?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20256424?origin=rss",
@@ -432,6 +452,16 @@
       "url": "https://yle.fi/a/74-20257205?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJncEU4MjFxMVo2LTZqekdxV3NMaHRRUmZpWFZ5ZUxfSlo1YkFBV0NxUkh1R3dINFNSOHNTYV9nUHpGUWQ3cmR2VjEyWExBMHl4OWxESlNYTXRtMmp4c00xTDBiTlpyb0pTZm45dlNia2hzc0VxVWFVQndpeVhUQmxQejg1MzdVdDl0Q0pXUUg2VGFKTE5PZFQ1UlJJX0ZlTnk1MGdTZ19VRkdG?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "City of Gulf Shores Assumes Ownership of Local Sports Center to Expand Recreation - OBA News",
+      "desc": "City of Gulf Shores Assumes Ownership of Local Sports Center to Expand Recreation &nbsp;&nbsp; OBA News",
+      "date": "2026-11-22T10:18:04+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJncEU4MjFxMVo2LTZqekdxV3NMaHRRUmZpWFZ5ZUxfSlo1YkFBV0NxUkh1R3dINFNSOHNTYV9nUHpGUWQ3cmR2VjEyWExBMHl4OWxESlNYTXRtMmp4c00xTDBiTlpyb0pTZm45dlNia2hzc0VxVWFVQndpeVhUQmxQejg1MzdVdDl0Q0pXUUg2VGFKTE5PZFQ1UlJJX0ZlTnk1MGdTZ19VRkdG?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20258316?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -522,16 +552,6 @@
       "url": "https://yle.fi/a/74-20258114?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20258305?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Kolme kuollut ja lähes 40 ihmistä kateissa tehdaspalon jäljiltä Indonesiassa",
-      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
-      "date": "2026-11-22T05:05:55+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258305?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVZ1SVhqMEpXamo0M1NMOGtLcGtwcFl5OVdNb3pvWWFvX240bko5bk00NFEzUGJmVVVNTmcwcnhLS3ZXQW1lRHAzRm9Ia1J6TUo4RHVXZHRGbWJZRC1ubVVsNFVkRnc3ZGJZejRCQ1ppS3pRSGlhcElNUEtXbzRybGhLME83T0ZIczdpYzZLaUFhdw?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -540,16 +560,6 @@
       "date": "2026-11-21T23:53:27+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVZ1SVhqMEpXamo0M1NMOGtLcGtwcFl5OVdNb3pvWWFvX240bko5bk00NFEzUGJmVVVNTmcwcnhLS3ZXQW1lRHAzRm9Ia1J6TUo4RHVXZHRGbWJZRC1ubVVsNFVkRnc3ZGJZejRCQ1ppS3pRSGlhcElNUEtXbzRybGhLME83T0ZIczdpYzZLaUFhdw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmRKUnl2dmZ2TkM1czN2cklzb3p1UXFPb1NpZkdjSWV0V0JzMjZuMkV5TVFhVnVWang3SnYzQktjV3o5MlU0bTVTNWV0cWNaRzU3QXAxNHhXVEliNm5OLUc4OWFqaDhEQmVrLU8xY2hUNkFWZHFSc3lYNUhMNFBlSmVCSXdnaUE3clVIZHhFV2hITU9CU2I1dXBlVklWdXdnOEJEQi0xLVN0SldWNHZnM3A5RExEa0ZTUURv?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Exercise Modalities Show Differing Dose Associations With Endothelial Function in Adult Trials - Bioengineer.org",
-      "desc": "Exercise Modalities Show Differing Dose Associations With Endothelial Function in Adult Trials &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-21T23:24:57+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmRKUnl2dmZ2TkM1czN2cklzb3p1UXFPb1NpZkdjSWV0V0JzMjZuMkV5TVFhVnVWang3SnYzQktjV3o5MlU0bTVTNWV0cWNaRzU3QXAxNHhXVEliNm5OLUc4OWFqaDhEQmVrLU8xY2hUNkFWZHFSc3lYNUhMNFBlSmVCSXdnaUE3clVIZHhFV2hITU9CU2I1dXBlVklWdXdnOEJEQi0xLVN0SldWNHZnM3A5RExEa0ZTUURv?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUk4MGkyZTR5aWx2b2daQkdfT0NhYlhFUUxabERMcG9TaFdMRDFmNGVVNVdhYjN0bTlkOGIzQXZ2M1ViM0RNV042VTlMSGdJYnlJSEVZd1h4dFlReUtoV1VSVkR5OGJwVVUxQUExWDJFa3lJcF9wbzRNUlV2YkVCcXExSUh5WlJVeVJfY0FVOFpMTU11cnRWVVNUdDNnRnRDVU10Z015dXBFVlJrWG5IdA?oc=5",
@@ -632,6 +642,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBmT2lvOEJmc3N3ZzlLRVUyZ3VPaUdOYVJKenpCQllSbHp0R3hEMGRNUC1MSTRuT2d0RHAzZlBYWkZxd3hRY1hTWDB3VzluM1dQYXh0LTA4R3czOE1ZWnQxUTFYRlJSSlJ6eEZNMW5pWDZQN3pKdmh5NkREUEYweW9HVVI0d09TOFo4Y2hjWkpQdXF4S0ZzYVF1T1Q1TjR1NnBVejRvdTR6elg0cHpsQmdFSk45bkFVZ25qcW9mOWNyTGlBZkRDUmJ6anBaVUpYd3pNTg?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3h3dEMxajVfSHBOSDFvVDdMeGhBOXVtUU0wUzk0MUhHNjlBTVZzZ2ZqNDA2bm5xXy1OSEdqejNSV3kzLVU4dllOdmlwaTMyZmdnazVwd0dMdHVEamZRX1dYSXhwWXVFNV9uSFJoa001WUpKWWVfWFliN3I0Mm5FM2VRQWN4aVFBa1kyTlVDQTVHTGdPRC0xSWVQa3c5X2tOMXJXOXVyUUl1Y1VOQnV3VXNuRl9sLTBnN3VJWHd1TmNBWlM2cXc?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill | Amazon Web Services - Amazon Web Services",
+      "desc": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill | Amazon Web Services &nbsp;&nbsp; Amazon Web Services",
+      "date": "2026-11-21T00:14:26+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3h3dEMxajVfSHBOSDFvVDdMeGhBOXVtUU0wUzk0MUhHNjlBTVZzZ2ZqNDA2bm5xXy1OSEdqejNSV3kzLVU4dllOdmlwaTMyZmdnazVwd0dMdHVEamZRX1dYSXhwWXVFNV9uSFJoa001WUpKWWVfWFliN3I0Mm5FM2VRQWN4aVFBa1kyTlVDQTVHTGdPRC0xSWVQa3c5X2tOMXJXOXVyUUl1Y1VOQnV3VXNuRl9sLTBnN3VJWHd1TmNBWlM2cXc?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGt2c1lsNi1OUFFPQTJJQ2djZHVmNnhLSFFsU0doYmlaUXJXemJtY25fMDJ5OE84c0dnZU9yWTRlcWp2Zjd2b1k5RnNIazRGQy15c1ZpT2haUUpCb1oxWkMxRHFwSnJjbnNWQjNFZlJ6THEyeEM5U2t4UnZtT2tsTzNnMmdVUFJvSWdDSVlsRDk5bWtHa0MySHg2MTB3TG9xTFJ6Mkx4Y3JBX1VGSWk2YjczbXdzaUpM?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -640,6 +660,16 @@
       "date": "2026-11-20T22:22:45+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGt2c1lsNi1OUFFPQTJJQ2djZHVmNnhLSFFsU0doYmlaUXJXemJtY25fMDJ5OE84c0dnZU9yWTRlcWp2Zjd2b1k5RnNIazRGQy15c1ZpT2haUUpCb1oxWkMxRHFwSnJjbnNWQjNFZlJ6THEyeEM5U2t4UnZtT2tsTzNnMmdVUFJvSWdDSVlsRDk5bWtHa0MySHg2MTB3TG9xTFJ6Mkx4Y3JBX1VGSWk2YjczbXdzaUpM?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Tallahassee parks visionary Randy Trousdell dies at 89 - Tallahassee Democrat",
+      "desc": "Tallahassee parks visionary Randy Trousdell dies at 89 &nbsp;&nbsp; Tallahassee Democrat",
+      "date": "2026-11-20T22:07:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmZXem9adnJ3MXMzcDFTX2xPSEYzWVp1MmptNHpoc0g5MUFMcWkyOXpTYVBpdTlUZmh2SENWYWFya0NEaUQ5TzJvQmFCeEttV0FQa3hJUHhiTlR0VXZWQnVKUmxWTDBManlmc2tMTFdyUjNwTXZickVoWVFLY1VzUVVHdjc1T1BKQzZDbWJCbmhkLVVCbEZNVmR2UVVTZHpSRE1sZEZDT3JJN1FqU191Rnd0Skl6dEpH?oc=5",
@@ -912,6 +942,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW9aOVU5UFRyZUtEMzFCQm9sU2N3ZEtLTlNiY3ZkRG54SWxpNTFBWDNsQ1BNaDk5ZkxFbFpKMlJjTG1fM1c2MDBTNURZZDVJOFdnZjdaQkxOY1htRnprM2llSF83ZkxHT0xRRXNVTU1zcXpmcTI2QlZFdzdFRG8xZTRLSmwzWm8tUG1vTkJuVll4S0RlVHc?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVFBZek5iODV0Skp5N2RUSEJDOUlXRU1Fd1NzVU42aEJqckQyVDVybW1jWmRYTjRWVEo5Y2R2MTNET1VDWUJhMnZENm5ZU3VkamxjTWk1ZGpQcDJCYlZkNkVrdk5jWTR5TmpVbzVUQzF3X1V5Tlo5SFdR?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Los Angeles 2028 Summer Olympic Games | Bidding, Host, Venues, Planning, Sports, Marketing, & Facts - Britannica",
+      "desc": "Los Angeles 2028 Summer Olympic Games | Bidding, Host, Venues, Planning, Sports, Marketing, & Facts &nbsp;&nbsp; Britannica",
+      "date": "2026-11-20T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVFBZek5iODV0Skp5N2RUSEJDOUlXRU1Fd1NzVU42aEJqckQyVDVybW1jWmRYTjRWVEo5Y2R2MTNET1VDWUJhMnZENm5ZU3VkamxjTWk1ZGpQcDJCYlZkNkVrdk5jWTR5TmpVbzVUQzF3X1V5Tlo5SFdR?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20257979?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -930,6 +970,16 @@
       "date": "2026-11-20T04:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fajhCaTJ5Qlk1VUxTdDV2VEZWTC14TWNPRkdvaHhndU9rYkxsWl9DY3h2RUlTS05ZdGRWcXpNUWF5YVF5U1Nlbzk0TjRyajRKek9HLXl1NWtJem5LdXY2a2JrM3I3aG92VDdtY0Exd0FoamQwQlM1SHhCZUM3dHc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yaF9rb1l6elFydUh2N2dJQUMwOHJESGNpNHR3SjNVX0FRbGJoYm5ZdS1ZSEl6ejdVRnZQZHI5V3lIN3dsQld1MEZieUtvRmZ2bHktblR1aDZMNE8wX2Y1d21uekM0azN2aHZ6NGVEYzV5dkFPX3k4cXJ0cGI?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Men’s softball league members decry city moving league from Robert Crown to James Park - Evanston RoundTable",
+      "desc": "Men’s softball league members decry city moving league from Robert Crown to James Park &nbsp;&nbsp; Evanston RoundTable",
+      "date": "2026-11-20T03:22:42+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yaF9rb1l6elFydUh2N2dJQUMwOHJESGNpNHR3SjNVX0FRbGJoYm5ZdS1ZSEl6ejdVRnZQZHI5V3lIN3dsQld1MEZieUtvRmZ2bHktblR1aDZMNE8wX2Y1d21uekM0azN2aHZ6NGVEYzV5dkFPX3k4cXJ0cGI?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWRHMURXR3RiVjRucEZQREdWVEJJd2xxSUVsNEVNcHZIU3YtendPSTltLTdTdjllbnhJMExnOEdxQU5DYVNFcTlDT3VuQnoxWnktOFI3VDFCVm84amQtVlZFb1ViZ2FVLWxwWWNxYWhQZFg5dk4tZTROYmszVG9HZS1jTHZVQkZnUlJyeFZ5SFdzdnpMVHFBLWU0WW80WFVxWlpBV3RlYUozOG8?oc=5",
@@ -1032,6 +1082,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-on-laulava-kunta-yhdessa-laulaminen-tuodaan-osaksi"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlNSzAyUUhhOEtsZXE3ekFSNWZ1cDBNZ0luRUYzdzFhVnVSaUhSSDRRSk1DYURxclZndkRhTEUyZHQ4RDNOa0RtaDR6RldYME1SdFFQVmMtZVp0cFNWNU1nWEdRNGN5YXVNcmJkWUdTZ1daeUJpZllQS0dVdnhTTldCUVg5dTlTa3JCd3pjMkJtZlhxR3kzWjdSelJJcXRfWFJGQnVmUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe County TDA approves $5M for new indoor recreation facility - WLOS",
+      "desc": "Buncombe County TDA approves $5M for new indoor recreation facility &nbsp;&nbsp; WLOS",
+      "date": "2026-11-19T16:23:47+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlNSzAyUUhhOEtsZXE3ekFSNWZ1cDBNZ0luRUYzdzFhVnVSaUhSSDRRSk1DYURxclZndkRhTEUyZHQ4RDNOa0RtaDR6RldYME1SdFFQVmMtZVp0cFNWNU1nWEdRNGN5YXVNcmJkWUdTZ1daeUJpZllQS0dVdnhTTldCUVg5dTlTa3JCd3pjMkJtZlhxR3kzWjdSelJJcXRfWFJGQnVmUQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHR6OFZDM3A5RFZZb3ZiMVB3eVRmSGRrN3UyNnJKNVo3S1NqVk5NaXVkWXhMR0pjR0hpc3A4bzUwNDIyWHoxRDJXVnZ1LVhpWk1NZUF2RG10VUU1SXdYb2xXem9HUnBCTFpkQnlZdmFqT2V6emlsb1BiakZ2amhNOEJqcmstc19FZWk2eS0xbHFsYUVWTF8yUVRCQUlicG9OVXF5Z3NCaw?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1112,6 +1172,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/nuorisopalveluiden-kulttuurituottaja-piritta-brusi-sai-tunnustuksen"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NGFWOGlqOUVqcU9Yb0xZTEtLR3hEV2t3RFRjQjRaeGE5U3VIVWJyYXBwSGtGTGdvQW5xNjRzdWo1TXhtWEFDVGlEclIydDRUcWQ5YWpNT24wUQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "HS-analyysi | Anthropic myy tulevaisuutta, jossa Suomen verorahat imuroidaan Yhdysvaltoihin - HS.fi",
+      "desc": "HS-analyysi | Anthropic myy tulevaisuutta, jossa Suomen verorahat imuroidaan Yhdysvaltoihin &nbsp;&nbsp; HS.fi",
+      "date": "2026-11-19T14:28:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NGFWOGlqOUVqcU9Yb0xZTEtLR3hEV2t3RFRjQjRaeGE5U3VIVWJyYXBwSGtGTGdvQW5xNjRzdWo1TXhtWEFDVGlEclIydDRUcWQ5YWpNT24wUQ?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-yhdistaa-voimansa-slushissa-27-startup-ja-tutkimustiimia",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1120,6 +1190,16 @@
       "date": "2026-11-19T13:12:41+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-yhdistaa-voimansa-slushissa-27-startup-ja-tutkimustiimia"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe tourism authority puts $5M toward new county rec center - The Asheville Citizen Times",
+      "desc": "Buncombe tourism authority puts $5M toward new county rec center &nbsp;&nbsp; The Asheville Citizen Times",
+      "date": "2026-11-19T12:51:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20257866?origin=rss",
@@ -1150,6 +1230,16 @@
       "date": "2026-11-19T10:30:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFl3cWxfeHFaenJyd040V1FzazZxS2lKX3ZHVG9hczNkWTVScVJJLVFfRTRUZTI3a1hnS3ZGVXhKY3dBZHVOTEZvaEZNdl9rUm5JMGtLSWdfM3JicHk0UmZTUVNINHFjclVwWkVtZ1d6b0NnbzNTYUNmRlFhcG5KTXd5Ml9ZU1ByXzA5c1NzRklNMXlUWHpkTUhobDZzcDI3eWhYdVVKRkhpUUxjQUZqMUJTbWJlbXFxWEVTOUtXQQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3hxbDJ6RzdSMV9GbFpHRERYOEIyaUVvM2UwRERfTkxjUThFVjczeGtNWllTSmlhRzZZTTlnUHZYOVZyX2w1QjEwbi0xc2RQMkRtV0V0MkVrLTUzLVlzcE5wLXNPVnJXcjRleW9oSFRpbTd6aVktUk1zNVRxTDZYWWsyVy1nVzhmRVJDVUVaV1VaaHJpM1NaOA?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Tekoäly ei saa vielä päättää teollisuusverkoissa - etn.fi",
+      "desc": "Tekoäly ei saa vielä päättää teollisuusverkoissa &nbsp;&nbsp; etn.fi",
+      "date": "2026-11-19T10:18:14+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3hxbDJ6RzdSMV9GbFpHRERYOEIyaUVvM2UwRERfTkxjUThFVjczeGtNWllTSmlhRzZZTTlnUHZYOVZyX2w1QjEwbi0xc2RQMkRtV0V0MkVrLTUzLVlzcE5wLXNPVnJXcjRleW9oSFRpbTd6aVktUk1zNVRxTDZYWWsyVy1nVzhmRVJDVUVaV1VaaHJpM1NaOA?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pYVZWVjFSb1VxZDZvSWtHdUl6QmZ6WmhfTlZVd3FTYjljY3JwMlphRW0zWjQ2NEJacDc3OURkanZ6dw?oc=5",
@@ -1312,6 +1402,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFF5RTEwQkwxOHJvc3FYN08ySmZjbUpoNTl6el9jMDRGMUpvVi1oOW03MFZFcncweXA3ZXhtQzdIOURidUhRRFRxa2huazJNR1NydlJKeDZWOVUydTV5c29OSjJXU0VjM25rTE43Wk1xOFd6YlhQTVJjaUZfY0Y4bF9Rc09PMHg0UTFBVHNNZVRqQnpFY0s3NjdVT0xnMWlLTGc?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe TDA board approves $5 million for indoor sports center, considers larger investments - Mountain Xpress",
+      "desc": "Buncombe TDA board approves $5 million for indoor sports center, considers larger investments &nbsp;&nbsp; Mountain Xpress",
+      "date": "2026-11-18T19:17:30+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ09iMEFPWXloa3hudGY2bmtQMVlLZk9xV1FMZFhuQkJhTzVQZnM3eEZvYWVOMUxCNTlHZE5MUWlIbXFrbXAxalpqbkJyRGZ2ckJ0UjZJYWpWOXhtQVhfZU5Id3NaaFVwcDBiOENrUzBsTDA2QW1mSDJlbGRoSUo3akJJU1o2cV8zZjBxVEZhSGwycmxWb0R1ZGY1UTV3dEN6TGFPNEhTbW9ycEdFWjZlNHhGamMxOVZIamc?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1320,6 +1420,16 @@
       "date": "2026-11-18T18:54:08+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ09iMEFPWXloa3hudGY2bmtQMVlLZk9xV1FMZFhuQkJhTzVQZnM3eEZvYWVOMUxCNTlHZE5MUWlIbXFrbXAxalpqbkJyRGZ2ckJ0UjZJYWpWOXhtQVhfZU5Id3NaaFVwcDBiOENrUzBsTDA2QW1mSDJlbGRoSUo3akJJU1o2cV8zZjBxVEZhSGwycmxWb0R1ZGY1UTV3dEN6TGFPNEhTbW9ycEdFWjZlNHhGamMxOVZIamc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "KemperSports to Run AWE Sports at Showboat, a 140,000-Square-Foot Atlantic City Youth Sports Venue - Youth Sports Business Report",
+      "desc": "KemperSports to Run AWE Sports at Showboat, a 140,000-Square-Foot Atlantic City Youth Sports Venue &nbsp;&nbsp; Youth Sports Business Report",
+      "date": "2026-11-18T17:51:33+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5",
@@ -1362,6 +1472,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/18/talvikunnossapito-valmistautuu-vaihtelevaan-talveen-turvallisuus"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3M0RkxqYjltc3I4TVkxLWdzVWQtMkZZbkVCaVJnamRVakJyaE41S0dkd25kQ0d0bjNNS0J4TVV3azR2RFlHcW9QWHdxTC10ZkEtcEF0V2NoTHBvVVd4ZjFCbC1vUzBvOTQtSGZ5djZJblllVGQxVDN1QXVob1pwVjZDYmkwNjFFRWttRE04ZGNNZmtWMFZZandXNnd3YW9rdDd1VWo4SE9YNGdtSXdZS29MT0JDOXFNWU9rN2hFWnYwVEVLQnFLa09n?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "The Central Coast Regional Sporting and Recreation Complex (CCRSRC) - Central Coast Council",
+      "desc": "The Central Coast Regional Sporting and Recreation Complex (CCRSRC) &nbsp;&nbsp; Central Coast Council",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc3M0RkxqYjltc3I4TVkxLWdzVWQtMkZZbkVCaVJnamRVakJyaE41S0dkd25kQ0d0bjNNS0J4TVV3azR2RFlHcW9QWHdxTC10ZkEtcEF0V2NoTHBvVVd4ZjFCbC1vUzBvOTQtSGZ5djZJblllVGQxVDN1QXVob1pwVjZDYmkwNjFFRWttRE04ZGNNZmtWMFZZandXNnd3YW9rdDd1VWo4SE9YNGdtSXdZS29MT0JDOXFNWU9rN2hFWnYwVEVLQnFLa09n?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -1390,6 +1510,16 @@
       "date": "2026-11-18T07:00:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFNTQWZDcjlGQjduVHNab21ENWZsb0NoSnFGSlZhOVFGbnFUZUZtT2NkelVPYTByUW5yVUgwZnh3czMwZjRrU0xNWDI1YjVENExSRUhHNEFkWnotbDlTeF9sOUcwdG5vZ0E0WldNdTVNQUxnNmhOZ1dmT0JGdjRCVmNHQWcxWjRJRzVpVlo4ZndVd2NidXc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXVGMmtIeXFWTkh1Ync3UGhDOXVpU3c4dGN2RTNTa3pIdTh1Tk1NTXc0YkFvcUdrZUI3YnBWYTdvVFA1bFhLdlVNVHhOUDM4aDVnUVVCSEEzRW9CSmNZOE9GY1MxM3ZuZTFYbEEzTXZkNVVQTlJKYWlSZUlfazMtVW5oT2JfeTE0cVVZS2NKSm5FeDFPOE9jRHlDSVlUd1U5WVFmLUMzLUx3c3Zud3JMOU8tSQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Soldotna to use grant for study of travel between recreation amenities - KDLL",
+      "desc": "Soldotna to use grant for study of travel between recreation amenities &nbsp;&nbsp; KDLL",
+      "date": "2026-11-18T02:20:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXVGMmtIeXFWTkh1Ync3UGhDOXVpU3c4dGN2RTNTa3pIdTh1Tk1NTXc0YkFvcUdrZUI3YnBWYTdvVFA1bFhLdlVNVHhOUDM4aDVnUVVCSEEzRW9CSmNZOE9GY1MxM3ZuZTFYbEEzTXZkNVVQTlJKYWlSZUlfazMtVW5oT2JfeTE0cVVZS2NKSm5FeDFPOE9jRHlDSVlUd1U5WVFmLUMzLUx3c3Zud3JMOU8tSQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGVZWVVkYW9aWDJiR0JhNkt4aXpqei1Id1hKQnRsUVByaVJjTXFrblBLTG44YWNmRDU2a1pwdTl0bFlfR2c4RG51anJHa0NoX25FSnhRVm5DOFNjbHdILUxwcEVkcFd4YVowOHN5SzAzT2xlVGIyTVpwVlRKTDRoQXg3dFhkRnBsczVjV296cEk?oc=5",
@@ -1470,6 +1600,16 @@
       "date": "2026-11-17T18:48:50+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VCRHdaaS11bGd5end2Y3dNdUgwRlR6bmJwbjVKa0w4YXFXOXRzMmF0WTFSdVVDU3RYUHhvelNINU9zcE5vbXBNOFJmT1FwdXNQWTlEYUlaaktFcEY2RVE5ZUFfT2VKaTQtSU1oeXN3b19PVmZ5STQ3YTdad3o5djA4MWJZcWZ6NlZuV3hSZVc3dFBUQS1rVHZNOVJtcXl5V1pR?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR0_SAbgBQVVfeXFMTTJ3YXNDRmpIZW1FUUpuTkZ6eUZsR0hkQjVEUnlidW9nZDhvTHo4aVQwOXYzbmZ0Z0xsYVFaaUhmeWk3dW4xa29teG5iMGhmazMtdGZzUm9DME52WGFSNC1IbktjTkRwZmlxWHhJWWNGX3drUlJ3UktYLWd3ZmdHWERWUlBkb0h6SWFjZDR3MWhUN3dsUFlLTVdNNFY3MUhiRTZObjVfOTZoYnZUVXJKdkZZYmNrU1Z1YQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "New Sports Facility With Indoor, Outdoor Spaces Proposed In Milford - Patch",
+      "desc": "New Sports Facility With Indoor, Outdoor Spaces Proposed In Milford &nbsp;&nbsp; Patch",
+      "date": "2026-11-17T18:32:43+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR0_SAbgBQVVfeXFMTTJ3YXNDRmpIZW1FUUpuTkZ6eUZsR0hkQjVEUnlidW9nZDhvTHo4aVQwOXYzbmZ0Z0xsYVFaaUhmeWk3dW4xa29teG5iMGhmazMtdGZzUm9DME52WGFSNC1IbktjTkRwZmlxWHhJWWNGX3drUlJ3UktYLWd3ZmdHWERWUlBkb0h6SWFjZDR3MWhUN3dsUFlLTVdNNFY3MUhiRTZObjVfOTZoYnZUVXJKdkZZYmNrU1Z1YQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpONUtPN0dvenNhaEJjRnJJMXBhNU9KSWFnejRkVGNCWV8zMzdSRG9JT3NPT1I5ekN2R0NpNEV3ZjRvMURTM3hwN040TGhOYTJYWnhkdTRTVmUzVm02NHNaNWlpWmFVbnFEUFBkeDJjN1lmcGZtdzdWTWhmSjFOXzMzdGtBYjRHeks4REx1LXBCaDhMWFNvclhGRHkyRmI4MUxtMmVuZkZkaFIwa1BFQUpISWJ6THBLVVE?oc=5",
@@ -1602,16 +1742,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/17/evakan-kayttajien-toive-toteutui-tekoalyn-avulla"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXVES0JmSUR6WkotZ1FhdmVHM0J0aTdCN1JlT2JfaTJLc2FZbFI5ZGpJM1Zram50T05YdnE3a2FpWmtoS3A1YWNRTDQ3eHUyY1Y4SWRUU0RyVm5PLUVHTVNaY0Z4ckxBeGozeDBHaHlDRWdlczZwZWFKQ1lXNW9hbWxYVQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Fyysinen tekoäly avaa Suomelle uuden kasvun mahdollisuudet - www.vttresearch.com",
-      "desc": "Fyysinen tekoäly avaa Suomelle uuden kasvun mahdollisuudet &nbsp;&nbsp; www.vttresearch.com",
-      "date": "2026-11-17T09:25:20+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXVES0JmSUR6WkotZ1FhdmVHM0J0aTdCN1JlT2JfaTJLc2FZbFI5ZGpJM1Zram50T05YdnE3a2FpWmtoS3A1YWNRTDQ3eHUyY1Y4SWRUU0RyVm5PLUVHTVNaY0Z4ckxBeGozeDBHaHlDRWdlczZwZWFKQ1lXNW9hbWxYVQ?oc=5"
-    },
-    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/17/uudet-liikennevalot-kayttoon-hervantajarvella",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1662,16 +1792,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNE9KM1hUU2VYN1IzSDBiY3BhTVFvTzhHTmxQdlBpUWtVRVlyV0pORmtRRnNUeDgyZWZ5dHRIQkxEdVBvZWh5UjZNNThVMHVuMlBtU0hXbGFrQQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVWlyNmwtMWY2YU1lNjI5V1Z5NjdMWmZyczdoQjctNUJYenJXRDVzSk4xQ2FrQUxnRWlURjExU1BJcXIzZ2xnbFZWM2VPZHFSUjRVQ1F0TXVEMlFFbER1NzlwTHQyaUp5NWFPeHppbHAyQW1Wemc?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "What Is a Machine Learning Engineer? (+ How to Get Started) - Coursera",
-      "desc": "What Is a Machine Learning Engineer? (+ How to Get Started) &nbsp;&nbsp; Coursera",
-      "date": "2026-11-17T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wVWlyNmwtMWY2YU1lNjI5V1Z5NjdMWmZyczdoQjctNUJYenJXRDVzSk4xQ2FrQUxnRWlURjExU1BJcXIzZ2xnbFZWM2VPZHFSUjRVQ1F0TXVEMlFFbER1NzlwTHQyaUp5NWFPeHppbHAyQW1Wemc?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NWXlTb0N2TUZJWlNJVGY4YTFUUUZNTWR5bE5QbWVkcV85c1E2VC1uOE91dlRTVjdTaGVNeENkSlRJLWgzcFBmbGlB?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -1720,6 +1840,16 @@
       "date": "2026-11-17T01:33:42+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZGt1UnZFa2dPbWZTbzk4cVBndklVTGY4clJoZG1aSG8tR09LQ3lLeTNxODU4ZHBQSlg1U0NqSHQ3WndYQi1hWmhKeFFOZ2o2VVFCQ3JndXlqSXlzTUdZY1hVYzZhREs0QThBWkN1TGVqY3pvYmw4czFnS3FBSmM?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Liikuntapaikat - Keskilaakso",
+      "desc": "Liikuntapaikat &nbsp;&nbsp; Keskilaakso",
+      "date": "2026-11-16T19:45:52+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/16/vuoden-2027-talousarvio-hyvaksyttiin-kaupunginvaltuustossa",
@@ -1782,16 +1912,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sXzZYRUhMTURRbi10YkZNNzB2OHc2Ym9IZk1leGxXcWEzRWVZeUp5anJJcjJzRUhqejRDM05saEhOMVRFRHNCZmVTT25EVE5ZSHpGMnNaWjV2UQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQi1MQ0RIckxLRW5EcWZMa0pZY3p0MEdnVWNZQm40YWxNWGZjSy1wX1ZCUjJ4YmFPTjJXUXJyd296QVUwRHRsZzlxMDl0QVZ0eU5lbG44dEF2MkZ0QjZLWDNhRDhnWDc4ZlJ6ZGxiRlFob0doeDVCZFprMHlxZw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Oululaisyritys tekee tekoälyllä viikon työt tunnissa ja kasvaa lujaa – Palkkaa lisää väkeä - Talouselämä",
-      "desc": "Oululaisyritys tekee tekoälyllä viikon työt tunnissa ja kasvaa lujaa – Palkkaa lisää väkeä &nbsp;&nbsp; Talouselämä",
-      "date": "2026-11-16T10:00:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQi1MQ0RIckxLRW5EcWZMa0pZY3p0MEdnVWNZQm40YWxNWGZjSy1wX1ZCUjJ4YmFPTjJXUXJyd296QVUwRHRsZzlxMDl0QVZ0eU5lbG44dEF2MkZ0QjZLWDNhRDhnWDc4ZlJ6ZGxiRlFob0doeDVCZFprMHlxZw?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFVtZzZEVDJzWnk3TGtkcS1kRXBUY2VVWjJCVjlJT1FZclN1STJzVmJkSTNSamItNzA4SjFSNm00UGdNLVA4SDZlNzVmZDRRRGpDcFgyaVNMc0NjSXluMW1xV1NpdzRXVU9lazBGc1RVU2dZRS04MGVfaEcyWWFObnFZMTdwQQ?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1800,6 +1920,16 @@
       "date": "2026-11-16T09:46:28+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUFVtZzZEVDJzWnk3TGtkcS1kRXBUY2VVWjJCVjlJT1FZclN1STJzVmJkSTNSamItNzA4SjFSNm00UGdNLVA4SDZlNzVmZDRRRGpDcFgyaVNMc0NjSXluMW1xV1NpdzRXVU9lazBGc1RVU2dZRS04MGVfaEcyWWFObnFZMTdwQQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFmSWpFamZKWk15WnJ4X01HWVlRdGI2bzdMT09iekJhTFZnTzNkb0tWRU1nSTBCWnlrTmEyN1NjQXVMNFQwRExHWmZwTzZuZ2ZMbGN3WXBPWWlPZWdLTWVtSUVpdkFuaHU2aVBUMEQyamlXMXJ6Y2tpbDFqcC1KSTZYTDlTMEUtRDdjcTh6QW1zYWRORVVxendPWGRSRjJIY0pqZ0Fmclg?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Raportti: tekoäly-yhtiö Anthropicin listautuminen ylimerkitty 7-kertaisesti - Mobiili.fi",
+      "desc": "Raportti: tekoäly-yhtiö Anthropicin listautuminen ylimerkitty 7-kertaisesti &nbsp;&nbsp; Mobiili.fi",
+      "date": "2026-11-16T09:16:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekFmSWpFamZKWk15WnJ4X01HWVlRdGI2bzdMT09iekJhTFZnTzNkb0tWRU1nSTBCWnlrTmEyN1NjQXVMNFQwRExHWmZwTzZuZ2ZMbGN3WXBPWWlPZWdLTWVtSUVpdkFuaHU2aVBUMEQyamlXMXJ6Y2tpbDFqcC1KSTZYTDlTMEUtRDdjcTh6QW1zYWRORVVxendPWGRSRjJIY0pqZ0Fmclg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96TGxjRmpkUlpXaloxVnpJNTUxSDBuSmVzT2F6a2pPLXBxT1hQR1BzamQ1ZzNBSG1adEhYek14b0RqTUhMSHB0dUFSX09nUldMLXROb1hDTVc1dw?oc=5",
@@ -1832,14 +1962,14 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeDJhbWo4Um1kNU9NdHZwWWRVLTRQMkpsTjdsckFOazI0YzhiSEpxcHU2NFFLb2g5ZUFDZGlONUN0Vk1ILWtYeUJpcWRpWi1iX21SRkM2c1ZOZ1hHT0VBMi1HMnlMaTRyU2ZWNVloWHo1amtkU1NpZDl6UUxWTFJxSkpXZjF4NTNJbUpJTEtxZkY?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDA0NUIyY0tjQi1ZUlc5MzMxNTVDc2t4R3dZWFBqQlFxNFJveGV3bUw3R0htQ2dkWGowMGNKSGhXbk8tZ0NLSEYwQ3lITnR5cmZhSEhIYmxyanZPTGdVTUxPc0k3aHg3RFAtWHNJUFF1UVNpUWc4TU41OVhRdXMxTA?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Diabetes Education Linked to Better Care - Centers for Disease Control and Prevention | CDC (.gov)",
-      "desc": "Diabetes Education Linked to Better Care &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Honey Farm sport and recreation precinct master plan - Sunshine Coast Council",
+      "desc": "Honey Farm sport and recreation precinct master plan &nbsp;&nbsp; Sunshine Coast Council",
       "date": "2026-11-16T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDA0NUIyY0tjQi1ZUlc5MzMxNTVDc2t4R3dZWFBqQlFxNFJveGV3bUw3R0htQ2dkWGowMGNKSGhXbk8tZ0NLSEYwQ3lITnR5cmZhSEhIYmxyanZPTGdVTUxPc0k3aHg3RFAtWHNJUFF1UVNpUWc4TU41OVhRdXMxTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlbE5VRTVpS3AxMXNQNjZsVDE0UXZtS2ZXN2NreFRfNm9GRjZsTFZsQmlpZnZ6OHlFazJPdlZkMnJsODl2YUhBNmxSYmJqcTVvVWhwYVBjM3FlQQ?oc=5",
@@ -1862,16 +1992,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5YR3dwZm9LMk5rS3JKdGtjcnVDV1BOMjhRNnY1eG41ZTJyWDBJbW8zaE5zY0MtVTg0MzVsQ0ZzamQ2Zw?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42ZkljLW1oZDBzTjVtRzAzYkwxUkdKbWQ3dWFkRzlfMlJ4NmVZVjJCbXVXckNyc2ZscXlDamtOdXQ4UQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Työnantajat arvioivat nuoren ja tekoälyn tekemät kesätyöhakemukset: katso satoja hakemuksia lukeneiden mielipiteet - Yle",
-      "desc": "Työnantajat arvioivat nuoren ja tekoälyn tekemät kesätyöhakemukset: katso satoja hakemuksia lukeneiden mielipiteet &nbsp;&nbsp; Yle",
-      "date": "2026-11-16T05:33:34+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE42ZkljLW1oZDBzTjVtRzAzYkwxUkdKbWQ3dWFkRzlfMlJ4NmVZVjJCbXVXckNyc2ZscXlDamtOdXQ4UQ?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOV9kenFpTE83Q01ObUpTTHIwZVdXRllIX3ZON2lHU0NIdFhzaVhtSFFIV2JTMk1zX1VfVHByUUZmUEhBU0hSaUJIWl9uQ0NPVUJsalgyZVZ6NlYtVDNMalU5cWw2dWE3S0pXNV9aV2s5VmYxNHg1cUhyN096cXJxZDRtcmR2VnVJaS1FVmFyaGotNHJQc0hQZkcwSW51WkowaVAtcHFzYnZMNTBBVkpGMmh1WXU2cGlwQ29yRkV2VQ?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1890,6 +2010,26 @@
       "date": "2026-11-16T04:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3cxQzdxOWljUTdhT2hIWF9mU2d6bS1tVDgxOXhUb1hsMDExZTViY3Y0b1ZoT2xXd0ZVajlVRmZpR0dMNDdLV0JoT3VJRUFfYVFhSDFCT0Y5a1c5dDc0Si1UOWExVHdjNGFwZDBDRjZ0eEQwdGJlLUNQQUhWR3FjYnZMQlQzdnVfOFI4TTU4UjRPRTJPaUpXU0VUeEYzM1FkckpyQjZqRnpKZi1HY1pjTTJ2dUtZY2pKdmZSU0ZTUFNDUXg1M1JZcDJGSEN6MDVlQkpVVTJhTQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "New York - Sports, Recreation, Outdoors - Britannica",
+      "desc": "New York - Sports, Recreation, Outdoors &nbsp;&nbsp; Britannica",
+      "date": "2026-11-14T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXVBSEp3T2UwdWwyN0V6bGdHZ2dXM2w4cWpiYlRVSlRsYTludENTbTd2UDlzZkJzb3lNci16TEhwM1lrZWpyZ19ZWERoRWlYNU9qN3ZScnFZSmdYNk5aVzF2a0dhbGdlYVFCd1pVbWh2dHZibmlDSHhwUjFmZEdZWUF1YkYwb1FmYlcyZklPVWxVN3RtbUtjX3FMUkJ6MzlDNkpTOXZ2dERSOXhQTXFuYXJfVnlWUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Long-awaited Cowan Recreation Centre opens in Kitchener - CBC",
+      "desc": "Long-awaited Cowan Recreation Centre opens in Kitchener &nbsp;&nbsp; CBC",
+      "date": "2026-11-14T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXVBSEp3T2UwdWwyN0V6bGdHZ2dXM2w4cWpiYlRVSlRsYTludENTbTd2UDlzZkJzb3lNci16TEhwM1lrZWpyZ19ZWERoRWlYNU9qN3ZScnFZSmdYNk5aVzF2a0dhbGdlYVFCd1pVbWh2dHZibmlDSHhwUjFmZEdZWUF1YkYwb1FmYlcyZklPVWxVN3RtbUtjX3FMUkJ6MzlDNkpTOXZ2dERSOXhQTXFuYXJfVnlWUQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWxaV0JXSk1GZjJ1cmk0a2NVd04wdXhYYnotQlJ0N1Z0MzdNd21QNXlkN2VTUkpwRFNIcXdVZ1BDZ2sxM1IzczNBdXBsSG9qcEdybmNCTjdUQWdzc0RCUzFjeHRfY0FLYzRvU1l0eTdqZmlvNElacmRYZWQxbk1oSlhfbnJtVVJieThUQXhR?oc=5",
@@ -1912,6 +2052,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTlPNTQtVFRRbUwyUVN5bmlNRXR5YkRNemY3TDRsNmhVaHNPXzdxTnhreUxXUHpsWnJ2d080ajJHdkJtQ3hFcDhndk14TUJ2MW45MHRyWGt3QW5mZVMyVkhLRHJ2YnN2ZkFCd1o2NXhWWjg3U002R0ppUXllQkx1S2s2a0lGenlqTjhpRFB4YWxDVUlIWTBKdFc2RWg1VXBYVmVacmNDR2N0NXNXSk4tTWtjZUdwTlVkaUZj?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Clinton’s recreation complex gets good rating by tri-state players - The Laurens County Advertiser",
+      "desc": "Clinton’s recreation complex gets good rating by tri-state players &nbsp;&nbsp; The Laurens County Advertiser",
+      "date": "2026-11-12T23:42:45+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRlc4MEwwUVFjZ3pkTWFnTlJVR0hYbUExMmJ0SkJIdlhtZDFlVk5SbUdmbmRUbnlLTm5BcEZlM2VzMjUyRU4zSWc2Si1GU0lBNjBvREtydHhVRDJnWDBsZWZrN0ZiTnd4Y1VGOTBCTzZ0UFZVUVI0UEsxVEJMb1pjYkJjTkQxQk5IdncwQW1Ic0V4SFFMa0NsM0J2eGxWbHViUnhPc1R2Q2lqeUhEWGlVUDNQQ3dUMU5NWmd1WWFTYldoa2tkcXFGbHo4MGdWZTBhdDE2QUpuQXc1cHBzSVE?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -1930,6 +2080,16 @@
       "date": "2026-11-11T17:40:01+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbG9OSlpDUDFNbjhBa2RnQl8xbVg5YzBkWThVbHRscEVwTG5Ndm91SW9SME5OdmkwRlhPWDFZTjdTbjEtNFYwRVNIWl94enp5czhHNGJUQ3o5bDJZYTVXOGxfamVHalZDRGUxQnBXU2J6WlRGNlZ1QWUya3Jjdjk4b3RYc3RfVW4wWW9TVFZZbTZrZHpWbVE?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2RIVldsaFVXV2F4NzItSFdNQW9LQXBZNGxPUlNVUkgzTWh2SUE0ZzE5XzZkaE5sMEZMSl9tTzlZZmJGVWF4TDZzWFJHT2pnSmJzZjVLYzgyV1VoSUkxWGx0aFJFbXhVX3F2N1hsR3ZhV29fVmh6LURoUkE5Y3o3V015UUJkR0k2eW9jdXRQc1BuRGR5Wm1lUg?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Fitness and Recreational Sports Centers Market Size, 2034 - Fortune Business Insights",
+      "desc": "Fitness and Recreational Sports Centers Market Size, 2034 &nbsp;&nbsp; Fortune Business Insights",
+      "date": "2026-11-11T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN2RIVldsaFVXV2F4NzItSFdNQW9LQXBZNGxPUlNVUkgzTWh2SUE0ZzE5XzZkaE5sMEZMSl9tTzlZZmJGVWF4TDZzWFJHT2pnSmJzZjVLYzgyV1VoSUkxWGx0aFJFbXhVX3F2N1hsR3ZhV29fVmh6LURoUkE5Y3o3V015UUJkR0k2eW9jdXRQc1BuRGR5Wm1lUg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03d0I1YThkMUNNRy1FWTZiMTFRUW44dmJJY09SU0lTOTgteGVlNlV3UHhNNmQ5QV9nS2FTZEdEZjF6dXRQUFBPaURXenZYb08tSTN4XzQxOFhiMUxY?oc=5",
@@ -1980,6 +2140,16 @@
       "date": "2026-11-10T08:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEV5dnB4SFJaV2dRaE9JazExVzRidFlVVGtlckNkQ3hOc3Y4SU5veXliMXJfbVYxSjB1djhqcW1aMGpDNzBLWEhsTi1PZnJOTEtLWWJPZ3lpMTVjYzBTNjV3NWFWSjMyZFpfelVfUjUycGExYVdZa3ZHOXROS3ZCZDl4OTN2QzBRdEV4QWhn?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91VnJGcGozWlpRSl9XekM2NC1GbzhlVWxqZHpJQkl2ejZvMGxkSlF6UEpaaGJudlczLWFVcm94YmtKTXBBbng1UjBPam5IUmlpUmxqcWtqTFVYcmQ3eGs0Qg?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Sport Management Journals: Core Academic Outlets - CASRAI",
+      "desc": "Sport Management Journals: Core Academic Outlets &nbsp;&nbsp; CASRAI",
+      "date": "2026-11-09T12:52:36+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91VnJGcGozWlpRSl9XekM2NC1GbzhlVWxqZHpJQkl2ejZvMGxkSlF6UEpaaGJudlczLWFVcm94YmtKTXBBbng1UjBPam5IUmlpUmxqcWtqTFVYcmQ3eGs0Qg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajFlVXJsVkJBS3REV3hFSjA0X0NmbG4tNTZxVXpNMjdpT1M3WG5iTWZGMTVEWjlqSENXcU5EdlkwSS1mSGpUM1JuUWZyRHpPV1JucFNWeDF5c042d1lFc2JRNUxlczZzQ2txTnVnXzVGUE9xLWhxYXI1TzRkemVOUXdxcVNSZ0hrU25Nbk1n?oc=5",
@@ -2072,6 +2242,26 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFd0VFlsMW82T05LVHlLM3NYU19mczN4RDRaUDN6NGhQaGdTNTA3OXgzVUQ0aFY2c25LM2NXcnpjRUIxaTdsTW4tYThWU1FId1MxNW9GRzVvbV9Vb0xfNzV6VDB6VFRoU0tKZlgyM2lmTlVOTEUzMk91YkN6TlVVbmN4ZDdqMmtHTDdZNUdMS1RqaUZkcEJlUFJoeWRtVjRzVDAxbkw4NUlEUHFuN0E?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMUR0RkdkMktQcU9vSi1Bc3FnTkRzRlhxMFdUZDdOQW1aWHlPdWJkejFPRXY1MW9kVFF6VGpzd3RZVkNFTFFTUGV6ejFPOUNBbkkxVFFhaFNTSHZkLTlWVWxObkE2TTctSHlJRTYwdw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Research and policy - Recreation - The City of Calgary",
+      "desc": "Research and policy - Recreation &nbsp;&nbsp; The City of Calgary",
+      "date": "2026-11-04T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iMUR0RkdkMktQcU9vSi1Bc3FnTkRzRlhxMFdUZDdOQW1aWHlPdWJkejFPRXY1MW9kVFF6VGpzd3RZVkNFTFFTUGV6ejFPOUNBbkkxVFFhaFNTSHZkLTlWVWxObkE2TTctSHlJRTYwdw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd0lNWEVtMTJrWGltMmRPb3Q1M0VOLVUyLUU0a1BhYkhmZWl6Qm1HOUVtRFdXWkg5WWRwSDRXVmJyOGNmNm0tcG5DNVhDRVBoZkl5TmlhTktrNmRFNi1UV1FRazVfSXpDZFFCQ1RTUFc?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Foothills Multisport Fieldhouse and Athletic Park redevelopment - The City of Calgary",
+      "desc": "Foothills Multisport Fieldhouse and Athletic Park redevelopment &nbsp;&nbsp; The City of Calgary",
+      "date": "2026-11-04T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wd0lNWEVtMTJrWGltMmRPb3Q1M0VOLVUyLUU0a1BhYkhmZWl6Qm1HOUVtRFdXWkg5WWRwSDRXVmJyOGNmNm0tcG5DNVhDRVBoZkl5TmlhTktrNmRFNi1UV1FRazVfSXpDZFFCQ1RTUFc?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXVqX3BxR1VuSDdnd1FMNEJOc3ZSbm94bkw0Qjl4TW9ubFF2XzhwNmNvOHYyNUEwZ3p6RVd6aXZWNThzcnN6WnlqSjRiNkVNVzR1cXlvYURCdS00Njd5bFlWdFBqR1dQN1hjZDMxU1dnbWVqbHEtR00zZjItZDJhcTIzLUlkYXRidjU4ZXdScGI?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2080,6 +2270,16 @@
       "date": "2026-11-04T08:00:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMXVqX3BxR1VuSDdnd1FMNEJOc3ZSbm94bkw0Qjl4TW9ubFF2XzhwNmNvOHYyNUEwZ3p6RVd6aXZWNThzcnN6WnlqSjRiNkVNVzR1cXlvYURCdS00Njd5bFlWdFBqR1dQN1hjZDMxU1dnbWVqbHEtR00zZjItZDJhcTIzLUlkYXRidjU4ZXdScGI?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84blZtNEc3cHotUzRZUDVmNUFKcU5Uc3VIQ3Y4eGFvWmJJdVBCbVY2Tjc2MjNUS2NOZy1SY210Ri1RZlhoSVdQdks2MllrMlMxOGI4VmYwQkRHalFzTWhJd2dYT1k3dHcyWVhqbFVvckczZmtRckE?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Exercise Lowers Dementia Risk—But There’s a Surprising Catch, Study Finds - The Healthy @Reader's Digest",
+      "desc": "Exercise Lowers Dementia Risk—But There’s a Surprising Catch, Study Finds &nbsp;&nbsp; The Healthy @Reader's Digest",
+      "date": "2026-11-04T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84blZtNEc3cHotUzRZUDVmNUFKcU5Uc3VIQ3Y4eGFvWmJJdVBCbVY2Tjc2MjNUS2NOZy1SY210Ri1RZlhoSVdQdks2MllrMlMxOGI4VmYwQkRHalFzTWhJd2dYT1k3dHcyWVhqbFVvckczZmtRckE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1hJbmVNa1ZhZ2pQcy1oNkNMd0FUSDdwZ2pQUzZwTmh3dF9SWDAtM2xFdkp1NFRLcmJnb3RfR0syWGM4UFBEZ3UtVTFOUWwzWjRSV2lyUW5tb2JicWt4LUNrYmhvQjBGbDFWSzdxSHYyREZPMmZiakZyMVIwR0lSWWc1UE4?oc=5",
@@ -2112,6 +2312,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNmxmT1VtZDZQMDVtMUZ0VVVXdGplejBWai10am5GVXpvOHVXWk9mR2xqVUw5TVFiTnd4YlFIMDVIYmMtVGpCaUdMQVV4SGNFLU5xQlNGTVNCLVhZaFF5cHQwUTdjOTRaOEpuX1M3QW9aNVh5VDVFMTBIelc5Z05rNFdfdUxJc1NVcmdhMm1VWWF0VmQ5eFE?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDVmTTZlOElXZ1h1bi1mdjNkZFlBVEF3YUxxRGJCS2xaRFRBNUVvN2l0NVJyR2RxbGR5dG41RldtOHpsQzVZMEktcTZFdEJNNmlkUUxvS2doLS1KN1FwRnVJdmNqR0JydGNBS3dVRjlhT3pGbWdlSXRLUGZsci1vYXIxVmVsbmlCNnhIUm1YdlFLQkh4dEc1b215SGdBeWxCRHlHM1RSX2ROSDhjUktRU1lYczd2dk9Rck92eUU0R0ItcnFxdDV1ekZTbks5M0ZfcnFCWHFpUW82R0dob2xaQmVIeFQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "A $100m Brown Deer sports complex has a name as developer refines plan - Milwaukee Journal Sentinel",
+      "desc": "A $100m Brown Deer sports complex has a name as developer refines plan &nbsp;&nbsp; Milwaukee Journal Sentinel",
+      "date": "2026-11-03T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaDVmTTZlOElXZ1h1bi1mdjNkZFlBVEF3YUxxRGJCS2xaRFRBNUVvN2l0NVJyR2RxbGR5dG41RldtOHpsQzVZMEktcTZFdEJNNmlkUUxvS2doLS1KN1FwRnVJdmNqR0JydGNBS3dVRjlhT3pGbWdlSXRLUGZsci1vYXIxVmVsbmlCNnhIUm1YdlFLQkh4dEc1b215SGdBeWxCRHlHM1RSX2ROSDhjUktRU1lYczd2dk9Rck92eUU0R0ItcnFxdDV1ekZTbks5M0ZfcnFCWHFpUW82R0dob2xaQmVIeFQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0tFcXpXZXExUUZrakVhbHJGaEFtazdxSGI5Y1Bld2RUV0tvUDVSS0dkdUk0b0g2aFAxTnJfVWxfd2p1OXdOdHJhMGNFWG5raktLR0x4Q3VfZw?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2140,6 +2350,16 @@
       "date": "2026-11-02T08:00:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4akVfQzBJc2NqSnRfZkh2dmpTVUhzTjF2cFZOZkEwY1VrTkFTODgyUVF2X1p5LV9sRWRSejBwQ210dFh0ak5OLTFualV5TGxhNWRndkplQ1lHN21IZGpndTlkM2JrcEY5SGJSSjlGbGlSRS10QnREQ3pR?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjBoQTJZV1VXTllrWVJRLS1iN0tDYmI4T2N0RkxvM1dJNkFyVlpIQW5GczZtWjd6N21MR1V3dVRGaXNmQzd1akJBMllwcHY2Yml0U1dtdjMyR2NiS25rMk5MM2ctR2RMQ2hkTW96SENObE1zQ1BJblFfVTZlYXZXTDkzQU5OUjZJMTM4eV9IZXhydFVjSGM1OGl3?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "JMU students take center stage at 2026 FIFA Men’s World Cup - James Madison University - JMU",
+      "desc": "JMU students take center stage at 2026 FIFA Men’s World Cup &nbsp;&nbsp; James Madison University - JMU",
+      "date": "2026-10-30T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjBoQTJZV1VXTllrWVJRLS1iN0tDYmI4T2N0RkxvM1dJNkFyVlpIQW5GczZtWjd6N21MR1V3dVRGaXNmQzd1akJBMllwcHY2Yml0U1dtdjMyR2NiS25rMk5MM2ctR2RMQ2hkTW96SENObE1zQ1BJblFfVTZlYXZXTDkzQU5OUjZJMTM4eV9IZXhydFVjSGM1OGl3?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMW1RWEs2c1ZFbG1CR2dXa0NwejdBYzNfV3NnYjZZWHAta3lmRnpEM1RHSTZmamloeVYzTC1kRklfVzA3OEZuN1lPWWFJeTJETmJTRm40Z2lLcjdLMFZPdVMwc0FULWlnd0xobS1NdGt2OE5XVWYzcTBPTUNoV1l2NnpqS0FDTDBDSHVZTERyRWZ1Y3l6bmZYSnBqMFRZVDc4TGJHdDFVaFhnbmxPNnZKSGhUbS1ycmU0?oc=5",
@@ -2182,6 +2402,26 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlRZejZaTDZLLWE3ZVFxbE4wOEZSSFZUZEU3VW1GWVFLam80RkxlMWJtM2JGeUVHNGtkUVhyelNoRUZacWIzc2hBX3pNWEdYTmU3a1Vaa2R1ZzJjMGlHdzlkTWVWLXotSVpGVEVwbHVvbE5Bcm44S1hFQlcwOEQ5a1lEX0NvR2NyX3E2aHdkMENWQQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelpuSV84OXVGUWMwQ1l6aVF5LXNoNG9tUFVEcDcyZFNSVjQwR3oycnRKWkw4QTdJUnhRenJUeXBFdHdSdEtZR0pwS3hBcENpNE9oN0JrSHo5blkybGlUMDk5NXpRd2ExVHJoY2ozSUwxSlV2MXRsNFlUQUtFOUhhWWF1dV96SlNJb2U4MkppLTB0T1JYTjFNQjA2WVVxTW5WY0tGbg?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Building resilience through blue exercise - Frontiers",
+      "desc": "Building resilience through blue exercise &nbsp;&nbsp; Frontiers",
+      "date": "2026-10-28T17:37:23+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelpuSV84OXVGUWMwQ1l6aVF5LXNoNG9tUFVEcDcyZFNSVjQwR3oycnRKWkw4QTdJUnhRenJUeXBFdHdSdEtZR0pwS3hBcENpNE9oN0JrSHo5blkybGlUMDk5NXpRd2ExVHJoY2ozSUwxSlV2MXRsNFlUQUtFOUhhWWF1dV96SlNJb2U4MkppLTB0T1JYTjFNQjA2WVVxTW5WY0tGbg?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0J3REJ3bmwxdmpfZGNtY05EZkxLS19MamptRl91N3U0U01qTHJDMFo5S0dWZ2F1TkQ1MGtGLVNYYzJaZjJ1VGVkYVlhVEIyQ3VBMENGbTBBZThNN0dMNS1VUDhCSFkzbnlEUUdGbkJoajJQWGlid2hJVEJ0UDNYSkhIZVFfa2ZMWnJxZnVBRTZwcEdaR3FDNjFHcUgtQ2VRaDZ6T1JIUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Vikings owners’ investment arm backs rec-tech startup, with Bloomington in the initial pilot - The Business Journals",
+      "desc": "Vikings owners’ investment arm backs rec-tech startup, with Bloomington in the initial pilot &nbsp;&nbsp; The Business Journals",
+      "date": "2026-10-28T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR0J3REJ3bmwxdmpfZGNtY05EZkxLS19MamptRl91N3U0U01qTHJDMFo5S0dWZ2F1TkQ1MGtGLVNYYzJaZjJ1VGVkYVlhVEIyQ3VBMENGbTBBZThNN0dMNS1VUDhCSFkzbnlEUUdGbkJoajJQWGlid2hJVEJ0UDNYSkhIZVFfa2ZMWnJxZnVBRTZwcEdaR3FDNjFHcUgtQ2VRaDZ6T1JIUQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNNllGNDNxY2dpcHI0YnBhS21DUWtmSlJFTHJpZmQ3UTgtQ2U1dUJMbVFQMTBBOEYteURNai1BblBJQTZ3WTlSUXhtbjNrTThwWXZLVXcydk5LUnMyUGtGb1VlZFN3MTk3bWNZel8xRzQyYXRUWWxOV2p0Z19tWUIyZUlJdlBZUGU3QnRnQ2JfdUdxUi1EVC1ZZzJud0xsai1TU0Z3WGRCWUVGWmV6U1JFMEY3dG9DQkNKcDdGNVhmd0t1N3dQS2tGcG9td1dueTVLMXZzNW9NbERxUDVpemVLR3J6Qnp2RXpCMjdRN04taVg3b0RBdzhqN2xTQkpkalo3REVYQTFwWnc5MWd0dENLZzRHZ3llSGY0SWV0T0RKWXdnclMtdkVWaHV2bldWdE5HUVlwTnlOR3lidw?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2222,6 +2462,26 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3AyX3gwVUVPc0NKcEVQSU1ZdU9HcXQ1cGxQVU4wQ21pUXhZUm1jTTNBbFZoaHhZSDVQd3VUM3JnLVdFU3FRQnJ3VVU5N2pFQjFYOHFwYS1Bd3JPeDdMVjhOamVFMWpSekFCTmpHRUt6dU1PODJIVzZXNkZjdDFIbkxzX3VOQUxNaS1SZEhEVQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUJsNF80Nnh6YmpybDY3Qnh1MWVKeFJobVotbVNIVTNKcnZRbHRMcHNkSXRNLVdabXU3cGd6UVFxX2lIRkYzR2NYN045ZlV1cWhrWENJbndidHk5a0Z1cDNiMEZuNkphWWVwYWV0ZWktaUVUSUR0WXdQekh0MXcxWENzbw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "2025-2026 Physical Education, Athletics, and Recreation (PEAR) Planning – Facilities - Carleton College",
+      "desc": "2025-2026 Physical Education, Athletics, and Recreation (PEAR) Planning – Facilities &nbsp;&nbsp; Carleton College",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTUJsNF80Nnh6YmpybDY3Qnh1MWVKeFJobVotbVNIVTNKcnZRbHRMcHNkSXRNLVdabXU3cGd6UVFxX2lIRkYzR2NYN045ZlV1cWhrWENJbndidHk5a0Z1cDNiMEZuNkphWWVwYWV0ZWktaUVUSUR0WXdQekh0MXcxWENzbw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUhZX19fRGRaWDNjdG1YLUVzb3ZhUjRsVFBUbVFEd0RzamQyaDFiUS1KQWZQdzQ4RW9DR2g2LUlEVU9rTDgxYlhBMHRQSTRFWnBqb0NYb3cwTlZWaVR0ZG16eWYwemo1UTBuNFcyZ19lejBzMGt6U0FNUHFuQ3hXcFJranphRkdoZ3c4Skd4UmtPNndicjNWbVJFMFdIS3g3UWJEZFBudGF0Y0NzVmpxc0J6ajZrYVNYc2c?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "The Woodlands Township advances study for indoor sports facility - Community Impact Newspaper",
+      "desc": "The Woodlands Township advances study for indoor sports facility &nbsp;&nbsp; Community Impact Newspaper",
+      "date": "2026-10-26T07:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUhZX19fRGRaWDNjdG1YLUVzb3ZhUjRsVFBUbVFEd0RzamQyaDFiUS1KQWZQdzQ4RW9DR2g2LUlEVU9rTDgxYlhBMHRQSTRFWnBqb0NYb3cwTlZWaVR0ZG16eWYwemo1UTBuNFcyZ19lejBzMGt6U0FNUHFuQ3hXcFJranphRkdoZ3c4Skd4UmtPNndicjNWbVJFMFdIS3g3UWJEZFBudGF0Y0NzVmpxc0J6ajZrYVNYc2c?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00bmRsMGQxY1Q2UXRnNkpNaC1BM0xYcE1iWHFJZDZpcGRKMXEzeG04amRyT1hhaDh3dUdaYm01bE9iNUw5SXFPQ2Jhb2xfeEJiWVVIdHhJbVE4UEdm?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2240,36 +2500,6 @@
       "date": "2026-10-26T07:00:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYm5fZ1FJNVJHZ3pNdWUzNGZpTk5OODdzWUZnMUQxSjZyaUdlQ080TWtNcjNoQ0hCUHRkdUxyVzJVNE1rampnb1UxN1FmYzlpc2J1NmtmM01sZFZOSkQwemhPb3JjYU53bFR6MGVXOA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjNZWENIZFhsUlVUXzR3Rks3SDBQYmxXdUNoeVFkMUU4eFlxT3dYMnZwNTBONlFmbFNDdnkxcE9GNVZEbTc2c3FjQ0hIcWpIM0xlYVRNcGNDOEpqMVB3QUl0WFVOcUR1MzM1bEg2WUVKN3ZEOU1CdWdUQ0ZheU1VT1V4VkE4eEZsS1g1R3RFYkJaOXl6SV9IcXFqWTVlMWVaTDA1Q2hXdzdmYlRfR2FNd3ZZVE5XRmc5c0hFLUhVekFuTWFHcHNfZjJ1WTJlV1ZjcFBIbVZ1eXluTHN4S0lfSWwwVVpJY0tRM29lVWNwZFZob0lvd0JwdE1UY3JBWG81REFkbDAwTUIzbFNTSGpB?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Työikäiset suomalaiset kertovat liikkuvansa enemmän, mutta liikemittarilla mitatut askelmäärät eivät ole kasvaneet - STT Info",
-      "desc": "Työikäiset suomalaiset kertovat liikkuvansa enemmän, mutta liikemittarilla mitatut askelmäärät eivät ole kasvaneet &nbsp;&nbsp; STT Info",
-      "date": "2026-10-26T07:00:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPbjNZWENIZFhsUlVUXzR3Rks3SDBQYmxXdUNoeVFkMUU4eFlxT3dYMnZwNTBONlFmbFNDdnkxcE9GNVZEbTc2c3FjQ0hIcWpIM0xlYVRNcGNDOEpqMVB3QUl0WFVOcUR1MzM1bEg2WUVKN3ZEOU1CdWdUQ0ZheU1VT1V4VkE4eEZsS1g1R3RFYkJaOXl6SV9IcXFqWTVlMWVaTDA1Q2hXdzdmYlRfR2FNd3ZZVE5XRmc5c0hFLUhVekFuTWFHcHNfZjJ1WTJlV1ZjcFBIbVZ1eXluTHN4S0lfSWwwVVpJY0tRM29lVWNwZFZob0lvd0JwdE1UY3JBWG81REFkbDAwTUIzbFNTSGpB?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV0dfSXNpekYyRUFSeV9lalI4QVNrVmNGTU9OYUJPcE1UbnVLcXJwWkVPUDdqWDhqbTNPNUdYQmt6eEdFdU1TWlFZVzd3Q0lBY1plYmc0N3FVOC11UTVv?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Additional effect of pain neuroscience education to neuromuscular exercise in chronic low back pain: a randomized controlled trial - Nature",
-      "desc": "Additional effect of pain neuroscience education to neuromuscular exercise in chronic low back pain: a randomized controlled trial &nbsp;&nbsp; Nature",
-      "date": "2026-10-26T07:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VV0dfSXNpekYyRUFSeV9lalI4QVNrVmNGTU9OYUJPcE1UbnVLcXJwWkVPUDdqWDhqbTNPNUdYQmt6eEdFdU1TWlFZVzd3Q0lBY1plYmc0N3FVOC11UTVv?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVU4SHFiTTR5XzlnSVFUQ2kwS2dabmdKWDdpME9IN0JGYXhOUkw0YVgxTmJscFU2VmNRdDNVZWVsd1E3SHl2S0hGTG1UN2I2dmFkNnk2YXlIQV9ycWotU3JiSXI5bWs2Mlk2LVo0RlVxd0c4dnNGcjlNR2s4MXJoQ3RPV3dnNERnZGEwTjN6eXBPUQ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "The effects of physical exercise interventions on executive function in children and adolescents with autism spectrum disorder: a three-level meta-analysis and systematic review - Frontiers",
-      "desc": "The effects of physical exercise interventions on executive function in children and adolescents with autism spectrum disorder: a three-level meta-analysis and systematic review &nbsp;&nbsp; Frontiers",
-      "date": "2026-10-25T21:46:14+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVU4SHFiTTR5XzlnSVFUQ2kwS2dabmdKWDdpME9IN0JGYXhOUkw0YVgxTmJscFU2VmNRdDNVZWVsd1E3SHl2S0hGTG1UN2I2dmFkNnk2YXlIQV9ycWotU3JiSXI5bWs2Mlk2LVo0RlVxd0c4dnNGcjlNR2s4MXJoQ3RPV3dnNERnZGEwTjN6eXBPUQ?oc=5"
     }
   ],
   "sources": [
@@ -2333,7 +2563,7 @@
       "name": "Google Uutiset",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "reason": ""
     },
     {
@@ -2346,15 +2576,15 @@
     {
       "name": "Google News",
       "category": "Liikunta-ala",
-      "ok": false,
-      "count": 0,
-      "reason": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 25,
+      "reason": ""
     },
     {
       "name": "Google News",
       "category": "Tutkimus",
       "ok": true,
-      "count": 30,
+      "count": 31,
       "reason": ""
     },
     {
