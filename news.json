@@ -1,12 +1,102 @@
 {
-  "updated": "2026-11-24T13:02:31.400057+00:00",
+  "updated": "2026-11-24T14:52:09.876504+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20257272?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Etelä-Karjalassa ambulansseja on yöllä niin vähän, että yllätyksiin ei ole varaa",
+      "desc": "Etelä-Karjalan ambulanssit ovat joutuneet tekemään useita kymmeniä tehtäviä Etelä-Savon puolelle, koska ambulansseja ei ole.",
+      "date": "2026-11-24T16:47:35+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20257272?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258710?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Analyysi: Magdalena Andersson luovutti ja avasi oven oikeistohallitukselle",
+      "desc": "Magdalena Anderssonin epäonnistuminen asettaa Ruotsin keskustapuolueen vaikean valinnan eteen, kirjoittaa ulkomaantoimittaja Roni Kuronen.",
+      "date": "2026-11-24T16:31:07+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258710?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258708?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Tapparan päävalmentajalle potkut – Jukka Rautakorpi tilalle",
+      "desc": "Jukka Rautakorpi korvaa Fredrik Norrenan Tapparan päävalmentajana.",
+      "date": "2026-11-24T16:01:49+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258708?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258625?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Trump painosti Nvidiaa ottamaan Jensen Huangin takaisin – kolme syytä selittää presidentin toimintaa",
+      "desc": "Yhdysvaltain ja Nvidian poliittiset ja taloudelliset intressit kietoutuvat yhteen poikkeuksellisella tavalla.",
+      "date": "2026-11-24T15:57:42+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258625?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258746?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Jonna Sundling ei kilpaile Rukalla – tässä Ruotsin joukkue maailmancup-avaukseen",
+      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
+      "date": "2026-11-24T15:56:01+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258746?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258738?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Selvitys: EU:n lakien määrä yli kaksinkertaistunut 15 vuodessa",
+      "desc": "Muutos selviää Wienin yliopiston professori Stefan Wagnerin ja ESMT Berlinin yhteistyössä tekemästä tutkimuksesta.",
+      "date": "2026-11-24T15:33:00+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258738?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20256544?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Sanna Romakkaniemen käsketään hankkia mies avukseen töihin: ”En ole löytänyt nappia, joka ei toimisi naisen kädessä”",
+      "desc": "Lapin yliopiston tuoreen tutkimuksen mukaan naisten asema poronhoidossa vahvistuu.",
+      "date": "2026-11-24T15:27:18+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20256544?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258615?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Henry Patten ilmestyi selittämään ratkaisuaan Harri Heliövaaran blogin kommentteihin: ”Harri on paras ystäväni”",
+      "desc": "Henry Patten pelaa jatkossa nelinpeliä Neal Skupskin kanssa. Harri Heliövaaran uusi pari on Julian Cash.",
+      "date": "2026-11-24T15:04:48+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258615?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258724?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Googlen Muhoksen datakeskusalueen töitä saa jatkaa vesistöhaittojen välttämiseksi",
+      "desc": "Valvontaviranomainen on antanut luvan töille, joilla jotka ovat välttämättömiä vesien hallinnan kannalta.",
+      "date": "2026-11-24T14:59:47+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258724?origin=rss"
+    },
     {
       "id": "https://yle.fi/a/74-20258696?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Miten vaaratiedotetestaus onnistui? Seuraa tästä sisäministeriön tiedotustilaisuutta",
-      "desc": "Sisäministeriö kertoo vaaratiedotejärjestelmän testauksesta kello 15.",
+      "title": "Arvosanaksi 9-, mutta erikoisuuksiakin oli – näin sisäministeriö kertoi vaaratiedotteesta",
+      "desc": "Hämmentävät tekniset ongelmat saattoivat johtua päivitysten puutteesta.",
       "date": "2026-11-24T14:50:44+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258696?origin=rss"
@@ -23,8 +113,8 @@
     },
     {
       "id": "https://yle.fi/a/74-20258716?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
+      "cat": "Tampere",
+      "icon": "🏙️",
       "title": "Tampereen oikeuteen vienyt kirjastokahvilan yrittäjä perui valituksensa: korvauskonkurssi uhkasi",
       "desc": "Mahdolliset oikeudenkäyntikulujen korvaukset olisivat olleet yrittäjälle liikaa. Kahvila siirtyy uusiin tiloihin tammikuussa.",
       "date": "2026-11-24T14:38:33+02:00",
@@ -35,7 +125,7 @@
       "id": "https://yle.fi/a/74-20257987?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Isac Elliot myi toisenkin Olympiastadionin keikan loppuun",
+      "title": "Isac Elliot myi kaksi Olympiastadionin konserttia loppuun",
       "desc": "Isac Elliotin stadionkonserteissa on käytössä uudenlainen viivakoodilippu.",
       "date": "2026-11-24T14:20:28+02:00",
       "source": "Yle",
@@ -82,6 +172,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/24/rantaperkiossa-muutoksia-kulkureitteihin-2711-pyorailyn-seudullinen"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWUlCLUpCS0Nqd1FESGVrYTJmZXRKX1NHWklvbHJKdHg1empubVNDZWN1b3J1XzJDMEItSmV0Z1VxRERUcHQwa2ZyY2NGRE54MGhvWUNMam9yZ2RRUkNyYXdJR001ZDQwMUg3RmZTQTMtZ3JkMXVGbDNrMGVSQXRZRTZ1V0NxV01MYUR4eDJNekowOUVRR3ZNTjQ5dGZ3Z0JLb2FXZ1pxVGxCRndpODIxQnlWeE9nclRfakNGOUk4TEIyZVQ3emk0YTBtQVI4UjFwRXhwN1psZFo3cS1wVUxJV0t6TGpiYnJQNERTWUQyMFpoa3ROTU1PWFpYYV9kbGQwLV9aaUVjQWhiMy1pdjk4ag?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Ministeri Ranne tekoälyn turvallisuutta edistävässä YK:n huippukokouksessa: ”Tekoäly pitää laittaa kuriin globaalisti” - STT Info",
+      "desc": "Ministeri Ranne tekoälyn turvallisuutta edistävässä YK:n huippukokouksessa: ”Tekoäly pitää laittaa kuriin globaalisti” &nbsp;&nbsp; STT Info",
+      "date": "2026-11-24T13:55:42+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWUlCLUpCS0Nqd1FESGVrYTJmZXRKX1NHWklvbHJKdHg1empubVNDZWN1b3J1XzJDMEItSmV0Z1VxRERUcHQwa2ZyY2NGRE54MGhvWUNMam9yZ2RRUkNyYXdJR001ZDQwMUg3RmZTQTMtZ3JkMXVGbDNrMGVSQXRZRTZ1V0NxV01MYUR4eDJNekowOUVRR3ZNTjQ5dGZ3Z0JLb2FXZ1pxVGxCRndpODIxQnlWeE9nclRfakNGOUk4TEIyZVQ3emk0YTBtQVI4UjFwRXhwN1psZFo3cS1wVUxJV0t6TGpiYnJQNERTWUQyMFpoa3ROTU1PWFpYYV9kbGQwLV9aaUVjQWhiMy1pdjk4ag?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/24/mennyt-maailma-tampere-1900-luvun-alussa-nayttelyn-sisalto-on-nyt",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -110,16 +210,6 @@
       "date": "2026-11-24T13:04:35+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258686?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20256105?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Maailmalta saapuu edelleen nuoria suomalaisiin lukioihin – 9000 euron lukuvuosimaksu ei pysäyttänyt Kiteelle tulijoita",
-      "desc": "Ulkomaalaisten opiskelijoiden maahantulo on vähentynyt tänä vuonna tuntuvasti. Pienestä kielialueesta huolimatta turvallinen Suomi on yhä haluttu kohde.",
-      "date": "2026-11-24T13:01:44+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20256105?origin=rss"
     },
     {
       "id": "https://yle.fi/a/74-20258652?origin=rss",
@@ -162,16 +252,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNODc0cU9FRGRIUWU5dzFpY3VseHFRZ2FlSTdCYlJaZk4yRUZ5alhIeEVzaVJ1aFRuX2tRaHcxU3VJMC1mQl95akJudDJ0ckFDakUyRHJCQ3BIUGVGbjNfUDFHdUJfQTFpLV8xd1VXR29ENUN0cVY4ZHZtenYzS2UzU0pTdkNTTmRLOFN4NG9raVhhc0trT0REX0hXVDZrWmJERDF0YndUcnZxNXc2aGpSRlFob1duNTRaTDdIakoxcWEtR1dvZXJud2tTNExYdktuN3dfLVREdWtYTmRjS2xVS3hILUtLT2VCazBtaGtWUVNHZTRiVGNMZ3FCVQ?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20258619?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Puolustusvaliokunnan Autto: Ukraina iskee tarkasti, meriliikenne suomalaisille turvallista",
-      "desc": "Venäläinen rahtialus Sparta II sai lauantaiaamuna osumia olettavasti ukrainalaisista drooneista ja syttyi tuleen Suomenlahdella.",
-      "date": "2026-11-24T11:49:07+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258619?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20258663?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
@@ -202,6 +282,16 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLXhyMnBBV2lITi1IQkJONmdsVlhYVGEwdFVXaXRqSWlwTDBQbzhkWkVLVXdEYzF4THlKY2RfU2FMbktvVjAzU0hwU0tRWW1UdTVDVEJLNV9HOXhYQUVXTW9MQnpfUVl6bXY3ZDdrZ1kyMy1aY0E0ckFJbXFwYjBwUlhBR3FLbzZ1dlNsa0JYMkhRMWprTlA3NUZHVXpmQUJzUUVrWHdwSlpfSFRjUmctbnlINmNBdWxGaU1CckVRQ19TU195Mzkxd0d5WQ?oc=5"
     },
     {
+      "id": "https://yle.fi/a/74-20258616?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Kaikki suomalaiset eivät saaneet taaskaan vaaratiedotetta",
+      "desc": "Suomalaisten puhelimet hälyttivät tänään kello 12:n jälkeen. Viestien muotoilussa oli runsaasti eroa ja niitä saapui eri aikaan.",
+      "date": "2026-11-24T11:30:35+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258616?origin=rss"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVcxR0VEcHpvaXNJV01JSnVrT20zOUY4RDA0S2dVc1ViZVREUzBaeDcxV05UQ0ExenNfblk2YlZPaUY1QjdsOG5tMHNDNkZkTXdPaU42MDgwb1VDekI4eld2MFFidjRMMVFRZzJQajlfaUF1TVB1R2dZenVjNlFsdWo2NWhzb3dYOGhuSjAyRmhfVG56UUhNcQ?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -210,16 +300,6 @@
       "date": "2026-11-24T11:16:47+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVcxR0VEcHpvaXNJV01JSnVrT20zOUY4RDA0S2dVc1ViZVREUzBaeDcxV05UQ0ExenNfblk2YlZPaUY1QjdsOG5tMHNDNkZkTXdPaU42MDgwb1VDekI4eld2MFFidjRMMVFRZzJQajlfaUF1TVB1R2dZenVjNlFsdWo2NWhzb3dYOGhuSjAyRmhfVG56UUhNcQ?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258648?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Lahti peruu kohutun nuorten Homodiskon – tapahtumaa uhattu väkivallalla",
-      "desc": "Kaupunki perustelee päätöstään ulkoisella turvallisuusuhalla. Kaupunki ja tapahtuman järjestäjät ovat saaneet runsaasti uhkaavia yhteydenottoja.",
-      "date": "2026-11-24T10:43:39+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258648?origin=rss"
     },
     {
       "id": "https://yle.fi/a/74-20258627?origin=rss",
@@ -330,26 +410,6 @@
       "date": "2026-11-24T05:15:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnkwVDk3dExCU2pMaldVbzZVTUpUTFI2cG5mSzRKNC02MDFuSV9neWgtcURSQnktSm5kWHZXdV8yc2VSdHhyTzVzd3N0Uk1zLUMxaTE1MkJScDc1Z2lCcFByYlN3Vl9vd083dXdUMGNEWl9DeGhqSlJzTWctbVRwcklWbDlsM2o5STJYdTRTZV9fc0JIbnBoUWJHUlRYWDlxMWdfZDhaaDBnTnZXeTF6ZjR6SDJIUzVueVFEcnp4TWFCS185MkZ2eWdTak90QmhBNDdINGhUblQwd0NzbTU4SHYzQWdGMDZl?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQW42bjRaQXNUTlFhdk5fRUQ0UGh6blliNFQxQllMb1BlVk1tYThKanltLUVGY1daRFBkX2ZuUEh5RWZxYUhEcXc0bm5kY0pqWnI5UXJLbGJUSmxQOUl3RFRzYzVaY3ZBOVhiVWUwdjJ1d0VJWTFpdWhMNWRkdTdMMHM5ODVNQU5helE?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "K-Celeb Kim Sung-ryung Reveals a 20-Year Morning Routine of Exercise and Protein for Managing Age-Related Weight - 헬스조선",
-      "desc": "K-Celeb Kim Sung-ryung Reveals a 20-Year Morning Routine of Exercise and Protein for Managing Age-Related Weight &nbsp;&nbsp; 헬스조선",
-      "date": "2026-11-24T01:54:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQW42bjRaQXNUTlFhdk5fRUQ0UGh6blliNFQxQllMb1BlVk1tYThKanltLUVGY1daRFBkX2ZuUEh5RWZxYUhEcXc0bm5kY0pqWnI5UXJLbGJUSmxQOUl3RFRzYzVaY3ZBOVhiVWUwdjJ1d0VJWTFpdWhMNWRkdTdMMHM5ODVNQU5helE?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGlLc3NJb0x4WnVDWk5ZVFdvOEVlR09pUFV4ZkF1MjVhYjltLUZ5SmZVdno2UEdxa1RfRlJEZ0RpRUlwczJyck9QWlY1dmZtNlltdGl1bGF5aVJXbzhMb1hYNGxXcXU0TjlhWFVzUnlpOU9mMUJZRzNzeDEyTVRXRzhodEotNW9yendMenJYNEt0djVUelRoSjNZNHhoVTZkWm5oVk1meWRRX1B2elpDdklxN2tCT2dB0gG4AUFVX3lxTFBQb2tIUEZyTU5kM0c1LXMtTjRFZGhPWVo1X09RQUVTekVHVHdDZE56SmVRRkl1WTlreTVEWVZxUEJGNU9uYmxObVVJTUc0YXlEMmUzTmpvUEUzbUhZYVgwbEgtQnY1YkFiTVJzaXJtSG1GdmphZXAwNmhOMHB0dnpQai1XVjVnQlBaVmpocjBpVXVXMmVkU1MwUDMwdjNNZGxBTmMwN3dEZ2tjR0lYZkktU3ZJaUtTWEs?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Opinion | In Hong Kong, putting a number on a sports club lease is complicated - South China Morning Post",
-      "desc": "Opinion | In Hong Kong, putting a number on a sports club lease is complicated &nbsp;&nbsp; South China Morning Post",
-      "date": "2026-11-24T01:30:06+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGlLc3NJb0x4WnVDWk5ZVFdvOEVlR09pUFV4ZkF1MjVhYjltLUZ5SmZVdno2UEdxa1RfRlJEZ0RpRUlwczJyck9QWlY1dmZtNlltdGl1bGF5aVJXbzhMb1hYNGxXcXU0TjlhWFVzUnlpOU9mMUJZRzNzeDEyTVRXRzhodEotNW9yendMenJYNEt0djVUelRoSjNZNHhoVTZkWm5oVk1meWRRX1B2elpDdklxN2tCT2dB0gG4AUFVX3lxTFBQb2tIUEZyTU5kM0c1LXMtTjRFZGhPWVo1X09RQUVTekVHVHdDZE56SmVRRkl1WTlreTVEWVZxUEJGNU9uYmxObVVJTUc0YXlEMmUzTmpvUEUzbUhZYVgwbEgtQnY1YkFiTVJzaXJtSG1GdmphZXAwNmhOMHB0dnpQai1XVjVnQlBaVmpocjBpVXVXMmVkU1MwUDMwdjNNZGxBTmMwN3dEZ2tjR0lYZkktU3ZJaUtTWEs?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258584?origin=rss",
@@ -792,6 +852,16 @@
       "url": "https://yle.fi/a/74-20258573?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWU8ta0E4UjU5aU5GUUx6bkNxSktfT0RjU1RBZnFTYWpmeEFxS3RsbVdBeFBXZlJXS0dMRnJRVEY5bmoyR3BZU2htVHZTUW5wRmRXRm5WdG5RaTFZY0lIU19xSjlNRTJzano4YTdFRnJBVmJrdF94ZXh1T1hwYlFSOFdwOUtwejQzamZnV3E2X0NZVHZPLVFUU1FzN09HaUg1dHJ2TTM2X19ucndjSXRYczI3VHB4THZoRmxBc0hJVVBST1NfMVo4WGRWM1h2OU1vQVA1QkdKUFNhWU1TMWViQUZxYnQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Farmington Hills seniors fight for funds to replace Costick Center - The Detroit News",
+      "desc": "Farmington Hills seniors fight for funds to replace Costick Center &nbsp;&nbsp; The Detroit News",
+      "date": "2026-11-23T19:40:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWU8ta0E4UjU5aU5GUUx6bkNxSktfT0RjU1RBZnFTYWpmeEFxS3RsbVdBeFBXZlJXS0dMRnJRVEY5bmoyR3BZU2htVHZTUW5wRmRXRm5WdG5RaTFZY0lIU19xSjlNRTJzano4YTdFRnJBVmJrdF94ZXh1T1hwYlFSOFdwOUtwejQzamZnV3E2X0NZVHZPLVFUU1FzN09HaUg1dHJ2TTM2X19ucndjSXRYczI3VHB4THZoRmxBc0hJVVBST1NfMVo4WGRWM1h2OU1vQVA1QkdKUFNhWU1TMWViQUZxYnQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0RRclI3UnJjZ2ZRT1A3QlFBVDJLMzNOcGNrN0RObUhyakttaXJuWTIxVy1BYUI4V29WVDVSbURZWHlIY2tJMUp5ampLWVloSkdZOW9PWEFoeHBXd2x6VnN0UWZrbGpiTjVNUTJWbHdRd2xITnh3eVo4MktnZ0RLZHkzSllld2tKaGFjc3hMaDJhUkljZDAtdzVjREs?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -992,16 +1062,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4eUw0RlB0aXFXZDRjTlFjMmE4WktsQ3o5a3o0UWNrNDhtUm1wZUtjUEhOYmJ3LWVuS1g0MG0wY2djdGlyT0tod3NhVGV5UkJaSWU5cm43b3pvaVV1WldIMU1XMTRTSlNKN3Zna05wT2NMdG1jOEtMazRGT1E0UQ?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20258540?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Jensen Huang palaa Nvidian johtajaksi – osakkeiden arvo jyrkkään nousuun",
-      "desc": "Nvidian perustaja Jensen Huang erosi 12. marraskuuta salasuhteisiin liittyneen skandaalin vuoksi.",
-      "date": "2026-11-23T16:03:40+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258540?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20249170?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1010,16 +1070,6 @@
       "date": "2026-11-23T16:03:36+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20249170?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258529?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Belgian lentoliikenne jumissa laajan lakon vuoksi",
-      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
-      "date": "2026-11-23T16:02:52+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258529?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3VZZjZrRzZBbVZTNUVpdkZvQUtFSVd1d0JwcmdSSzVmdkFmeE1KMEQ4emJSZWFQOG4xVzJkNWp0dGROaE8ya2tVTTdfSXBmTHZqY2VZVlVGRDg3b0tVSGkzenVKTl8xcDVfUExURnBxQXJPbUNRZ2hoRzJnLUc4OUtPZ0tSWE45SFZGeFBLVlZzejhUdmpzYUZBQ2xLLV9Qdmp3aE5JcF9kTWRpTGxVcGhHbG1HYTJvZ21FVDkzMllYcGtpWUFBOWN5cnJpZHl1Mmc?oc=5",
@@ -1052,16 +1102,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1dqVF9pbHR0Z0JaeEdXdlNOYVZvMW03UTNwSlh0dlhFMG9OdE00bHo3UHVITmtYYnppTURHNUUzeEFOTUpqcHRJYkpzbDQwczNkV3oyaExTZ2d5YnFyY0JmWndQUlJybXRRWTdfcGVqUjB4ZE9wVkhyYzVpa0tSNjYxS2NIOFU?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20258506?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Ilmastokokous oli fiasko, mutta suomalaiset yritykset eivät siitä välitä",
-      "desc": "Ilmastokokouksen päätökset tai päättämättömyys näkyvät ensimmäisenä yrityksissä. Kysyimme asiantuntijoiden näkemyksiä sunnuntaina loppuneen kokouksen seurauksista.",
-      "date": "2026-11-23T15:57:35+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258506?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20258398?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -1090,6 +1130,16 @@
       "date": "2026-11-23T15:21:10+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258521?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjY0MGQxcVNueUp1S1EydzFiWExST1FYOGhZNF9BN1k0TDc2bGROS1NzX0lsbENlYVlSMlgzMjZYX2VVR2hZWW1LTVlTUU53RWJSODlxUGpNdUljT3lSYjQ1MzJ2LWkwTVRhMURxS2Y0Skx1WUpZa0VoYTA0dE9zQ1hKcUc1a1FMeFUwTk51blM1SnYtTmwxZkRWMFZsb3pkaW5sOUxzem9jSERNSnZnRmdFUVZBbndPTDBpdEcwanYxQzMtMEctT21UUGpjZHE4MWFPNjFlMl8?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Study of Indian Dietary Intervention in Early Type 2 Diabetes patients show encouraging results - Big News Network.com",
+      "desc": "Study of Indian Dietary Intervention in Early Type 2 Diabetes patients show encouraging results &nbsp;&nbsp; Big News Network.com",
+      "date": "2026-11-23T15:21:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjY0MGQxcVNueUp1S1EydzFiWExST1FYOGhZNF9BN1k0TDc2bGROS1NzX0lsbENlYVlSMlgzMjZYX2VVR2hZWW1LTVlTUU53RWJSODlxUGpNdUljT3lSYjQ1MzJ2LWkwTVRhMURxS2Y0Skx1WUpZa0VoYTA0dE9zQ1hKcUc1a1FMeFUwTk51blM1SnYtTmwxZkRWMFZsb3pkaW5sOUxzem9jSERNSnZnRmdFUVZBbndPTDBpdEcwanYxQzMtMEctT21UUGpjZHE4MWFPNjFlMl8?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258407?origin=rss",
@@ -1162,6 +1212,26 @@
       "url": "https://yle.fi/a/74-20258462?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGM0aXdWTXBRZy1va0Y3ZnRPQ0t1XzFxaVZ1VnJNMS16QmxkNGtVNmdLbVdsVTd5TUU1SGNvYmpOcEFHaFNfc2FKRWxGRmI0SXZCTUlHa3pwQl9FOEJRQmFqb0tMa1E3VGZMMGI4ak5NdklKZUNBdXlyTDM4cFNWTWlxbU52WTVUYlpZemZjb0NsX0ZycnRr?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Kau­pin ulkoilu-​ ja hiih­to­reit­tien ke­hit­tä­mi­nen - Tampereen kaupunki",
+      "desc": "Kau­pin ulkoilu-​ ja hiih­to­reit­tien ke­hit­tä­mi­nen &nbsp;&nbsp; Tampereen kaupunki",
+      "date": "2026-11-23T13:04:53+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGM0aXdWTXBRZy1va0Y3ZnRPQ0t1XzFxaVZ1VnJNMS16QmxkNGtVNmdLbVdsVTd5TUU1SGNvYmpOcEFHaFNfc2FKRWxGRmI0SXZCTUlHa3pwQl9FOEJRQmFqb0tMa1E3VGZMMGI4ak5NdklKZUNBdXlyTDM4cFNWTWlxbU52WTVUYlpZemZjb0NsX0ZycnRr?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaUzRSRmpFOUlBek9sQ3ZDUU5Zem5KaFdGUUxOMnBUbW5lLXhkSDVVRGZJaGFBLXg1eUdaN19JVDNkZw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Helmet-kirjastojen myöhästymismaksu ja myöhästyneiden lainojen enimmäismaksu nousevat - Yle",
+      "desc": "Helmet-kirjastojen myöhästymismaksu ja myöhästyneiden lainojen enimmäismaksu nousevat &nbsp;&nbsp; Yle",
+      "date": "2026-11-23T12:52:20+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaUzRSRmpFOUlBek9sQ3ZDUU5Zem5KaFdGUUxOMnBUbW5lLXhkSDVVRGZJaGFBLXg1eUdaN19JVDNkZw?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20258429?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1222,16 +1292,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/23/pirkanmaalla-otettu-kayttoon-uusi-hyvinvointilahete-ikaantyneille"
     },
     {
-      "id": "https://yle.fi/a/74-20258187?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Max Verstappenilta harvinainen kunnianosoitus Red Bullille – nuoret tähtikuskit ravistelevat formula ykkösten olemusta",
-      "desc": "Max Verstappen ja Lando Norris ovat edustaneet koko uransa vain yhtä F1-organisaatiota. Isot kuskikaappaukset ovat vähenemään päin.",
-      "date": "2026-11-23T09:59:21+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258187?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam5BYkZ6aTl1NER5R0UzV2lsNWVSMThMWUR0QjFESzNIN3FqYW1jejVjalppdTRRdW8yclV6ckw2R0M5LUxJakwwMm5SQUpXcDhvdktydDVONkU4MXRLN0xmQzZINkdXWmNjX1Y2ajlibkE0b2hOVFBGQUZxM01YR2ZVWVB6OWNnZ2FlckV6OXlkV1pGSUd3?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1240,16 +1300,6 @@
       "date": "2026-11-23T09:29:55+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam5BYkZ6aTl1NER5R0UzV2lsNWVSMThMWUR0QjFESzNIN3FqYW1jejVjalppdTRRdW8yclV6ckw2R0M5LUxJakwwMm5SQUpXcDhvdktydDVONkU4MXRLN0xmQzZINkdXWmNjX1Y2ajlibkE0b2hOVFBGQUZxM01YR2ZVWVB6OWNnZ2FlckV6OXlkV1pGSUd3?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258396?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Sami Välimäki nousi yhdeksän sijaa kolmannella kierroksella PGA Tourin päätösturnauksessa",
-      "desc": "Kauden päätöskilpailun hallitseva voittaja Välimäki aloittaa päätöskierroksensa kello 15.37 Suomen aikaa maanantaina.",
-      "date": "2026-11-23T08:42:05+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258396?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM3Z4YmdHMG9YTHpheE5xQl9SXzZpV2xxM1FfRmhQSzh5WmE4VzZuY2pvN244S2o3bERYSFYyTXBqd0w3a1JYRWROdnVHZXF3LUxPRjV0SERfUy1tZThSTmxoVmdaWm45Q1NMOHo0LWtyRGZPcnBBQ3JTZ2wtNmVIM1Bn?oc=5",
@@ -1270,16 +1320,6 @@
       "date": "2026-11-23T08:01:15+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGtxZnd6SVVPN3FreEx6cFRBSE9YZk5kZEliNUdqRjZwcFpmejhWUEEyZlIyUFh3SUtBLVlPRVhISmFnN2xaUzZsQjNiQXVMaTBOODF5czN6MEtaMkJLUGw3R21KbGZVcUN3RHM2MFdjdWtsQk5MMXdodGR6dUJVdDhMMlFySVFTaEpXTGNyT2ZoU0s2X2ZhX1JFSDZEVTNOT3ZWV0ota0FacFBMaXQ3RnVzMA?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258364?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Mitä ihmettä salibandyliigassa tapahtuu? Toni Lötjönen kertoo, miten ”katastrofimaisesta” tilanteesta päästäisiin eroon",
-      "desc": "Salibandyasiantuntija Toni Lötjösen mukaan keskikastin joukkueiden katoaminen on johtanut tasoerojen repeämiseen miesten F-liigassa.",
-      "date": "2026-11-23T08:01:10+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258364?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBbUhjZmplTlc0SU52NFJfeE9TaVhBTWxxbHRINU5qZ3VzSWNiX3ZYQzA3TVBFc0FZemtxelF6VmpqN1A0TkJIY1dxUnpYVnQ0RWVINlRQVVVfRWFDRWZSeDFnRVhvLTRQNFdmNjg2WnZXRzY2?oc=5",
@@ -1420,6 +1460,16 @@
       "date": "2026-11-22T14:21:10+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVdaOU1WWm9EWW5lMkJWb0FLd3AxQjgtWUYxMFU3cTViNllKa0tZSVM2LV8wckR2YnBvU2UtZTNqb2FxUDZkZHljT1pUM0JEaUJ6bWdoSDg0QTktS2RZZnFDQXNRTkdjc0FpS3gyak9mbndxYnBYWmlyUC1CMllMN181bDZCLVRMVnRKdWp5a0dZOU9Pb1ZnakloR2xwOXEzbExyYnlPUGFxMXFWbGlUVlhBWFc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNm9IdXp1aHpSSGVzOVN0OHJ0a2k5dzdrMTZEOVRQbHNWQVZTSDBmbjBzWV90TU9mOG9leE5JT1F4QTdjYjM2emhLMmZNaVV6d1VVUU9qT1ZNazIybjROcTEtMjV5RS0wMXRmcFJwNA?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Mitä Nokialla tapahtuu lähipäivinä? Katso tästä menot 23.–29.11. - Nokian Uutiset",
+      "desc": "Mitä Nokialla tapahtuu lähipäivinä? Katso tästä menot 23.–29.11. &nbsp;&nbsp; Nokian Uutiset",
+      "date": "2026-11-22T14:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNm9IdXp1aHpSSGVzOVN0OHJ0a2k5dzdrMTZEOVRQbHNWQVZTSDBmbjBzWV90TU9mOG9leE5JT1F4QTdjYjM2emhLMmZNaVV6d1VVUU9qT1ZNazIybjROcTEtMjV5RS0wMXRmcFJwNA?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258342?origin=rss",
@@ -1712,16 +1762,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/20/tampere-palkitsi-vuoden-aikuisen-ja-hyvan-haltijan"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN244RTY5RWxpcUVTaXdvRElZTWkxajdndDlrb0lzaVZOSnBzSkw3U3VtamxhZFU0M0tuVUp1QU03aFEyTll1S3AyWmpsS2xRaEFVZURMa3ZmYWZGY0pIRlBWamdOUlRXckFKRlpodXdkUkNBWUdYTEk0NXhNSW5YTXQ3elRQUE9z?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Operator Survey: Real progress toward AI RAN - Light Reading",
-      "desc": "Operator Survey: Real progress toward AI RAN &nbsp;&nbsp; Light Reading",
-      "date": "2026-11-20T14:00:55+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN244RTY5RWxpcUVTaXdvRElZTWkxajdndDlrb0lzaVZOSnBzSkw3U3VtamxhZFU0M0tuVUp1QU03aFEyTll1S3AyWmpsS2xRaEFVZURMa3ZmYWZGY0pIRlBWamdOUlRXckFKRlpodXdkUkNBWUdYTEk0NXhNSW5YTXQ3elRQUE9z?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjVITFdUNXZfamJrWS00STl6OXJXeUF5b2tPN1dQRExkdU5RcjhuRTNFZ1k4WXlTQW1wcDgyME9sZy1ESEcxY1U3aGhlZllQMDZ6N3BES0FndkR6TFFfcGFyYTh4UFhNX3ptWW5sbWY4SFhEakFxbGpRajVhQ3pFYmYzb3N3b0JoSXFOOENlZ2toVzRPeHp2anJOaGl3QmRBQng0RHk3Y19rVmpiazhJ?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1810,6 +1850,16 @@
       "date": "2026-11-20T02:51:56+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWRHMURXR3RiVjRucEZQREdWVEJJd2xxSUVsNEVNcHZIU3YtendPSTltLTdTdjllbnhJMExnOEdxQU5DYVNFcTlDT3VuQnoxWnktOFI3VDFCVm84amQtVlZFb1ViZ2FVLWxwWWNxYWhQZFg5dk4tZTROYmszVG9HZS1jTHZVQkZnUlJyeFZ5SFdzdnpMVHFBLWU0WW80WFVxWlpBV3RlYUozOG8?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEd2ZmhadFZGeTN4NTlHcm5lbW01Mm42cWJpV1ZLRHZmT3c0N2duQ3NNQWJPTmFqamhHcnlvVTl2cGoxVzViRVlpUkRNUlFjSW5FeXFvYmtHZjZkOURsX3VDaXI5Y1dKTF9DdVBXNWRpdXhhaUJuYVlYSksxbUoyN1lacmpfb3R2NHNFXzFzaGhISW1HdmZxdy1n?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Use Kimi Code CLI with models on Amazon Bedrock | Artificial Intelligence - Amazon Web Services",
+      "desc": "Use Kimi Code CLI with models on Amazon Bedrock | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services",
+      "date": "2026-11-20T00:33:30+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEd2ZmhadFZGeTN4NTlHcm5lbW01Mm42cWJpV1ZLRHZmT3c0N2duQ3NNQWJPTmFqamhHcnlvVTl2cGoxVzViRVlpUkRNUlFjSW5FeXFvYmtHZjZkOURsX3VDaXI5Y1dKTF9DdVBXNWRpdXhhaUJuYVlYSksxbUoyN1lacmpfb3R2NHNFXzFzaGhISW1HdmZxdy1n?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbUsyVWJ4NHItdVhYQVpXRVprN1FaQ0JGYjNnZHhyNGtQS09YQ2hfaVY1WEVYd084N1l0RHFDYVdHcldXcmQxdEVESFljN2k2bjJ2XzhQNkltR3dYcHdvMlFDYVB3R1hHSDVFd09vMWdhN1dvTEEwNXloZHh5bWlmX0hfeVFrYzlBSzZDc1VjLTdMYUJxaGFoWTNfNXl1VjJpQl91SHR4WGF2cEJ2c1o5YlFsbE4tZmlCVEZIUnFjamNZNlA1dFIzZHZmR1JTMWUzVmRSYUR4RDhwQTA?oc=5",
@@ -1910,6 +1960,16 @@
       "date": "2026-11-19T17:15:36+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFhZajljRzAwN3hxUGxGSnkzMEhzWndodVNJajFSdndHdUplWHVfWjNBWl9hU0hWRFVicTIwQnVEMFhyOUpjOG1oNTVXaHFkbng3Ylp6Z2VJWlFIeGpmRnNxTFgtWmNnMFFyWmp2UHN3TTk3aHFBN2Q4ZXh4eVFFYTB2ek5hdEFUWUpTbnFndw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43c0Q1NWpxcm5LNE9YenBUc0ZKMk5WMFNjOEJhNjdtbm04UmRsLUprRGFjdnpJUk1mVllPUU12TEVFRVJLMElueHd1SDFaa0hiOVptUDhuRG0yUVlMbWkxMA?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Suositut liikuntapaikat vaihtavat nimeä – paikalliset puhuvat sitkeästi \"Erästä\" - Helsingin Uutiset",
+      "desc": "Suositut liikuntapaikat vaihtavat nimeä – paikalliset puhuvat sitkeästi \"Erästä\" &nbsp;&nbsp; Helsingin Uutiset",
+      "date": "2026-11-19T17:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43c0Q1NWpxcm5LNE9YenBUc0ZKMk5WMFNjOEJhNjdtbm04UmRsLUprRGFjdnpJUk1mVllPUU12TEVFRVJLMElueHd1SDFaa0hiOVptUDhuRG0yUVlMbWkxMA?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-on-laulava-kunta-yhdessa-laulaminen-tuodaan-osaksi",
@@ -2052,16 +2112,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFl3cWxfeHFaenJyd040V1FzazZxS2lKX3ZHVG9hczNkWTVScVJJLVFfRTRUZTI3a1hnS3ZGVXhKY3dBZHVOTEZvaEZNdl9rUm5JMGtLSWdfM3JicHk0UmZTUVNINHFjclVwWkVtZ1d6b0NnbzNTYUNmRlFhcG5KTXd5Ml9ZU1ByXzA5c1NzRklNMXlUWHpkTUhobDZzcDI3eWhYdVVKRkhpUUxjQUZqMUJTbWJlbXFxWEVTOUtXQQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pYVZWVjFSb1VxZDZvSWtHdUl6QmZ6WmhfTlZVd3FTYjljY3JwMlphRW0zWjQ2NEJacDc3OURkanZ6dw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Tekoälyjätti Anthropic listautui vihdoin pörssiin – tämän takia koko maailma katsoo nyt sen kurssia - Yle",
-      "desc": "Tekoälyjätti Anthropic listautui vihdoin pörssiin – tämän takia koko maailma katsoo nyt sen kurssia &nbsp;&nbsp; Yle",
-      "date": "2026-11-19T09:34:33+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pYVZWVjFSb1VxZDZvSWtHdUl6QmZ6WmhfTlZVd3FTYjljY3JwMlphRW0zWjQ2NEJacDc3OURkanZ6dw?oc=5"
-    },
-    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/haiharan-joulu-kutsuu-nauttimaan-joulun-tunnelmasta",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -2080,6 +2130,16 @@
       "date": "2026-11-19T09:12:28+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/nuorille-jarjestetaan-oma-itsenaisyyspaivan-juhla-tampereella"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy01WW1WX212QzRJODdqeVlkS0xzLVJhZml1d3FEV0JYdHVEeFhiRms3UXFsV3l3bHFqQ1E4TmF0c3hFak9fdnBhRXFoNzJ0SDJUZTk0TUdSNmpWZkE2SE5qd2Jxc185aW0yUGExMTBsUVVtUzI4NExMcmY0WndqYi0xSWZJUDF4cU1Fd1BjdXVPU1dBcXRpV0JXd1k0Tk9OcXBHUzcxNFVoamQtVTNWMzlDV0lpczFWa1pfaEJzdVlBbkNRTDBB?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Hiihtolatujen hoitotaso laskee talvella säästöjen vuoksi mutta latuverkko säilyy ennallaan - Kouvolan kaupunki",
+      "desc": "Hiihtolatujen hoitotaso laskee talvella säästöjen vuoksi mutta latuverkko säilyy ennallaan &nbsp;&nbsp; Kouvolan kaupunki",
+      "date": "2026-11-19T08:47:54+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy01WW1WX212QzRJODdqeVlkS0xzLVJhZml1d3FEV0JYdHVEeFhiRms3UXFsV3l3bHFqQ1E4TmF0c3hFak9fdnBhRXFoNzJ0SDJUZTk0TUdSNmpWZkE2SE5qd2Jxc185aW0yUGExMTBsUVVtUzI4NExMcmY0WndqYi0xSWZJUDF4cU1Fd1BjdXVPU1dBcXRpV0JXd1k0Tk9OcXBHUzcxNFVoamQtVTNWMzlDV0lpczFWa1pfaEJzdVlBbkNRTDBB?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SX20wOXI0Y2ZKUHJLNnZUZHVmVUlOaUFVRmR0aEZkanNpWU1nbUl2UmZzbXM4bld1WTdIZW9qc2YtQ2JXM3N2dnhqelVrZERaSzh2X0F1QWhOSlBST1YxNko5U29WWXNURXBqMTJ4ZmZvVkFX?oc=5",
@@ -2140,6 +2200,26 @@
       "date": "2026-11-19T04:35:40+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hek1FSTdBWFZJU1VYVUloVmt2amFKRjYzZVMxbzhCMVVPTFJrb0dkY2pKejNxNDUzY0dVdjdjSHh2UQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE84NWI5eGdIeDZ4RUd4elI2NVMxeUxWWURDYmphdkd2V3BSQTF5Sm1JbG5tREtIY3VwYzFKVXdiSzk?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Lukijoilta | Missä tulevaisuuden huiput Turussa liikkuvat? - ts.fi",
+      "desc": "Lukijoilta | Missä tulevaisuuden huiput Turussa liikkuvat? &nbsp;&nbsp; ts.fi",
+      "date": "2026-11-19T03:11:33+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE84NWI5eGdIeDZ4RUd4elI2NVMxeUxWWURDYmphdkd2V3BSQTF5Sm1JbG5tREtIY3VwYzFKVXdiSzk?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbENfU2NYNzBXLXo3cXJWU0h2bEJINVF4TnFuaW1IV1oySW1RMVpKRWRrWENjSkhlNGxBUUgteDlqQnp4al94Q0JZdU5VS28?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä | Päijät-Häme - Etelä-Suomen Sanomat",
+      "desc": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä | Päijät-Häme &nbsp;&nbsp; Etelä-Suomen Sanomat",
+      "date": "2026-11-19T03:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbENfU2NYNzBXLXo3cXJWU0h2bEJINVF4TnFuaW1IV1oySW1RMVpKRWRrWENjSkhlNGxBUUgteDlqQnp4al94Q0JZdU5VS28?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR3M1MHJPYjlZajdjMWVYR016QWxldTRGN1RHb2QwSFUtcEtUQXBLaU0teFppbDBZZnNfamJ4YzUtaFhtc3VCaTlIVWNwdDkzcnJ5VXV3di1uRVlVdzUtTlNJa2NtTTMydW1ST0JZcWhDTmNVdVM2X09yWGpvTGNfODdsTUxDQUhFZ3Z0aHhVS2x5b1ZIU3NiVnZhSG42NXJxV0NYdHlRNnBZcGo2Qlk0eHhLUWxoY0xUWmJic05UR2tHT3ZBTjNfN09SZ3U4QQ?oc=5",
@@ -2212,6 +2292,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3daUzVPb2cwUWthNVFWaFBRZS1WdG14S2NSSDFYMzB3TktDejFmNTViN0hhemVkM19lQmFBNTFDSHJQeHRTZW5oVXZXcmowNVpYQ0JzcnlWMHBZLXFVLVg0U1VXYW5XUHhGdVB4SXctcmFlcGVNX2xyWXU3T19oTmY1TDJvTzVBOEJMQm1vTjY0ZTJhT3hYMXZQa0Q?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Older Iranian Adults Show Lowest Rates of Recommended Physical Activity - Bioengineer.org",
+      "desc": "Older Iranian Adults Show Lowest Rates of Recommended Physical Activity &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-18T17:36:12+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3daUzVPb2cwUWthNVFWaFBRZS1WdG14S2NSSDFYMzB3TktDejFmNTViN0hhemVkM19lQmFBNTFDSHJQeHRTZW5oVXZXcmowNVpYQ0JzcnlWMHBZLXFVLVg0U1VXYW5XUHhGdVB4SXctcmFlcGVNX2xyWXU3T19oTmY1TDJvTzVBOEJMQm1vTjY0ZTJhT3hYMXZQa0Q?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2220,6 +2310,16 @@
       "date": "2026-11-18T14:26:55+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlNwNFZmOWFEOWQ1ZnJ1SDJRcWVxb3k3SjJCTVF3THlCV1Fkc2RTa3R6Nm1RekNicjRHb1JlSmM1ekVxenZpck5EaXE4TjZEaWJMcnJ4c0c5dXJnMVBHTzM2bVRWckFQM0hsa3B1Mm1SeTNPRC1kNnQtcU9xcV9KeFF2Y2ppSER2b011b29UWGdRQTFoU0tlNm5NdWk1YkNlNWtGRDhFTjU?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Kokoomus haluaa lääkäreille enemmän aikaa potilaita varten – tekoäly avuksi - Verkkouutiset",
+      "desc": "Kokoomus haluaa lääkäreille enemmän aikaa potilaita varten – tekoäly avuksi &nbsp;&nbsp; Verkkouutiset",
+      "date": "2026-11-18T13:31:04+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlNwNFZmOWFEOWQ1ZnJ1SDJRcWVxb3k3SjJCTVF3THlCV1Fkc2RTa3R6Nm1RekNicjRHb1JlSmM1ekVxenZpck5EaXE4TjZEaWJMcnJ4c0c5dXJnMVBHTzM2bVRWckFQM0hsa3B1Mm1SeTNPRC1kNnQtcU9xcV9KeFF2Y2ppSER2b011b29UWGdRQTFoU0tlNm5NdWk1YkNlNWtGRDhFTjU?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJRWJqd3JOeW43SlJkdXM4RHcyZkZnS1Mta3V2RG5TeUJCSWlxX3o3Tk9weUhNeWc5eFFya3hMNHNpYkdXTDFJMmNJV0g0RFJIaEwyeUxRa1l4V0RodVdEWWRtakxfRU05R1hyMjFUTnlMNGhKM3VGZ05KQjAwZw?oc=5",
@@ -2240,6 +2340,16 @@
       "date": "2026-11-18T10:02:29+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/18/talvikunnossapito-valmistautuu-vaihtelevaan-talveen-turvallisuus"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Liikuntapaikat halutaan savuttomiksi ja nikotiinittomiksi - Sydän-Satakunta",
+      "desc": "Liikuntapaikat halutaan savuttomiksi ja nikotiinittomiksi &nbsp;&nbsp; Sydän-Satakunta",
+      "date": "2026-11-18T07:54:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanIyODc5elRSdXE1Y21qMTRqOUZlUFRNTmxCNXNiNUJtTlpKNlBmR1ZnaFVQdnpoNFYzQkNJM0lMUU5ST1pzQmZ4dEFGVGswRmtfdndWTEtibTZLSjNWbG1tZUEwczVtOGJ2SVFJalRnSDJ3VFp0TkoteUw0eHFTcXlnNmlyS0JVTmJQaEYxOGx5S1Jrc0FTRnFn?oc=5",
@@ -2372,16 +2482,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/17/tampereen-ilmasto-ja-luontobudjetti-vahvistaa-luonnon-monimuotoisuutta"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcHdLa2xMeXhJSXFUd3J1bVkzTkRvNUl4Smpoa3pKZEtISnhlZC1HWkNLNUM2ZVA0cXFNWVNpanlYaTFiWktBd21VNUlrUTNnU0Y3akZNWFZKeDV4SG51NVNjcTN0cWhqYmhvOVAyX2hSX2hjNGdfZF9iZkRPbkhvcFVOV3JXeHlOY0pSWFd3VmRPTlpSQVZ5eTFrczNIWWtsU2lMMExsak5aSzAwTVhJT3dsaFU0QWFJam9TYzVaV1BfQlNleC1iOWFlc29qa0tpdkgycDVxVVhtQi1hcDhnazdvWWlDUHRVT3pPcU5nanRrX1NicWRxbVlUTkJRek1PRXdXaXhUa2JmR0k3YWlvYllobTlBNWxY?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Tekoäly teki verkkohuijauksista uskottavampia – kiireeseen vetoavat viestit tavoittavat väistämättä osan oikealla hetkellä - STT Info",
-      "desc": "Tekoäly teki verkkohuijauksista uskottavampia – kiireeseen vetoavat viestit tavoittavat väistämättä osan oikealla hetkellä &nbsp;&nbsp; STT Info",
-      "date": "2026-11-17T13:08:03+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcHdLa2xMeXhJSXFUd3J1bVkzTkRvNUl4Smpoa3pKZEtISnhlZC1HWkNLNUM2ZVA0cXFNWVNpanlYaTFiWktBd21VNUlrUTNnU0Y3akZNWFZKeDV4SG51NVNjcTN0cWhqYmhvOVAyX2hSX2hjNGdfZF9iZkRPbkhvcFVOV3JXeHlOY0pSWFd3VmRPTlpSQVZ5eTFrczNIWWtsU2lMMExsak5aSzAwTVhJT3dsaFU0QWFJam9TYzVaV1BfQlNleC1iOWFlc29qa0tpdkgycDVxVVhtQi1hcDhnazdvWWlDUHRVT3pPcU5nanRrX1NicWRxbVlUTkJRek1PRXdXaXhUa2JmR0k3YWlvYllobTlBNWxY?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXcyeUkzSThBYVpmVU1oX2VpYjBDbGJOWmlXRFRzaTF3SktXdjRwVWJSS2xRQjF5OS10bk80S3hQelFFVWRNWjRxM05pYkI2bnloWm9KM1RPbUwzMDJqVnJ1US1yVTVmRmFYRDZpeVFtOFNtcUlPSlVZQ05tU0ZhaDQ4THd2a0g3Y0RJamIwd1M?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2400,106 +2500,6 @@
       "date": "2026-11-17T10:57:28+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93VGRvanBPZ1owOFdndmR6dFZPRTBuVmNTM0RtWlhXQ2h2U2RIQVBOYTRWUW9XWjgwNm5BZXBKLWtuLWlxdmVsbHQ5MFprUHhOTDlkTS1oLUVEZHdHQ0hsandvcFNpay1qQ1h3SU9TNzk?oc=5"
-    },
-    {
-      "id": "https://www.tampere.fi/ajankohtaista/2026/11/17/miten-tamperefi-sivut-palvelevat-sinua-vastaa-kayttajakyselyyn",
-      "cat": "Tampere",
-      "icon": "🏛️",
-      "title": "Miten Tampere.fi-sivut palvelevat sinua? Vastaa käyttäjäkyselyyn",
-      "desc": "Mitä mieltä olet Tampereen kaupungin Tampere.fi-verkkosivuista? Löydätkö sivuilta etsimäsi tiedon, onko sivustosta sinulle hyötyä, missä pitäisi parantaa? Vastaa käyttäjäkyselyymme ja auta kehittämään sivustoa …",
-      "date": "2026-11-17T10:13:30+02:00",
-      "source": "Tampereen kaupunki",
-      "url": "https://www.tampere.fi/ajankohtaista/2026/11/17/miten-tamperefi-sivut-palvelevat-sinua-vastaa-kayttajakyselyyn"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmtPYmdXc041RkJFanowZEpPUHdxNjFUc0JaaDMwWTZRLUYteGN4YWVWeThFWmZqMmdmMV9fVTJYY3k5ci1UN1ZyS2ZfeHBIQ3BXcUttZjlUVFJfQm9paWF5Tk9IMm50dTdZTmtPbjc0UjlPaGZWdmI0ODVPbFB6eTkxaGFURlhRZC1tREl6a3hSeFBrQ2V3WWpfdlVReUlDTENUMXFFMGJOS1h3UnJ6Z2lyb0tuSkNRbWIwWmtKTFc5NmpmTWFhXzRpU2tvWVlpVjRoRzZYYXJUMkdVcXYw?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Tietopohjainen päätöksenteko ei ole niin suoraviivaista kuin usein ajatellaan - STT Info",
-      "desc": "Tietopohjainen päätöksenteko ei ole niin suoraviivaista kuin usein ajatellaan &nbsp;&nbsp; STT Info",
-      "date": "2026-11-17T09:43:11+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmtPYmdXc041RkJFanowZEpPUHdxNjFUc0JaaDMwWTZRLUYteGN4YWVWeThFWmZqMmdmMV9fVTJYY3k5ci1UN1ZyS2ZfeHBIQ3BXcUttZjlUVFJfQm9paWF5Tk9IMm50dTdZTmtPbjc0UjlPaGZWdmI0ODVPbFB6eTkxaGFURlhRZC1tREl6a3hSeFBrQ2V3WWpfdlVReUlDTENUMXFFMGJOS1h3UnJ6Z2lyb0tuSkNRbWIwWmtKTFc5NmpmTWFhXzRpU2tvWVlpVjRoRzZYYXJUMkdVcXYw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Honey Farm sport and recreation precinct master plan - Sunshine Coast Council",
-      "desc": "Honey Farm sport and recreation precinct master plan &nbsp;&nbsp; Sunshine Coast Council",
-      "date": "2026-11-17T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWlpcHhrLWY5akNjdUNYdDFwSEl2Vl85ZHozS0RjR2FjMjBQT3JQVjVDN0pTdzNZOElVQk5LbXo0cEhha21aZVo2eWp2dFktdEpfenRJNXcxeEQzR09xQk85V3BTUWtXZWk4Y3ZfSDFESHExbTJQZEdTdnB0ajBHOTEyTUx5c2FnZ1RZTVMyZXhMQWNudXVoVVZCYW94VldrZU5acDc1RnpHTjRG?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Researchers Model Integrated Health and Exercise Framework for Aging Rural Shandong - Bioengineer.org",
-      "desc": "Researchers Model Integrated Health and Exercise Framework for Aging Rural Shandong &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-16T22:02:43+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWlpcHhrLWY5akNjdUNYdDFwSEl2Vl85ZHozS0RjR2FjMjBQT3JQVjVDN0pTdzNZOElVQk5LbXo0cEhha21aZVo2eWp2dFktdEpfenRJNXcxeEQzR09xQk85V3BTUWtXZWk4Y3ZfSDFESHExbTJQZEdTdnB0ajBHOTEyTUx5c2FnZ1RZTVMyZXhMQWNudXVoVVZCYW94VldrZU5acDc1RnpHTjRG?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDA0NUIyY0tjQi1ZUlc5MzMxNTVDc2t4R3dZWFBqQlFxNFJveGV3bUw3R0htQ2dkWGowMGNKSGhXbk8tZ0NLSEYwQ3lITnR5cmZhSEhIYmxyanZPTGdVTUxPc0k3aHg3RFAtWHNJUFF1UVNpUWc4TU41OVhRdXMxTA?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Diabetes Education Linked to Better Care - Centers for Disease Control and Prevention | CDC (.gov)",
-      "desc": "Diabetes Education Linked to Better Care &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "date": "2026-11-16T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDA0NUIyY0tjQi1ZUlc5MzMxNTVDc2t4R3dZWFBqQlFxNFJveGV3bUw3R0htQ2dkWGowMGNKSGhXbk8tZ0NLSEYwQ3lITnR5cmZhSEhIYmxyanZPTGdVTUxPc0k3aHg3RFAtWHNJUFF1UVNpUWc4TU41OVhRdXMxTA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "New York - Sports, Recreation, Outdoors - Britannica",
-      "desc": "New York - Sports, Recreation, Outdoors &nbsp;&nbsp; Britannica",
-      "date": "2026-11-14T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXVBSEp3T2UwdWwyN0V6bGdHZ2dXM2w4cWpiYlRVSlRsYTludENTbTd2UDlzZkJzb3lNci16TEhwM1lrZWpyZ19ZWERoRWlYNU9qN3ZScnFZSmdYNk5aVzF2a0dhbGdlYVFCd1pVbWh2dHZibmlDSHhwUjFmZEdZWUF1YkYwb1FmYlcyZklPVWxVN3RtbUtjX3FMUkJ6MzlDNkpTOXZ2dERSOXhQTXFuYXJfVnlWUQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Long-awaited Cowan Recreation Centre opens in Kitchener - CBC",
-      "desc": "Long-awaited Cowan Recreation Centre opens in Kitchener &nbsp;&nbsp; CBC",
-      "date": "2026-11-14T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXVBSEp3T2UwdWwyN0V6bGdHZ2dXM2w4cWpiYlRVSlRsYTludENTbTd2UDlzZkJzb3lNci16TEhwM1lrZWpyZ19ZWERoRWlYNU9qN3ZScnFZSmdYNk5aVzF2a0dhbGdlYVFCd1pVbWh2dHZibmlDSHhwUjFmZEdZWUF1YkYwb1FmYlcyZklPVWxVN3RtbUtjX3FMUkJ6MzlDNkpTOXZ2dERSOXhQTXFuYXJfVnlWUQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWZrVjJXQ2F3NDNrWmFZeU41ck05ZUthVGlYTVF0SWhxQ1duSjU4cmNRTlZVRzc4dVllS1dzMmJwUlFBemxNU3NrcTNleEg0SDA0cE0wR3ZoaF9hck03bGY4cVpxUDVLNHV3anB4OS1BQkdRQXdTT3RtYWRUWEI4R3NHbWk3dXdmSVprVjgxM0FZSUkxekczOU5qUkZhMkhoS0ZKeWtCVDIxTFc0NUpnRFBoSVc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "New PETIO Guideline Sets Methodological Reporting Standards for Geriatric Exercise Trials - Bioengineer.org",
-      "desc": "New PETIO Guideline Sets Methodological Reporting Standards for Geriatric Exercise Trials &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-14T01:42:42+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWZrVjJXQ2F3NDNrWmFZeU41ck05ZUthVGlYTVF0SWhxQ1duSjU4cmNRTlZVRzc4dVllS1dzMmJwUlFBemxNU3NrcTNleEg0SDA0cE0wR3ZoaF9hck03bGY4cVpxUDVLNHV3anB4OS1BQkdRQXdTT3RtYWRUWEI4R3NHbWk3dXdmSVprVjgxM0FZSUkxekczOU5qUkZhMkhoS0ZKeWtCVDIxTFc0NUpnRFBoSVc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTlPNTQtVFRRbUwyUVN5bmlNRXR5YkRNemY3TDRsNmhVaHNPXzdxTnhreUxXUHpsWnJ2d080ajJHdkJtQ3hFcDhndk14TUJ2MW45MHRyWGt3QW5mZVMyVkhLRHJ2YnN2ZkFCd1o2NXhWWjg3U002R0ppUXllQkx1S2s2a0lGenlqTjhpRFB4YWxDVUlIWTBKdFc2RWg1VXBYVmVacmNDR2N0NXNXSk4tTWtjZUdwTlVkaUZj?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Research Shows Diet/Exercise Tracking Has Minimal Effects - Psychology Today",
-      "desc": "Research Shows Diet/Exercise Tracking Has Minimal Effects &nbsp;&nbsp; Psychology Today",
-      "date": "2026-11-13T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaTlPNTQtVFRRbUwyUVN5bmlNRXR5YkRNemY3TDRsNmhVaHNPXzdxTnhreUxXUHpsWnJ2d080ajJHdkJtQ3hFcDhndk14TUJ2MW45MHRyWGt3QW5mZVMyVkhLRHJ2YnN2ZkFCd1o2NXhWWjg3U002R0ppUXllQkx1S2s2a0lGenlqTjhpRFB4YWxDVUlIWTBKdFc2RWg1VXBYVmVacmNDR2N0NXNXSk4tTWtjZUdwTlVkaUZj?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Clinton’s recreation complex gets good rating by tri-state players - The Laurens County Advertiser",
-      "desc": "Clinton’s recreation complex gets good rating by tri-state players &nbsp;&nbsp; The Laurens County Advertiser",
-      "date": "2026-11-12T23:42:45+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOWNVTTU4ZVJHaWUzb0w5cFZTYUtSVEtacW1iU0llbE03c0NVWFotdmdIU2V1d3F2UjdvVFR2SDZTTEtWdkdnM0FGY1VSd3dYRDZreGotZklTNWlKQVNRWDRyN2E1andtVm9ZUzREdDJLcDZEWEtwdzhIU2pvamk1bzZWZm50WlpGTmNKMDlQMW5fMkx0M0Y2dWhPaW5YNUduSlNCRXdSMEZyZjlXWEJHaDVFNnBrdHJu?oc=5"
     }
   ],
   "sources": [
@@ -2562,9 +2562,9 @@
     {
       "name": "Google Uutiset",
       "category": "Liikunta-ala",
-      "ok": false,
-      "count": 0,
-      "reason": "HTTP Error 429: Too Many Requests"
+      "ok": true,
+      "count": 18,
+      "reason": ""
     },
     {
       "name": "Google Uutiset",
