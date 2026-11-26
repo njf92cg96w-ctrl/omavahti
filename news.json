@@ -1,6 +1,86 @@
 {
-  "updated": "2026-11-26T16:59:27.991157+00:00",
+  "updated": "2026-11-26T18:50:22.899225+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20259079?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Striimaajatähti IShowSpeed pinkoi satasen aikaan 10,35 – SE-mies kertoo, että kyseessä on poikkeuksellinen lahjakkuus",
+      "desc": "Samuli Samuelssonin mukaan tubettajan aikaan saa lisätä useamman sekunnin kymmenyksen.",
+      "date": "2026-11-26T20:35:08+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259079?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258750?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Pitääkö eläkkeistä leikata? Keskustele A-Talkin chatissa",
+      "desc": "Poliitikot ja asiantuntijat puhuvat A-Talkissa siitä, pitäisikö eläkeläisten osallistua nykyistä enemmän talouden säästötalkoisiin. Osallistu chattiin!",
+      "date": "2026-11-26T20:33:01+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258750?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258968?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Analyysi: Finlandian voittanut romaani kertoo Venäjän sateenkaarihistoriasta",
+      "desc": "Millainen romaani voitti kaunokirjallisuuden Finlandian? Dess Terentjevan villisti kirjoitettu teos kertoo sodasta, identiteetistä ja rakkaudesta, kirjoittaa kirjallisuustoimittaja Anna Tulusto.",
+      "date": "2026-11-26T20:21:50+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258968?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259259?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Pikkuhuuhkajien EM-lohko arvottiin",
+      "desc": "Suomi pelaa EM-turnauksen alkulohkonsa Albaniassa.",
+      "date": "2026-11-26T20:15:18+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259259?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259260?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Rauhanturvaajien yli ammuttiin luoteja Libanonissa, osallisena suomalaisia",
+      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
+      "date": "2026-11-26T20:11:35+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259260?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259256?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Harri Heliövaaran jättänyt Henry Patten nautiskeli heti voiton uuden parinsa kanssa",
+      "desc": "Brittipari Henry Patten ja Neal Skupski eteni Davis Cupin finaaliturnauksen välieriin.",
+      "date": "2026-11-26T19:47:22+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259256?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259247?origin=rss",
+      "cat": "Tampere",
+      "icon": "🏙️",
+      "title": "Tampere aikoo korottaa liikuntapalvelujen hintoja: jäähallivuorot ja uimahallin kausirannekkeet kallistuvat",
+      "desc": "Muutokset koskisivat esimerkiksi jäähallien vuoromaksuja sekä liikunnanohjauksen hintoja.",
+      "date": "2026-11-26T19:12:21+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259247?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20249339?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "20 vuotta sitten Hjallis Harkimo päätti tehdä Helsingin kylkeen kalastajakylän – pian kaikki meni pieleen",
+      "desc": "Sipoonrannassa on seurattu Helsingin itäistä valloitusretkeä 20 vuotta. Vihdoin Helsinki rakentaa, mutta Sipoossa selvitetään, voisiko pakkoliitoksen purkaa.",
+      "date": "2026-11-26T19:03:40+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20249339?origin=rss"
+    },
     {
       "id": "https://yle.fi/a/74-20259253?origin=rss",
       "cat": "Suomi ja maailma",
@@ -20,6 +100,16 @@
       "date": "2026-11-26T18:12:14+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258942?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYUhNOW5EUFpLQXRXYmpPZnpWX0NTemJrRGNlY2dBRzY2Wk14RWNMdnp1Q3AyYXY1QW9HUUtYRWxfRlpRZFVQMk5JUnRCSHhET3F0Ri1tWU81eGdXNzVvaEFWbEJLZk5yYTdqbnRGalFhMGZiRHEzd19sOElPQ1EyV25oMEpkYndSeWNybjlhaDJqSDBzQTUyckw1S1RMUHNMSlBDbERES3puM2RBb1lnOUpJNm03TVZSX3lLaXIzY25vc1pDSjlqVEhMQk5yc0dHYVoxZGVKTFNLaGpPeDctWUxMZ1lkc1RVS1NKaEppaXBKNk5UNVo5MlFuc21vNjQ4MlE?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Liikunta- ja hyvinvointilautakunta päätti erityisliikkujan rannekkeiden ja liikkeelle-rannekkeen muutoksista - STT Info",
+      "desc": "Liikunta- ja hyvinvointilautakunta päätti erityisliikkujan rannekkeiden ja liikkeelle-rannekkeen muutoksista &nbsp;&nbsp; STT Info",
+      "date": "2026-11-26T18:10:32+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYUhNOW5EUFpLQXRXYmpPZnpWX0NTemJrRGNlY2dBRzY2Wk14RWNMdnp1Q3AyYXY1QW9HUUtYRWxfRlpRZFVQMk5JUnRCSHhET3F0Ri1tWU81eGdXNzVvaEFWbEJLZk5yYTdqbnRGalFhMGZiRHEzd19sOElPQ1EyV25oMEpkYndSeWNybjlhaDJqSDBzQTUyckw1S1RMUHNMSlBDbERES3puM2RBb1lnOUpJNm03TVZSX3lLaXIzY25vc1pDSjlqVEhMQk5yc0dHYVoxZGVKTFNLaGpPeDctWUxMZ1lkc1RVS1NKaEppaXBKNk5UNVo5MlFuc21vNjQ4MlE?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258645?origin=rss",
@@ -95,18 +185,28 @@
       "id": "https://yle.fi/a/74-20259106?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Kokoomus syyttää SDP:n vaihtoehtobudjettia pienituloisten määrän lisäämisestä – tarkistimme, pitääkö väite paikkansa.",
+      "title": "Kokoomus syyttää SDP:n vaihtoehtobudjettia pienituloisten määrän lisäämisestä – tarkistimme, pitääkö väite paikkansa",
       "desc": "SDP kansanedustaja Joona Räsänen sanoo, että pienituloisen käteen jäävät tulot eivät laskisi puolueen esityksessä.",
       "date": "2026-11-26T17:05:45+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259106?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjA3LUYxNFlNaHRQZldjbGs4eVBqTk1IZDhmOEFVOGdheE9FR3pBMEVMdzlmWGdiSUMzdUdhdi04RlZZaXVtdVptUGZ3MDhoam56Ul9sT28ta0tIdmpHSm9TNkJ4OG9QWWtDOFVlb1VzdExpR3NIZjlWZTc3cWhocHc1cVozV1h3a2otYnpHZDdRZVJmYkJnMng2dXE3SkZwTXQtYmZBWXJ5eFlzMFUwRlFxbjFmbDNDemdF?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Outdoor Physical Activity Reduces Depressive Symptoms in Comprehensive Meta-Analysis of Trials - Bioengineer.org",
+      "desc": "Outdoor Physical Activity Reduces Depressive Symptoms in Comprehensive Meta-Analysis of Trials &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-26T17:01:17+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjA3LUYxNFlNaHRQZldjbGs4eVBqTk1IZDhmOEFVOGdheE9FR3pBMEVMdzlmWGdiSUMzdUdhdi04RlZZaXVtdVptUGZ3MDhoam56Ul9sT28ta0tIdmpHSm9TNkJ4OG9QWWtDOFVlb1VzdExpR3NIZjlWZTc3cWhocHc1cVozV1h3a2otYnpHZDdRZVJmYkJnMng2dXE3SkZwTXQtYmZBWXJ5eFlzMFUwRlFxbjFmbDNDemdF?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20259229?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
       "title": "Campbell Wright yllätysvoittajaksi ampumahiihdon maailmancupin avauksessa – Tuomas Harjula parhaana suomalaisena 15:s",
-      "desc": "Ampumahiihdon maailmancupkausi alkaa miesten normaalimatkan kilpailulla Kontiolahdella. Mukana on viisi suomalaista.",
+      "desc": "Ampumahiihdon maailmancupkausi alkoi Kontiolahdella miesten normaalimatkan kilpailulla. Yle seurasi tapahtumia tässä artikkelissa.",
       "date": "2026-11-26T16:36:18+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259229?origin=rss"
@@ -140,16 +240,6 @@
       "date": "2026-11-26T16:10:59+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259021?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259209?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Pablo Hernández de Cos on nousemassa Euroopan keskuspankin pääjohtajaksi",
-      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
-      "date": "2026-11-26T15:53:30+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259209?origin=rss"
     },
     {
       "id": "https://yle.fi/a/74-20259208?origin=rss",
@@ -292,16 +382,6 @@
       "url": "https://yle.fi/a/74-20259146?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20259143?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Temu taipuu EU:n kuluttajansuojasääntöihin",
-      "desc": "Temun halutaan laittavan esimerkiksi harhaanjohtavat mainokset kuriin.",
-      "date": "2026-11-26T13:27:22+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259143?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20259141?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -342,16 +422,6 @@
       "url": "https://yle.fi/a/74-20259047?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20254910?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Kolme hyvinvointialuetta kokeilee lyhyempää yötyöaikaa, Susanna Halme huomaa jo muutoksen",
-      "desc": "Lahtelaisen Susanna Halmeen työaika lyhenee yli kahdella tunnilla viikossa. Kolmen hyvinvointialueen kokeilulla selvitetään vaikutuksia sairauspoissaoloihin.",
-      "date": "2026-11-26T12:46:20+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20254910?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20256102?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
@@ -380,16 +450,6 @@
       "date": "2026-11-26T11:51:49+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhmRmdOektPcE9GaFVuS2RnTTFlSVh4ZERla1VsTThuLXVNd3lMRnE1bDNZUGh5LW9WRkh5WUNRX2pLajFKN2pQVTRjOGcya2ptYlVoRzVTTG92VFhyakh3ckJaV3I2UVcxaGE3TUxDMnY5aXNCcjZ3Rm9IZnVXb3dkMy1PbjRTcGxsTFBfWnN4bVJjeUxJVDd4Zk8tZ2hD?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259039?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Herttoniemi-seuralle ilmoitettiin pihamyymälästä, mutta ei neljän miljardin datakeskuksesta",
-      "desc": "Datakeskus tuottaisi noin yhdeksän prosenttia Helsingin kaukolämmöstä.",
-      "date": "2026-11-26T11:38:49+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259039?origin=rss"
     },
     {
       "id": "https://yle.fi/a/74-20258639?origin=rss",
@@ -495,8 +555,8 @@
       "id": "https://yle.fi/a/74-20255511?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Kirjallisuuden Finlandia-palkinnot jaetaan tänään – nämä teokset ovat ehdolla",
-      "desc": "Tänään selviää, ketkä saavat kauno-, tieto- sekä lasten- ja nuortenkirjallisuuden Finlandia-palkinnot. Yle näyttää juhlagaalan kello 19.30 alkaen.",
+      "title": "Dess Terentjeva voitti kaunokirjallisuuden Finlandian – katso tästä kaikki palkitut",
+      "desc": "Tänään jaettiin kirjallisuuden Finlandia-palkinnot. Voittajateokset käsittelevät venäläisyyden häpeää, yksinäisyyden voittamista ja hyvinvointiyhteiskuntaa.",
       "date": "2026-11-26T08:58:38+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20255511?origin=rss"
@@ -1092,26 +1152,6 @@
       "url": "https://yle.fi/a/74-20259009?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20259008?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Patrik Laine kävi polvileikkauksessa – pitkä kuntoutusjakso edessä",
-      "desc": "Patrik Laine ei kertonut Instagram-tilillään, milloin hän on taas täydessä kunnossa.",
-      "date": "2026-11-25T21:04:07+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259008?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259006?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "HBA-Märsky esitti mykistävän voittojakson Tšekissä – ei silti riittänyt Eurocupin jättiyllätykseen",
-      "desc": "Helsinkiläiset johtivat Eurocupin vierasotteluaan lupaavasti 77–70, kun peliaikaa oli jäljellä enää vajaat kaksi minuuttia.",
-      "date": "2026-11-25T21:03:32+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259006?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzZlZjRleGY2d1JyTXpkQkhDNVFpNjJPU3FNYkR3YkVIMWQydUZTd2dfeDBHQlo4dzBjTi12Ni1tY0gtVkFXTUoxWjZuc20zOGx3aDdEdnhZRmpwT0loVjh3OWFBQUMtUi1wMEQtR0NLQnhEVmloemxxYzRnMjhZa1BBbTBhRzQyZGc?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -1120,16 +1160,6 @@
       "date": "2026-11-25T20:35:36+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzZlZjRleGY2d1JyTXpkQkhDNVFpNjJPU3FNYkR3YkVIMWQydUZTd2dfeDBHQlo4dzBjTi12Ni1tY0gtVkFXTUoxWjZuc20zOGx3aDdEdnhZRmpwT0loVjh3OWFBQUMtUi1wMEQtR0NLQnhEVmloemxxYzRnMjhZa1BBbTBhRzQyZGc?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259007?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Putin erotti korruptiosta epäillyn Murmanskin kuvernöörin",
-      "desc": "Andrei Tšibis on ensimmäinen virassa oleva kuvernööri, joka on pidätetty Venäjän Ukrainaa vastaan käymän sodan aikana.",
-      "date": "2026-11-25T20:33:47+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259007?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ERkZfRHZYMnM2VkRiV2NHR0lfdmltVnlFNGdWRlFiWGJnTTNzQVMwYTFSbG4xQmxHQmhZV0ZjTkNodw?oc=5",
@@ -1150,16 +1180,6 @@
       "date": "2026-11-25T19:56:57+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTVzRUU5NE40akd1Z3lGXy1MNGllSVpISXQ5Q2JUalExZWItMC1MQ1Q0VlpTcGVtM0lQTDFEVnV2dFRoLUV3LUFTallBNXNBV2w2VHQyaVdwdTFDcGRxU1JHTXROb1A3UzM2cUJzMHdwZFR5dkhRbWpOLXo5TU1GY043SmdBamU4YkRPSWQyc1IwYVlWWHdrZnVpczJqZWVQUEtYZEJxVEI0blhzTUZJOWw4QVM?oc=5"
-    },
-    {
-      "id": "https://yle.fi/a/74-20258998?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Peter Stastny arvostelee Slovakian venäläismyönteisyyttä jääkiekossa: ”Anteeksiantamatonta”",
-      "desc": "Stastny nostaa esiin, että näkemykset Venäjän asemasta urheilussa jakavat mielipiteitä – myös Slovakiassa, jonka hallitus on yksi EU:n venäläismyönteisimmistä.",
-      "date": "2026-11-25T18:45:28+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258998?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFlmT3JYNl9wQkl4T0NISTkwR1hxMEhnUFVmMXhCV1dKekxNOTRpeXdyZ3pCa2lBMzRYQWpHZDYwWW03SnVEWHhjbVgtY3M5cVBvUDZHcDhyQVRYc2JuQThaSVNtbjl6QTJHWGJ5dDVMR2lkX21LMk1hVm5nZDZmZkxReUlBelJtUk0tZHZB?oc=5",
@@ -1482,16 +1502,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHN2amZpWndZRmNNaDhzVEFtRmFDZlc0OTRoSThGZXhOcm9rdVUwcmxlXzljNjllTU5XZXlQd1F3cFl1Z2dEc1d0eFByTXRqWkFJaTF1QUN1VXdoclYydGowNVRwY21lWUFEbkE1ZUVUWVFld1kyY1VwQlNSamplWGNjUU9tX1NxZVpVUHdsZFl6S1B2R3c?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20258576?origin=rss",
-      "cat": "Tampere",
-      "icon": "🏙️",
-      "title": "Auto kiihdytti hallitsemattomasti Sammonkadulla Tampereella, kuusi henkilöä loukkaantui lievästi",
-      "desc": "Pelastuslaitoksen mukaan kyseessä oli kahden henkilöauton kolari, jossa oli osallisena kuusi henkilöä. Poliisi tutkii onnettomuutta.",
-      "date": "2026-11-23T20:40:17+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258576?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkNzSmI3clZpbkZDa2hPWF91NF9saEYyZVdhSXhCSFRCRFhHeGhEUGtKWlNuc1doaE1MOElCdWVpMHg5eXpjZVdoaXlxWkN4R2syY21JNGFqN1UxeXFJYWIyUEx5aGhpdzRKTWh3?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1762,14 +1772,14 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNm9IdXp1aHpSSGVzOVN0OHJ0a2k5dzdrMTZEOVRQbHNWQVZTSDBmbjBzWV90TU9mOG9leE5JT1F4QTdjYjM2emhLMmZNaVV6d1VVUU9qT1ZNazIybjROcTEtMjV5RS0wMXRmcFJwNA?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJncEU4MjFxMVo2LTZqekdxV3NMaHRRUmZpWFZ5ZUxfSlo1YkFBV0NxUkh1R3dINFNSOHNTYV9nUHpGUWQ3cmR2VjEyWExBMHl4OWxESlNYTXRtMmp4c00xTDBiTlpyb0pTZm45dlNia2hzc0VxVWFVQndpeVhUQmxQejg1MzdVdDl0Q0pXUUg2VGFKTE5PZFQ1UlJJX0ZlTnk1MGdTZ19VRkdG?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "City of Gulf Shores Assumes Ownership of Local Sports Center to Expand Recreation - OBA News",
-      "desc": "City of Gulf Shores Assumes Ownership of Local Sports Center to Expand Recreation &nbsp;&nbsp; OBA News",
-      "date": "2026-11-22T10:18:04+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJncEU4MjFxMVo2LTZqekdxV3NMaHRRUmZpWFZ5ZUxfSlo1YkFBV0NxUkh1R3dINFNSOHNTYV9nUHpGUWQ3cmR2VjEyWExBMHl4OWxESlNYTXRtMmp4c00xTDBiTlpyb0pTZm45dlNia2hzc0VxVWFVQndpeVhUQmxQejg1MzdVdDl0Q0pXUUg2VGFKTE5PZFQ1UlJJX0ZlTnk1MGdTZ19VRkdG?oc=5"
+      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi - Yle",
+      "desc": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi &nbsp;&nbsp; Yle",
+      "date": "2026-11-22T10:52:09+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POExvT0x5WEFTamZUWGd5bW9uVkg1elljempJOXJoblp5VUhqc3UwakgwSEh6N0dDaEhmWExBUUVzd014SnhKSTZnSDhPNXQ3a0FIRWZWWFlMQ1V5Mm80UQ?oc=5",
@@ -1952,6 +1962,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVHZLNng1dlZUQzFJR0VqRjYyYVduYXVWd0tpZ3dJSkxpSDQ0M3BGdU5UTUxRSHpnaEtpb28ySUhmRU9fVnVEZGd1QjM4RmF5ZXQ3Y0JteVl6WjVBSG12bE9ydmV0MjVWN3lGMTlyWTFWZ3pQeHBiR1VsNUZMUWs0a0d5UlRaN3UwV3pXbm5TY2haakxuTW01bnV3?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNC1rU0R3dlRuUkVzSUM4U19Cd1VKM3BVSWZvaFZGaE1hV29RQldlTFZKcTZpaXZaQ3FYQldmclg1b3ZNODk3aC1BaVNQWUJadEJvQnNVQ2FzSlJYXzdhR3Vkb0RmQ2lLNmcxTTJfSThwVXlSQjU1WXJUblVNQm1DQzM2QnpacjV2aElLdHFXejJ5OUJzRXVBUkEwa3ZHUVlON2Jzclhia2xOZjUxc0FRZnl4Q1dvLW5ZeTU0dFR0bE1GYXdITm92Vkt4U080TDZ6VEZnYlZrOVY4QQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod | Artificial Intelligence - Amazon Web Services",
+      "desc": "Introducing enhanced infrastructure observability in Amazon SageMaker HyperPod | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services",
+      "date": "2026-11-20T18:24:06+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNC1rU0R3dlRuUkVzSUM4U19Cd1VKM3BVSWZvaFZGaE1hV29RQldlTFZKcTZpaXZaQ3FYQldmclg1b3ZNODk3aC1BaVNQWUJadEJvQnNVQ2FzSlJYXzdhR3Vkb0RmQ2lLNmcxTTJfSThwVXlSQjU1WXJUblVNQm1DQzM2QnpacjV2aElLdHFXejJ5OUJzRXVBUkEwa3ZHUVlON2Jzclhia2xOZjUxc0FRZnl4Q1dvLW5ZeTU0dFR0bE1GYXdITm92Vkt4U080TDZ6VEZnYlZrOVY4QQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUZPTUhmd1lpOTJ1MHlFallLV2MtakVqUnBjWlBpcmF4RzUwYTlUREU5WDlaV05LODRPdW01N1h6RE1XNndvNnpoWS1BTHJTMGpoMllFVkVEdndiaWs2X1Nwc3Q4OUp3YWVpY3FuZ2FsOUx4b3pKdTIwRmNySDdFOWdQb0FkMFE0b1M1ZVhiV20zTXZXQlFTUGZqajZPLUhxc3k4X3oxQ0JTRDFPcE5tbVpLWXIxYzVtd3BFak1ob3FKSHE3YVpCcw?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1972,6 +1992,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlNmc1B0X2c1UHZ6TjdoVE9OQnpieWp1RWthbk1TSG1mejJxZzFpOTNCZnkyNGFhNHRRSktFWl9wdTBxWEpfSkQyS3dDUEFrSWlmZWlsNXlRNm51ajZqRHFOZXFOekRnM1AwYjVsSDlhd2NCQUo4TGs4SDFCYWR4R2xyLW1DZkpBa3dLVER1SzZycXN1V29TdXhVSS1JQjFtUHE0WWx3aDctOVBxSGFJT2RVb0tUWGo2VFk0?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnVIM1ZweDFrVE9uNnJERkdPdnpBYlNKTy1kZGhfbV9JYWVyN3ZvYjNKOWhIRGIzcG1uOV9RYVNYbEMteHBHMzlELWlCQ1JMTGJnNUpwMVBRY0NCbnJjODI0SlJkNktycTRtV1NkYWtTcGg5WlFPQkNlcUJqZk9QZThGLVh1M2FNMlZCcm1yUDVxNWtSRjJTWllaakkzbV9YXzRvbjZpLUw?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "BMO demonstrates quantum computing milestone for AI and machine learning - FStech",
+      "desc": "BMO demonstrates quantum computing milestone for AI and machine learning &nbsp;&nbsp; FStech",
+      "date": "2026-11-20T15:46:53+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnVIM1ZweDFrVE9uNnJERkdPdnpBYlNKTy1kZGhfbV9JYWVyN3ZvYjNKOWhIRGIzcG1uOV9RYVNYbEMteHBHMzlELWlCQ1JMTGJnNUpwMVBRY0NCbnJjODI0SlJkNktycTRtV1NkYWtTcGg5WlFPQkNlcUJqZk9QZThGLVh1M2FNMlZCcm1yUDVxNWtSRjJTWllaakkzbV9YXzRvbjZpLUw?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/20/kulttuuritalot-kutsuvat-joulun-elamyksiin-ja-yhteiseen-tekemiseen",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1990,6 +2020,16 @@
       "date": "2026-11-20T14:47:12+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/20/tampere-palkitsi-vuoden-aikuisen-ja-hyvan-haltijan"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXhRQ3dQVmg1NlJNLXJTVkstUzUwaGpmQlg4QWZNUUh4YnVscm4wU1pCUERnTEg3M19yb0c4YUZxYkx3N3QyU2NvUWlEcFJyc1lVa1NTcmg4N1o0VGdHd0dsM2pGRGlKVmNjVGhaS2M2dHlQM24xSkdXZjluWEI1OUg5ZlREdE9zanRvLTJR?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Orangeburg AI Forum Meets a 12-Month Data Center Pause - shattered.io",
+      "desc": "Orangeburg AI Forum Meets a 12-Month Data Center Pause &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-20T14:42:36+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXhRQ3dQVmg1NlJNLXJTVkstUzUwaGpmQlg4QWZNUUh4YnVscm4wU1pCUERnTEg3M19yb0c4YUZxYkx3N3QyU2NvUWlEcFJyc1lVa1NTcmg4N1o0VGdHd0dsM2pGRGlKVmNjVGhaS2M2dHlQM24xSkdXZjluWEI1OUg5ZlREdE9zanRvLTJR?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN244RTY5RWxpcUVTaXdvRElZTWkxajdndDlrb0lzaVZOSnBzSkw3U3VtamxhZFU0M0tuVUp1QU03aFEyTll1S3AyWmpsS2xRaEFVZURMa3ZmYWZGY0pIRlBWamdOUlRXckFKRlpodXdkUkNBWUdYTEk0NXhNSW5YTXQ3elRQUE9z?oc=5",
@@ -2222,46 +2262,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVB6WUQyUm5sRDFVX3NsbEhoMS0zLU1zTnRjSEVDM0x3V1NrQW9kbXVIN2dTaGtHTXBsMEZ3MDlQdjVZYUVCb25QWU5ZS05hZlZwbXN1MkhtOTctcmk3NDI2UzhHMkQ4ejA1dHFGQzRtX0pXa2R6b3N0Qy1nWXRwWnpyX3dBd3VnMUVyQTZYdmdEXzNmWjBma0dRd1dLOTU1SmFETERHRXB2Q3IybEQxREtlSXFKUQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1hXYzNBYld2UHJXclpZOE1LWkFJb2VvUlUxN2FHQ0ZMZS1MQld6eGNGbUlNZURrMnNwR1FlemMwTzJ5Y201aXM4bEt0TkhkY3pwWG5tT2tJQ0dtYmVtWk1OejJDWkFzUkxvRGlxSnR2YVNtWl9ybl85c2pCekIxc3BYc1o4RExINUlpcVVfd2p1UF9fSEdHeFVKenlDcEVkbjhZY1YwU1Z0T2duM3VZZzdhNzZpd3ZWTUk2RTln?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach | Artificial Intelligence - Amazon Web Services",
-      "desc": "Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services",
-      "date": "2026-11-19T18:48:55+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1hXYzNBYld2UHJXclpZOE1LWkFJb2VvUlUxN2FHQ0ZMZS1MQld6eGNGbUlNZURrMnNwR1FlemMwTzJ5Y201aXM4bEt0TkhkY3pwWG5tT2tJQ0dtYmVtWk1OejJDWkFzUkxvRGlxSnR2YVNtWl9ybl85c2pCekIxc3BYc1o4RExINUlpcVVfd2p1UF9fSEdHeFVKenlDcEVkbjhZY1YwU1Z0T2duM3VZZzdhNzZpd3ZWTUk2RTln?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMEF5RERNZ2dyQmJaczJKZjNaSXdoTW5aMm9JLXc3bFBpalplemN0T0IzWUdPdVBZaXd5VGo1bmVEcmV2ZTNja2E0SG5vSUtBZHVnRzB3a3NJMWY3WC1JYlg3ZG9zd3llem80STlHS0F4VW5XU1FraWh4ZHd1cVhWX0p1dU5GdzZTbmo0MHA5LV9CcXB6cDM3WmYtdFhaOHQ3SDV3NWtSV05aMk02M29lVHBIZlY2ZFpzZFhJZGJYYWNJQjVGOFZUWkZEai16YWk3R2RPWEJaMmJPd28?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League - Amazon Web Services",
-      "desc": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League &nbsp;&nbsp; Amazon Web Services",
-      "date": "2026-11-19T18:26:22+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMEF5RERNZ2dyQmJaczJKZjNaSXdoTW5aMm9JLXc3bFBpalplemN0T0IzWUdPdVBZaXd5VGo1bmVEcmV2ZTNja2E0SG5vSUtBZHVnRzB3a3NJMWY3WC1JYlg3ZG9zd3llem80STlHS0F4VW5XU1FraWh4ZHd1cVhWX0p1dU5GdzZTbmo0MHA5LV9CcXB6cDM3WmYtdFhaOHQ3SDV3NWtSV05aMk02M29lVHBIZlY2ZFpzZFhJZGJYYWNJQjVGOFZUWkZEai16YWk3R2RPWEJaMmJPd28?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVd1eDJoR0pNRjZpNEZaT1A0U1RCa1Y2QkVzNkZmWV90M2V1TEpoaVBVQUpHNC1ZWG9xczdxUmM2a2IwclZadGVZNkVKbkg5YjNzQjdnOHpTNzhuYmpXYndyeGU0UHdNeDQ5X2xnWjVzSzcwX3NtbWlsUnJfTWNqVEFjeTBqajhYdkRJX1c4MnFpcFVyY3BxOVJxTjQyM05pb3Z0RlN3?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart | Artificial Intelligence - Amazon Web Services",
-      "desc": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart | Artificial Intelligence &nbsp;&nbsp; Amazon Web Services",
-      "date": "2026-11-19T17:28:47+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVd1eDJoR0pNRjZpNEZaT1A0U1RCa1Y2QkVzNkZmWV90M2V1TEpoaVBVQUpHNC1ZWG9xczdxUmM2a2IwclZadGVZNkVKbkg5YjNzQjdnOHpTNzhuYmpXYndyeGU0UHdNeDQ5X2xnWjVzSzcwX3NtbWlsUnJfTWNqVEFjeTBqajhYdkRJX1c4MnFpcFVyY3BxOVJxTjQyM05pb3Z0RlN3?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFhZajljRzAwN3hxUGxGSnkzMEhzWndodVNJajFSdndHdUplWHVfWjNBWl9hU0hWRFVicTIwQnVEMFhyOUpjOG1oNTVXaHFkbng3Ylp6Z2VJWlFIeGpmRnNxTFgtWmNnMFFyWmp2UHN3TTk3aHFBN2Q4ZXh4eVFFYTB2ek5hdEFUWUpTbnFndw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Tekoäly vahvasti esillä Slushissa 40 s - MTV Katsomo",
-      "desc": "Tekoäly vahvasti esillä Slushissa 40 s &nbsp;&nbsp; MTV Katsomo",
-      "date": "2026-11-19T17:15:36+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRFhZajljRzAwN3hxUGxGSnkzMEhzWndodVNJajFSdndHdUplWHVfWjNBWl9hU0hWRFVicTIwQnVEMFhyOUpjOG1oNTVXaHFkbng3Ylp6Z2VJWlFIeGpmRnNxTFgtWmNnMFFyWmp2UHN3TTk3aHFBN2Q4ZXh4eVFFYTB2ek5hdEFUWUpTbnFndw?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43c0Q1NWpxcm5LNE9YenBUc0ZKMk5WMFNjOEJhNjdtbm04UmRsLUprRGFjdnpJUk1mVllPUU12TEVFRVJLMElueHd1SDFaa0hiOVptUDhuRG0yUVlMbWkxMA?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2432,6 +2432,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdEYjlKYUgxQklycGNXNGNaN2kzc3l4VjdsQ04yMm02amFTbkpERWVyeGpySEt6N20wUTBDa1BWZS1SM0twVlh4QU9WdmVzUVR3aFVwMzlVTHpsMlZOcGNvdnB4UzR5eF9GOGt3dktzTHNnM3pucERManNiMml0cU1lc0ZnWEZKTFVyd0tVcGJDLUVmYTRuT2pacXl5VmZVNDRDS0t6VjJ1N3hRWmhhNGN1MA?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Exercise Rehabilitation Improves Walking Capacity in Long COVID Cardiopulmonary Recovery - Bioengineer.org",
+      "desc": "Exercise Rehabilitation Improves Walking Capacity in Long COVID Cardiopulmonary Recovery &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-18T08:45:27+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdEYjlKYUgxQklycGNXNGNaN2kzc3l4VjdsQ04yMm02amFTbkpERWVyeGpySEt6N20wUTBDa1BWZS1SM0twVlh4QU9WdmVzUVR3aFVwMzlVTHpsMlZOcGNvdnB4UzR5eF9GOGt3dktzTHNnM3pucERManNiMml0cU1lc0ZnWEZKTFVyd0tVcGJDLUVmYTRuT2pacXl5VmZVNDRDS0t6VjJ1N3hRWmhhNGN1MA?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2450,16 +2460,6 @@
       "date": "2026-11-18T02:20:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXVGMmtIeXFWTkh1Ync3UGhDOXVpU3c4dGN2RTNTa3pIdTh1Tk1NTXc0YkFvcUdrZUI3YnBWYTdvVFA1bFhLdlVNVHhOUDM4aDVnUVVCSEEzRW9CSmNZOE9GY1MxM3ZuZTFYbEEzTXZkNVVQTlJKYWlSZUlfazMtVW5oT2JfeTE0cVVZS2NKSm5FeDFPOE9jRHlDSVlUd1U5WVFmLUMzLUx3c3Zud3JMOU8tSQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnM5THpaZnJUTnNXTWdyS3VfU1hLVU1nX3o1ZkltcEdvZHFDeWl0SDBXWlBkMGpNYUt3UDF1SzNKY05ERGtLV2lRWHFaaWZBb3Z3aWNaa1pRUkwyLUJhV2Fjb05BMkhGOWlXcGpteFkzLV94b2k1Y2tpM2N0bHEzMC03Y2lMOGpvVmdpekJWaVZTN0gyUHB0a2syX1VVUGFLVllVZjRjY0VmejNJNUE?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Exercise Interventions Linked to Heart Rate Variability Shifts in Youth with Obesity - Bioengineer.org",
-      "desc": "Exercise Interventions Linked to Heart Rate Variability Shifts in Youth with Obesity &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-17T21:45:49+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnM5THpaZnJUTnNXTWdyS3VfU1hLVU1nX3o1ZkltcEdvZHFDeWl0SDBXWlBkMGpNYUt3UDF1SzNKY05ERGtLV2lRWHFaaWZBb3Z3aWNaa1pRUkwyLUJhV2Fjb05BMkhGOWlXcGpteFkzLV94b2k1Y2tpM2N0bHEzMC03Y2lMOGpvVmdpekJWaVZTN0gyUHB0a2syX1VVUGFLVllVZjRjY0VmejNJNUE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmtPYmdXc041RkJFanowZEpPUHdxNjFUc0JaaDMwWTZRLUYteGN4YWVWeThFWmZqMmdmMV9fVTJYY3k5ci1UN1ZyS2ZfeHBIQ3BXcUttZjlUVFJfQm9paWF5Tk9IMm50dTdZTmtPbjc0UjlPaGZWdmI0ODVPbFB6eTkxaGFURlhRZC1tREl6a3hSeFBrQ2V3WWpfdlVReUlDTENUMXFFMGJOS1h3UnJ6Z2lyb0tuSkNRbWIwWmtKTFc5NmpmTWFhXzRpU2tvWVlpVjRoRzZYYXJUMkdVcXYw?oc=5",
@@ -2492,14 +2492,14 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXcyeUkzSThBYVpmVU1oX2VpYjBDbGJOWmlXRFRzaTF3SktXdjRwVWJSS2xRQjF5OS10bk80S3hQelFFVWRNWjRxM05pYkI2bnloWm9KM1RPbUwzMDJqVnJ1US1yVTVmRmFYRDZpeVFtOFNtcUlPSlVZQ05tU0ZhaDQ4THd2a0g3Y0RJamIwd1M?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSX3hVNjlZZnE3dDI3cnE1R0RyMUZ3SVNqMERJT3MzMk1FdFppOU1LclBfdTlmdnVhcFJ1TUVkdmt2bThtOWJ2bEFGbE42eTQ4bEJvSVc1TzYxLU91VnNVSFJ2UFhZV2RVYkZxZms3VQ?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGg1eTNRczBCbHpkdEZHeENjM2ZWdlVLY3JFb3AtNm5lWE9GN2N4cFR5T0tENlI5YnZSWlNQdGxTWlA4bWtWaldITmhST2V5elN0SEVFS2pwbE1oNUl1T0RGTUNWX2djV09zaFZ5TDc3cC1NSktvQzYyX3B1TG9oVkl6TzRkRjJkcGhZbmdDc2lWSDEwWGVpWFR3b09heXJnTkt0dTcxdnM4T25zMTFRd1RrTUVBZmpHT0tR?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
-      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising - ScienceDaily",
-      "desc": "Scientists tracked kids for 8 years. What they found about screen time was surprising &nbsp;&nbsp; ScienceDaily",
+      "title": "Column | How much life could a 10-minute walk buy you? Try our calculator. - The Washington Post",
+      "desc": "Column | How much life could a 10-minute walk buy you? Try our calculator. &nbsp;&nbsp; The Washington Post",
       "date": "2026-11-17T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSX3hVNjlZZnE3dDI3cnE1R0RyMUZ3SVNqMERJT3MzMk1FdFppOU1LclBfdTlmdnVhcFJ1TUVkdmt2bThtOWJ2bEFGbE42eTQ4bEJvSVc1TzYxLU91VnNVSFJ2UFhZV2RVYkZxZms3VQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGg1eTNRczBCbHpkdEZHeENjM2ZWdlVLY3JFb3AtNm5lWE9GN2N4cFR5T0tENlI5YnZSWlNQdGxTWlA4bWtWaldITmhST2V5elN0SEVFS2pwbE1oNUl1T0RGTUNWX2djV09zaFZ5TDc3cC1NSktvQzYyX3B1TG9oVkl6TzRkRjJkcGhZbmdDc2lWSDEwWGVpWFR3b09heXJnTkt0dTcxdnM4T25zMTFRd1RrTUVBZmpHT0tR?oc=5"
     }
   ],
   "sources": [
@@ -2563,7 +2563,7 @@
       "name": "Google Uutiset",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 15,
+      "count": 16,
       "reason": ""
     },
     {
@@ -2577,7 +2577,7 @@
       "name": "Google News",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 27,
+      "count": 25,
       "reason": ""
     },
     {
