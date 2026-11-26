@@ -1,6 +1,86 @@
 {
-  "updated": "2026-11-26T07:03:53.380599+00:00",
+  "updated": "2026-11-26T08:56:08.031321+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20258919?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Tyrnävän tulipalossa pilaantuneet perunat säilötään lumeen ja niistä tehdään biokaasua",
+      "desc": "Neljä miljoonaa kiloa perunaa voidaan sittenkin hyödyntää. Perunat jäädytetään jääkakuksi, jotta koko määrä pystytään käsittelemään Ranuan biokaasulaitoksella.",
+      "date": "2026-11-26T10:51:28+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258919?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258916?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Uutta tietoa Nammon Laukaan ruutitehtaan räjähdysonnettomuudesta: tieto vaarallisesta putkesta unohtui sähköpostiin",
+      "desc": "Heinäkuisessa räjähdyksessä kuoli yksi ihminen.",
+      "date": "2026-11-26T10:36:21+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258916?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259004?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Orpon tilaama tekoälyraportti: Suomi panostaa supertietokoneisiin, mutta palveluiden uudistamiseen jää vain rippeitä",
+      "desc": "Pääministerin tilaamassa selvityksessä ehdotetaan, että kansalainen voisi jatkossa valtuuttaa oman tekoälyagenttinsa asioimaan viranomaisissa.",
+      "date": "2026-11-26T10:30:25+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259004?origin=rss"
+    },
+    {
+      "id": "https://www.tampere.fi/ajankohtaista/2026/11/26/linnainmaan-nuorisotila-murusta-tulee-kaikkien-kohtaamispaikka",
+      "cat": "Tampere",
+      "icon": "🏛️",
+      "title": "Linnainmaan nuorisotila Murusta tulee Kaikkien kohtaamispaikka",
+      "desc": "Linnainmaan nuorten tila Muru avautuu myös alueen muiden asukkaiden käyttöön. Iltaisin tila palvelee edelleen nuoria, mutta päiväsaikaan erityisesti ikääntyneitä ja lauantaisin perheitä. Murussa voi tavata muit…",
+      "date": "2026-11-26T10:09:51+02:00",
+      "source": "Tampereen kaupunki",
+      "url": "https://www.tampere.fi/ajankohtaista/2026/11/26/linnainmaan-nuorisotila-murusta-tulee-kaikkien-kohtaamispaikka"
+    },
+    {
+      "id": "https://yle.fi/a/74-20254651?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Yhä useampi yritys hakee työntekijän sijaan kevytyrittäjää – asiantuntija: Helppo ja nopea tapa säästää",
+      "desc": "Työnhakijan voi olla vaikeaa ymmärtää työpaikkailmoituksesta, etsitäänkö niissä työntekijää palkkatöihin vai yrittäjää.",
+      "date": "2026-11-26T10:07:57+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20254651?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259065?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Diesel-alus uponnut Ibizan edustalla – yksi kuollut",
+      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
+      "date": "2026-11-26T09:55:51+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259065?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259059?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Ari Luusuan valitus hylättiin, ei hiihdä Rukalla – ”Päätöstä pitää kunnioittaa”",
+      "desc": "Ari Luusua ei ole mukana hiihdon maailmancupin avauksessa Rukalla.",
+      "date": "2026-11-26T09:53:02+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259059?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20258952?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Kunnat ja hyvinvointialueet saamassa 244 miljoonan euron helpotuksen eläkemaksuihinsa",
+      "desc": "Kevan valtuusto päättää perjantaina 244 miljoonan euron kevennyksestä.",
+      "date": "2026-11-26T09:39:22+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20258952?origin=rss"
+    },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/26/kintulammin-retkeilypalvelut-laajenevat-ensi-vuonna-laavun-voi-varata",
       "cat": "Tampere",
@@ -15,8 +95,8 @@
       "id": "https://yle.fi/a/74-20255511?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Tänään jaetaan kirjallisuuden Finlandia-palkinnot – katso tästä kaikki ehdokkaat",
-      "desc": "Yle näyttää juhlagaalan kello 19.30 alkaen.",
+      "title": "Kirjallisuuden Finlandia-palkinnot jaetaan tänään – nämä teokset ovat ehdolla",
+      "desc": "Tänään selviää, ketkä saavat kauno-, tieto- sekä lasten- ja nuortenkirjallisuuden Finlandia-palkinnot. Yle näyttää juhlagaalan kello 19.30 alkaen.",
       "date": "2026-11-26T08:58:38+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20255511?origin=rss"
@@ -92,16 +172,6 @@
       "url": "https://yle.fi/a/74-20259014?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20259024?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Pakkanen kiristää otettaan – pohjoiseen jopa -20 astetta",
-      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
-      "date": "2026-11-26T06:29:58+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259024?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20255900?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -110,6 +180,16 @@
       "date": "2026-11-26T06:05:35+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20255900?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFlBLUgzR01aQ3Bxb0ppb0NHdXdXVGNkNi1WRkpPMkkyVDN1M0lRd1ZJMVJMVDFLSDYyNzRiRkg5NExUUGhNWHhna2M1YU5JV1ZDZzdLOWtaRHRlcW95SFF2WlVfMTRpUFFkR0FJX1B4Z2prb05TR0c2ZzQ3elhobjlNQXNUdVh4SzREYlBHb0FGNjR1MEZ2a2VUb2FnWGRjS2NqNmF0QmRrUnIwWnN0NUxKWUhXVWRzY1JMWTFHQUdxTGUxdmtOUA?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Anton Groom, GE Aerospace’s New Chief Data and AI Officer, Is Looking for a Few Good Problems to Solve - GE Aerospace",
+      "desc": "Anton Groom, GE Aerospace’s New Chief Data and AI Officer, Is Looking for a Few Good Problems to Solve &nbsp;&nbsp; GE Aerospace",
+      "date": "2026-11-26T06:01:55+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFlBLUgzR01aQ3Bxb0ppb0NHdXdXVGNkNi1WRkpPMkkyVDN1M0lRd1ZJMVJMVDFLSDYyNzRiRkg5NExUUGhNWHhna2M1YU5JV1ZDZzdLOWtaRHRlcW95SFF2WlVfMTRpUFFkR0FJX1B4Z2prb05TR0c2ZzQ3elhobjlNQXNUdVh4SzREYlBHb0FGNjR1MEZ2a2VUb2FnWGRjS2NqNmF0QmRrUnIwWnN0NUxKWUhXVWRzY1JMWTFHQUdxTGUxdmtOUA?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258837?origin=rss",
@@ -122,21 +202,21 @@
       "url": "https://yle.fi/a/74-20258837?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20257504?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Huijari esiintyi Whatsappissa tunnettuna ekonomistina – Hannu Nummiaro: ”Joku uskoo viestit ja menettää paljon rahaa”",
-      "desc": "Sijoittamaan innostuneilta suomalaisilta yritetään huijata yhä useammin rahaa. Yli puolet suomalaisista on kohdannut sijoitushuijauksen somessa.",
-      "date": "2026-11-26T06:00:35+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20257504?origin=rss"
+      "id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYVJwOG5tb0dfcE9Cdm42WHczUXVfdlRoQ0JtaEZUdU5laWE5VmxjcEFqZGMtQ09QcWhhdGxmZ2Q3NnJ3Q2VjNl9pNmJuTjM5TnFydzdMT3pkdF9WcjFWcndpRFBrYTZGOFU1V3k0M1VZRlkwRXpaMUVjeVF5RzBhdkNFQXFiLWVsbDRVX1ByOEdacHhVNkllSWlMN0wxRnEtTzlSbHZkSXJ0M2l0LXREd2pwNjZmZ3pLVXNfRW1ES0JtSkxqdldrbHdaa2N5bHBKWWlUQVhlZzlqRHRxYjd6ektPdHdXbHk2aEZvT0RaUXRHMENLMF9tNlMtSWVFaEZYSGV6UlNDRVllVDhH?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Tekoäly muuttaa oppimista ja työelämää – mediakasvatuksen asiantuntijat keskustelevat seminaarissa tulevaisuuden osaamisesta - ePressi",
+      "desc": "Tekoäly muuttaa oppimista ja työelämää – mediakasvatuksen asiantuntijat keskustelevat seminaarissa tulevaisuuden osaamisesta &nbsp;&nbsp; ePressi",
+      "date": "2026-11-26T05:46:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYVJwOG5tb0dfcE9Cdm42WHczUXVfdlRoQ0JtaEZUdU5laWE5VmxjcEFqZGMtQ09QcWhhdGxmZ2Q3NnJ3Q2VjNl9pNmJuTjM5TnFydzdMT3pkdF9WcjFWcndpRFBrYTZGOFU1V3k0M1VZRlkwRXpaMUVjeVF5RzBhdkNFQXFiLWVsbDRVX1ByOEdacHhVNkllSWlMN0wxRnEtTzlSbHZkSXJ0M2l0LXREd2pwNjZmZ3pLVXNfRW1ES0JtSkxqdldrbHdaa2N5bHBKWWlUQVhlZzlqRHRxYjd6ektPdHdXbHk2aEZvT0RaUXRHMENLMF9tNlMtSWVFaEZYSGV6UlNDRVllVDhH?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258707?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Mitä tapahtuu Ukraina-tuelle? Saksa haluaa tehdä lopun rusinoiden poimimisesta",
-      "desc": "Suomea huippukokouksessa edustaa pääministeri Petteri Orpo. Katso hänen kommenttinsa suorana noin kello 9.40 tässä jutussa.",
+      "title": "EU kiistelee rahasta – budjetti on vieläkin liian suuri, sanoo Orpo",
+      "desc": "EU-johtajat kiistelevät unionin rahoituksesta ylimääräisessä huippukokouksessa. Suomea Brysselissä edustaa pääministeri Petteri Orpo.",
       "date": "2026-11-26T05:00:35+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20258707?origin=rss"
@@ -167,19 +247,39 @@
       "icon": "🤖",
       "title": "Tekoäly saattoi ratkaista matematiikan suurimman mysteerin – iso ongelma edessä - mtvuutiset.fi",
       "desc": "Tekoäly saattoi ratkaista matematiikan suurimman mysteerin – iso ongelma edessä &nbsp;&nbsp; mtvuutiset.fi",
-      "date": "2026-11-26T03:55:00+00:00",
+      "date": "2026-11-26T03:56:08+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzVZbHZwRDRsczFHVFQ3a1hNNk5BQkJGZnFweXpfaGFZekYySkM5U0xRRGR6Y2xvTTRkcDJPVkpsWXlnSjlXS1hWM3hyUjczS25LdGFhS3E5WFgzTm0zOHhJZ0YxWG9GcmVmVDJfZ2gwS3Iza2JYdjJKUm9pMkdaTFNodERjOW1vX2gxR2ozX1dTNGtkNXJrZFMxLXl6TDEyaWlPN29jM29BSG45MEduNmZSYnhTeW1Yb2lZYUZn?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20259018?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Pörssisähkö on tänään kallista",
-      "desc": "Avaa alkuperäinen julkaisu lukeaksesi lisää.",
-      "date": "2026-11-26T02:00:09+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259018?origin=rss"
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3A4ZV81NWMyeFJnM29taVQ2NjNiZXJqQ1ZkODV3emRJQ1FJVk0zVmEzcTdrTUFIcWJSZG5PRHZ2ZmtTLTRSOWh5bVFzcWpFTno2YmtsZ3lPbjJpNG1NWmNPWjA3MW1peXlFdUFFb1ppRjBvaHJ1bnJhVS1JeGVsUTVoSEhTOS02cmhSNnI4M0ZZdEZFdVo5UGlKR2JSbzN5bVdfZjJXeFo?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Latino Back Pain Study Finds Physical Activity Links Are Entirely Individualized - Bioengineer.org",
+      "desc": "Latino Back Pain Study Finds Physical Activity Links Are Entirely Individualized &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-26T02:04:32+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3A4ZV81NWMyeFJnM29taVQ2NjNiZXJqQ1ZkODV3emRJQ1FJVk0zVmEzcTdrTUFIcWJSZG5PRHZ2ZmtTLTRSOWh5bVFzcWpFTno2YmtsZ3lPbjJpNG1NWmNPWjA3MW1peXlFdUFFb1ppRjBvaHJ1bnJhVS1JeGVsUTVoSEhTOS02cmhSNnI4M0ZZdEZFdVo5UGlKR2JSbzN5bVdfZjJXeFo?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSDZ5eTdIaGJjbDk1blAxd21FX1NHY0VYclljUTRfQjRPR0NMYzNIQjI4c19tNXphYjlla3BWbEJZU2lDNUpfRWJsMEVWWnZIZ3VHUC1OM3FvR1gtQ0luaTVxR19rOFM4U2d1RzNHQnBJVHNCRkMxUDIxajJsX05NZXM0TXZSaDMtUkwxb05FdlpDZ1pyN3JLUGJwUGpNS2h5WWhzVHdQV1BjZ0NVa0hQRXNIVnJPN0N4QmFHbGVsUFBDaXNxUDU5cmxPd001OE5BYnRVcld6bjEzemdVWGgyYXpyQmRNVHp1eXJ6VFJvUkUzSjlOWDV2NEJn?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Awareness of Home Exercises and Shoulder Stiffness in Community-Dwelling Adults Aged 60 Years and Older: A Cross-Sectional Study - Cureus",
+      "desc": "Awareness of Home Exercises and Shoulder Stiffness in Community-Dwelling Adults Aged 60 Years and Older: A Cross-Sectional Study &nbsp;&nbsp; Cureus",
+      "date": "2026-11-26T01:44:07+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSDZ5eTdIaGJjbDk1blAxd21FX1NHY0VYclljUTRfQjRPR0NMYzNIQjI4c19tNXphYjlla3BWbEJZU2lDNUpfRWJsMEVWWnZIZ3VHUC1OM3FvR1gtQ0luaTVxR19rOFM4U2d1RzNHQnBJVHNCRkMxUDIxajJsX05NZXM0TXZSaDMtUkwxb05FdlpDZ1pyN3JLUGJwUGpNS2h5WWhzVHdQV1BjZ0NVa0hQRXNIVnJPN0N4QmFHbGVsUFBDaXNxUDU5cmxPd001OE5BYnRVcld6bjEzemdVWGgyYXpyQmRNVHp1eXJ6VFJvUkUzSjlOWDV2NEJn?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakhqQTRETkdwZ1g3aEl3T013S3ZOQnJaYjhodHhkS2R1QU53amd5S0FkZXBXeU5tdVR4VGVIY25GTTNEbHgxQm12dmlTRkxsQU96RVpXUHJaTG02UFdpTEpJME5FNDYwZ3VXMTJwWjFLb0dWd09pbVdQbU9wZHVEcjVNX01NUjM5M1NtaHhkMk03aFVoSnNQend3cS14YkJOY2hR?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "School-Promoted Wearables Reduce Body Fat in Inactive and Female Adolescents - Bioengineer.org",
+      "desc": "School-Promoted Wearables Reduce Body Fat in Inactive and Female Adolescents &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-26T01:04:08+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakhqQTRETkdwZ1g3aEl3T013S3ZOQnJaYjhodHhkS2R1QU53amd5S0FkZXBXeU5tdVR4VGVIY25GTTNEbHgxQm12dmlTRkxsQU96RVpXUHJaTG02UFdpTEpJME5FNDYwZ3VXMTJwWjFLb0dWd09pbVdQbU9wZHVEcjVNX01NUjM5M1NtaHhkMk03aFVoSnNQend3cS14YkJOY2hR?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20259015?origin=rss",
@@ -190,16 +290,6 @@
       "date": "2026-11-26T00:37:56+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259015?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259017?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Duran Duranin kitaristi Andy Taylor on kuollut",
-      "desc": "65-vuotiaana kuollut Taylor sairasti eturauhassyöpää.",
-      "date": "2026-11-26T00:35:04+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259017?origin=rss"
     },
     {
       "id": "https://arxiv.org/abs/2611.33160",
@@ -702,16 +792,6 @@
       "url": "https://yle.fi/a/74-20259005?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUGZPR1VFNGEwU1FWVDZMeTBwRW51UHYyVU5IYUh4ek5jbElibmNiRjZGOHNZLWhYNXVHMF9OUFdaUzFDV0xfbnQyLW9BbFVCRHlRaEFWdFlCTjl0cmFuMFdCUzNYc01ZSG9hSDB1NkpNZ1o0SVJ5QUExaXFDWVN6UkRnY2RpRU9jTEJpQUtVZjVWZGlRVXdsOXMzXzZqQnFqOUszTEpGSGJvVkQ4dW5rNDJGNHNyZHNSTGYzeWJqc2lTdW5fazdZR3NsWWNPNVY3THRmN05rNHIzMDRMSVg0Z2hDUm9XRFE3Y0tnVXBsLXF2cG1mbGxERkRNWlpvS3M5bWgzRGptSDFxcmtuWWJUN3VrZw?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Awareness of Home Exercises and Shoulder Stiffness in Community-Dwelling Adults Aged 60 Years and Older: A Cross-Sectional Study - Cureus",
-      "desc": "Awareness of Home Exercises and Shoulder Stiffness in Community-Dwelling Adults Aged 60 Years and Older: A Cross-Sectional Study &nbsp;&nbsp; Cureus",
-      "date": "2026-11-25T19:49:20+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUGZPR1VFNGEwU1FWVDZMeTBwRW51UHYyVU5IYUh4ek5jbElibmNiRjZGOHNZLWhYNXVHMF9OUFdaUzFDV0xfbnQyLW9BbFVCRHlRaEFWdFlCTjl0cmFuMFdCUzNYc01ZSG9hSDB1NkpNZ1o0SVJ5QUExaXFDWVN6UkRnY2RpRU9jTEJpQUtVZjVWZGlRVXdsOXMzXzZqQnFqOUszTEpGSGJvVkQ4dW5rNDJGNHNyZHNSTGYzeWJqc2lTdW5fazdZR3NsWWNPNVY3THRmN05rNHIzMDRMSVg0Z2hDUm9XRFE3Y0tnVXBsLXF2cG1mbGxERkRNWlpvS3M5bWgzRGptSDFxcmtuWWJUN3VrZw?oc=5"
-    },
-    {
       "id": "https://yle.fi/a/74-20259003?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
@@ -902,6 +982,16 @@
       "url": "https://yle.fi/a/74-20258912?origin=rss"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMndISzFucXViWkZ2TFI5RmhJTzlUSldFMzEzT1NUY3RyYmdwNjU5MlJiYzhVTnNsazlXX0M5ZVRnYnV1TVhsV2F2aDdQYTFoM3hxZWVkQ2s0Wi1tWk5WNmFUaGY?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Teen Salty Snack Lovers May Face Higher Gut Disease Risk - StudyFinds",
+      "desc": "Teen Salty Snack Lovers May Face Higher Gut Disease Risk &nbsp;&nbsp; StudyFinds",
+      "date": "2026-11-25T13:47:26+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRMndISzFucXViWkZ2TFI5RmhJTzlUSldFMzEzT1NUY3RyYmdwNjU5MlJiYzhVTnNsazlXX0M5ZVRnYnV1TVhsV2F2aDdQYTFoM3hxZWVkQ2s0Wi1tWk5WNmFUaGY?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20258903?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -950,6 +1040,16 @@
       "date": "2026-11-25T13:00:32+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/25/pyynikin-luonnonsuojelualueelle-maastopyorailyn-kieltavia"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnRNZGlfVWkxTVo0VzhWRDZrZW5rY1N1RHRReGJRY3VDRnlQWDJGZHdTREZWX3FDa3BSc1NWWTE3SjNuak5yR0hFRDVjWmdpZHBMMVJaNl9KV2ZwNUlPR19nS3NJblFSNkRzbHhSejRVbHk3WjdqUHZ3TnNTbXdFc3djcmU3YkYwOXo2bWJUdzhrcE80U0xtQ2VnZEV1NnFvNzdFRGFkX1RoaEhFSHR4VFpFV2NtT0lLenZoSWlTT1RXNUR0dkJlVGM0NEtlSVdicUtqU1I2UmF0VWhQNW1xdy11eHRDZTZzQmhuaUtMc2s?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "New Flo Health Research Finds Higher Body Mass Index (BMI) Linked to Greater Perimenopause Symptom Burden - PR Newswire",
+      "desc": "New Flo Health Research Finds Higher Body Mass Index (BMI) Linked to Greater Perimenopause Symptom Burden &nbsp;&nbsp; PR Newswire",
+      "date": "2026-11-25T12:30:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnRNZGlfVWkxTVo0VzhWRDZrZW5rY1N1RHRReGJRY3VDRnlQWDJGZHdTREZWX3FDa3BSc1NWWTE3SjNuak5yR0hFRDVjWmdpZHBMMVJaNl9KV2ZwNUlPR19nS3NJblFSNkRzbHhSejRVbHk3WjdqUHZ3TnNTbXdFc3djcmU3YkYwOXo2bWJUdzhrcE80U0xtQ2VnZEV1NnFvNzdFRGFkX1RoaEhFSHR4VFpFV2NtT0lLenZoSWlTT1RXNUR0dkJlVGM0NEtlSVdicUtqU1I2UmF0VWhQNW1xdy11eHRDZTZzQmhuaUtMc2s?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/25/kiusaamiselle-loppu-uusi-tuen-polku-auttaa-katkaisemaan-pitkittyneen",
@@ -1042,16 +1142,6 @@
       "url": "https://yle.fi/a/74-20258869?origin=rss"
     },
     {
-      "id": "https://yle.fi/a/74-20258546?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Hanna Höijer palasi ilmastokokouksesta raivoissaan – mihin niitä enää edes tarvitaan?",
-      "desc": "Asiantuntijan mukaan kokoukset ainakin näyttävät, millaista ilmastopolitiikkaa maat oikeasti kannattavat.",
-      "date": "2026-11-25T10:32:01+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258546?origin=rss"
-    },
-    {
       "id": "https://yle.fi/a/74-20258833?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1082,16 +1172,6 @@
       "url": "https://yle.fi/a/74-20258836?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMmFXMHhJOF9EWHZrRU5ZN0xOeERqQ3VlLUZPNWg4UG9ydVlXbEsxaUtsOWZaUmxtOUJNMFRxQnZDVHZFd0k1MkFJaERDenZaLTd1ak8xVTVrVmlvd25DQ1FFa0hmU1dlYTVDQ0pDcVM4Y3AxR3hJUFo2cmpBdWM1ZlM0XzhJYjQyVkYwam5lQUhodHBiMkxwbEZ2T2lKTFhxMlBGdUkybnl5VEtvei1DajE5UDFNWjdJcmlVOXFvSTFGZkZ6eFFxVWVJNnk5TW1scmY0Z2hqbkNycC1pbnVJ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "A study in animal models shows that high-intensity exercise can cause cardiovascular damage in females too - Hospital Clínic Barcelona",
-      "desc": "A study in animal models shows that high-intensity exercise can cause cardiovascular damage in females too &nbsp;&nbsp; Hospital Clínic Barcelona",
-      "date": "2026-11-25T08:59:30+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMmFXMHhJOF9EWHZrRU5ZN0xOeERqQ3VlLUZPNWg4UG9ydVlXbEsxaUtsOWZaUmxtOUJNMFRxQnZDVHZFd0k1MkFJaERDenZaLTd1ak8xVTVrVmlvd25DQ1FFa0hmU1dlYTVDQ0pDcVM4Y3AxR3hJUFo2cmpBdWM1ZlM0XzhJYjQyVkYwam5lQUhodHBiMkxwbEZ2T2lKTFhxMlBGdUkybnl5VEtvei1DajE5UDFNWjdJcmlVOXFvSTFGZkZ6eFFxVWVJNnk5TW1scmY0Z2hqbkNycC1pbnVJ?oc=5"
-    },
-    {
       "id": "https://yle.fi/a/74-20257970?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
@@ -1112,14 +1192,24 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR05oejU3d2M5NVRjaG1KQzM5Mm5QM20wQUxNVHluT21VM01ibmtrVjlobEZWWWJmOXhsbERSZ1hucDVwSTRtb2cyZmN5V0U2Zm8yd0t5TUFaTXBNQ3hHdktxbHJJZmZrUmdIa3p1dE1WNFBpS184R1ZLeExhbVJ5LU9ZaS1JVzRUcFVTRHUtN0MtRHhHSTRQbWlUX3BxQQ?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20258795?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Ismo Lehkonen uskoo kuudenteen Rautakorpi-kauteen Tapparassa – ”Seurajohto on muninut raskaasti”",
-      "desc": "Asiantuntijan mukaan Jukka Rautakorpi on nyt selkeästi parempi valmentaja kuin aiemmin urallaan, koska matkan varrella koetut vastoinkäymiset ovat kasvattaneet.",
-      "date": "2026-11-25T07:00:38+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20258795?origin=rss"
+      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjhOT2NJRzdFUklESHNFVU1Ba1p4OHZ0bkNEOVhuVzZaRmF4dzJKRGtyT2hIUF9HTjNKVGZTb3ZSNk1jREJiNWVIVUtfRVpXdkJ3RzRsNnJ0NjE5Zlp4Y0JiVXR4dzZGXzVITm1JZWpxSFZXSW5IblBKaU1PQlhqcTNEa0xzOHJ3bldtS0hEVnZmVGhtY0VYdzVuVVZfdWFXRURoUUlZNDhDek9XRWxXZ2hR?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Kelowna neurologist first to receive new Parkinson’s research award - Castanet",
+      "desc": "Kelowna neurologist first to receive new Parkinson’s research award &nbsp;&nbsp; Castanet",
+      "date": "2026-11-24T20:18:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjhOT2NJRzdFUklESHNFVU1Ba1p4OHZ0bkNEOVhuVzZaRmF4dzJKRGtyT2hIUF9HTjNKVGZTb3ZSNk1jREJiNWVIVUtfRVpXdkJ3RzRsNnJ0NjE5Zlp4Y0JiVXR4dzZGXzVITm1JZWpxSFZXSW5IblBKaU1PQlhqcTNEa0xzOHJ3bldtS0hEVnZmVGhtY0VYdzVuVVZfdWFXRURoUUlZNDhDek9XRWxXZ2hR?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YaFhYNXZtSEVjVHU4YW5sZDVTTDlzbmYyS3ZUOF9mb2pKZkdTYTFudy1xbmJoSFdlTjExWmxwMUFwZHZ6bk1QLVNGUWdoQ3l4ZURWYnZ3dHdUdlloeDFQWjgxTkFjVDR5R2FsOFRuVDZmM3NT?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Hourly Walking Breaks Improve Blood Sugar Control Study Finds - SuaraGarut.ID",
+      "desc": "Hourly Walking Breaks Improve Blood Sugar Control Study Finds &nbsp;&nbsp; SuaraGarut.ID",
+      "date": "2026-11-24T19:41:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YaFhYNXZtSEVjVHU4YW5sZDVTTDlzbmYyS3ZUOF9mb2pKZkdTYTFudy1xbmJoSFdlTjExWmxwMUFwZHZ6bk1QLVNGUWdoQ3l4ZURWYnZ3dHdUdlloeDFQWjgxTkFjVDR5R2FsOFRuVDZmM3NT?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmJLS1JTMkJjVVVKeEo1ZHgzS09kN1Q3b3pTc2IwVUdld1VQTEREQUJjb29uODdnTXVBNkFmekRJVVFINXNOZXB2eS1uQjAwVzJwX0dDSUtWa3NIaEtuT25UcE5qUk1MYmU2WUtGV0VSUlNNZFVwbFRDOFVvQVNNcGlEbDBHcHNVWm1ScUNkczd0dk00UDNz?oc=5",
@@ -1142,6 +1232,36 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcG1fZmQ5S2tZUl9ndWdqNWhpZXZxRDFPN0hDdkxrZjNaX3huUlVGbndmRFVsQlBCVlFjbmloenYzaFhVbG9oYXRKaDVQNFRqOU1wb2VoaVlDN1VOVXF3VTJ4cGU?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Hc09UM2lrbzlHUnNneEhJS3R3NkR0Y2xSRUw0dFdkVDB2b1BpNU1YSGNNTUFQLW9JRWNTbWV6R2pEWmR3ajNQb2xlMi1XY0p1Z01nMlN0TFI1OVJ0TTZIYUdEUVdtZw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Short Walking Breaks Improve Blood Sugar Regulation - cwibc.co.id",
+      "desc": "Short Walking Breaks Improve Blood Sugar Regulation &nbsp;&nbsp; cwibc.co.id",
+      "date": "2026-11-24T19:04:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Hc09UM2lrbzlHUnNneEhJS3R3NkR0Y2xSRUw0dFdkVDB2b1BpNU1YSGNNTUFQLW9JRWNTbWV6R2pEWmR3ajNQb2xlMi1XY0p1Z01nMlN0TFI1OVJ0TTZIYUdEUVdtZw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0Z3N19ZRENWNVV6eThMNUNYTi1vSWdsRzVzcFdBVUpiUkRuWmk5anlnUGY5VjZSLTRNaHNtNFp6eWx4NVVzLWk2anZVZTdkb0FSeUNLeVdfRWdWbTlwbEJEUXVNYzlzRTlUYWNLZ2Y4WGhwNk1UQ1dOdmk1WlYxTDk1STRZSVM3a0ctdjZkUDhTblpfaEg0TFNYczJmaGd1dFNWM0N4bHQzYUdCc3VOSno0TmE?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Study Finds Frequent Marijuana Use Associated With Greater Muscle Strength - The Marijuana Herald",
+      "desc": "Study Finds Frequent Marijuana Use Associated With Greater Muscle Strength &nbsp;&nbsp; The Marijuana Herald",
+      "date": "2026-11-24T17:54:58+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0Z3N19ZRENWNVV6eThMNUNYTi1vSWdsRzVzcFdBVUpiUkRuWmk5anlnUGY5VjZSLTRNaHNtNFp6eWx4NVVzLWk2anZVZTdkb0FSeUNLeVdfRWdWbTlwbEJEUXVNYzlzRTlUYWNLZ2Y4WGhwNk1UQ1dOdmk1WlYxTDk1STRZSVM3a0ctdjZkUDhTblpfaEg0TFNYczJmaGd1dFNWM0N4bHQzYUdCc3VOSno0TmE?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkNWSzB0NjlfTmJnUzI1STRWeV9uRmR1YTd0bEF5TXR4N3BMS0I3Y2RSZVlzUU1Jb2NxM0ZaMWhweGE2N05WSmZOcEFwMjRmY0xfWUZPcjFHY0xSWUZIbEx5d1V6SjVEeGdNLWU1VFdyZk1iaFpEUEprQ1RGdktwM2RmenJhZTBUZzZhYUJRSEd2VWQ5WHJNOFd1WDZ5QWtlZ1RKY1h3eHZIMEhMYzZPcllkbk1mYzhOMFZLTmZwODJ0VlhONHJwSmFEVQ?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Short Walks Throughout the Day May Help Improve Blood Sugar, Study Finds - NBC Palm Springs",
+      "desc": "Short Walks Throughout the Day May Help Improve Blood Sugar, Study Finds &nbsp;&nbsp; NBC Palm Springs",
+      "date": "2026-11-24T17:18:13+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkNWSzB0NjlfTmJnUzI1STRWeV9uRmR1YTd0bEF5TXR4N3BMS0I3Y2RSZVlzUU1Jb2NxM0ZaMWhweGE2N05WSmZOcEFwMjRmY0xfWUZPcjFHY0xSWUZIbEx5d1V6SjVEeGdNLWU1VFdyZk1iaFpEUEprQ1RGdktwM2RmenJhZTBUZzZhYUJRSEd2VWQ5WHJNOFd1WDZ5QWtlZ1RKY1h3eHZIMEhMYzZPcllkbk1mYzhOMFZLTmZwODJ0VlhONHJwSmFEVQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYeWNCTXFvVEtLZGRSWFBVSmJ4TEdDT3pmaHk2WHhyd19zeUxwcGx4cWtqTGh4S0phWWoyUUM2eUEzYmhrdkJSRy1FQ0ZKZXprOWhMcW5uRlBMS0FK?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1160,6 +1280,16 @@
       "date": "2026-11-24T16:33:44+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Qd1M0aUZRdXJnUHY0TGhaTEpMdHhQRV82VXpXSXo0b205bVBqVlV4MDNfVmVjd2dGa1hPQmV4N1RSUQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcWFnZXN1XzlacXg1bk5HeEdoNjd0NzFwazk4QzU2eFpBUmc0eWxuUVhvazhzblRTckY3M2hHTTlfSW52N3NMbGtBZUZYODkwT0lncnBGWktOM3J3MWt2SmRhR1EwY1RfY2VEOVNXeUlZek9ZZlFFRnRscmdpeEViRmNaa1YyVUEyYlhOMlV2V2l1UURvMzJtX3B6TmRqenlfMzFicC1LYmN5RDZRd0hvVjl0TF9ObkZTUFF4a3dYWXZCNENXbUwxbnYzV0JsVGcwQjVhRHVGZFJrR0N4UXBwSHZ2S045RWwtUUYwekNVMVVXczg?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "India Opens Its First Dedicated Human Metabolic Chamber: How Can It Help Study Obesity, Diabetes Research? - Health and Me",
+      "desc": "India Opens Its First Dedicated Human Metabolic Chamber: How Can It Help Study Obesity, Diabetes Research? &nbsp;&nbsp; Health and Me",
+      "date": "2026-11-24T15:30:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcWFnZXN1XzlacXg1bk5HeEdoNjd0NzFwazk4QzU2eFpBUmc0eWxuUVhvazhzblRTckY3M2hHTTlfSW52N3NMbGtBZUZYODkwT0lncnBGWktOM3J3MWt2SmRhR1EwY1RfY2VEOVNXeUlZek9ZZlFFRnRscmdpeEViRmNaa1YyVUEyYlhOMlV2V2l1UURvMzJtX3B6TmRqenlfMzFicC1LYmN5RDZRd0hvVjl0TF9ObkZTUFF4a3dYWXZCNENXbUwxbnYzV0JsVGcwQjVhRHVGZFJrR0N4UXBwSHZ2S045RWwtUUYwekNVMVVXczg?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORDdYTlZ5U0o5TVVDOHM1Wkh0MzFJeU92dXkxdm9GVjJjczBHSi16SE9KMWRoazBKYW5Ja1dXRFRlX2pDaG5rcXlGN19yRk5HWkNha3RaVlpYLU12MGowN2hCZWhTZ2ViVERjQkVTVTRjblY2RE5ZbmdUYWxhbzY3eWNua0JpR0JuSnNfLW5KbThJSGF3M2ZKNjVmMTYzaEo2TEloWGNNSHBRcXVWMG5Yb3dGdWtpdTVEMm51WGNaNHIwLV9nMEgwTEJDZVk5YzBSN293RDAwTHJmZUgwdTlnMGpualpVcUxlZzBrRU9WeWY5OFNLblVDX0RkMjR2YkliVk9wRDRnaVhrcy1veU1vWHhmWE5rbHdEcFZDM3ZpMmVFUlRCNzhxWkhHcVJzajdZ?oc=5",
@@ -1212,6 +1342,16 @@
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWUlCLUpCS0Nqd1FESGVrYTJmZXRKX1NHWklvbHJKdHg1empubVNDZWN1b3J1XzJDMEItSmV0Z1VxRERUcHQwa2ZyY2NGRE54MGhvWUNMam9yZ2RRUkNyYXdJR001ZDQwMUg3RmZTQTMtZ3JkMXVGbDNrMGVSQXRZRTZ1V0NxV01MYUR4eDJNekowOUVRR3ZNTjQ5dGZ3Z0JLb2FXZ1pxVGxCRndpODIxQnlWeE9nclRfakNGOUk4TEIyZVQ3emk0YTBtQVI4UjFwRXhwN1psZFo3cS1wVUxJV0t6TGpiYnJQNERTWUQyMFpoa3ROTU1PWFpYYV9kbGQwLV9aaUVjQWhiMy1pdjk4ag?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVloa1BZQ3paUGtCMVE3blRzUDliTGtLLUQxZmxzeEJlY0NGUnN4WGljLXBJMGZXRkg5RVc3bFZvdjAtOG1waDlWYWlaZzE1YTZZYU9ZUlQwZ2xnaHlZNnRweUxrVVlmaFNCQUVpbkFSajc3OHRzMi1ISkJneHYtb294QmtjTkdocDVVc2JUWHF2a29rTXdjR2ozeFdzWDlP?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "They are studying the effects of physical activity on people with Parkinson's disease. - Universidad de Talca",
+      "desc": "They are studying the effects of physical activity on people with Parkinson's disease. &nbsp;&nbsp; Universidad de Talca",
+      "date": "2026-11-24T13:54:17+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVloa1BZQ3paUGtCMVE3blRzUDliTGtLLUQxZmxzeEJlY0NGUnN4WGljLXBJMGZXRkg5RVc3bFZvdjAtOG1waDlWYWlaZzE1YTZZYU9ZUlQwZ2xnaHlZNnRweUxrVVlmaFNCQUVpbkFSajc3OHRzMi1ISkJneHYtb294QmtjTkdocDVVc2JUWHF2a29rTXdjR2ozeFdzWDlP?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/24/mennyt-maailma-tampere-1900-luvun-alussa-nayttelyn-sisalto-on-nyt",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1262,16 +1402,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbnkwVDk3dExCU2pMaldVbzZVTUpUTFI2cG5mSzRKNC02MDFuSV9neWgtcURSQnktSm5kWHZXdV8yc2VSdHhyTzVzd3N0Uk1zLUMxaTE1MkJScDc1Z2lCcFByYlN3Vl9vd083dXdUMGNEWl9DeGhqSlJzTWctbVRwcklWbDlsM2o5STJYdTRTZV9fc0JIbnBoUWJHUlRYWDlxMWdfZDhaaDBnTnZXeTF6ZjR6SDJIUzVueVFEcnp4TWFCS185MkZ2eWdTak90QmhBNDdINGhUblQwd0NzbTU4SHYzQWdGMDZl?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRpZW1kUllMOXVIcUlRcjJaMUVEQ1pnZjhaR3cyR01DbWgxX2FJMzNjOWN6V3EyNFY0UlliX0FHX3lmMU9Fc1BiZVJzRTIydE9xUVFGYVlmU3R0MnpLVU5iNHNjTzdsVE8xOE9MMFhJMUZWLXhwZzFiZHU1RldzMHBwWmQxaWJtVE1iSTVuNThkcUV1ZS00?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "T-Mobile pushes ahead with AI-RAN toward 6G - Light Reading",
-      "desc": "T-Mobile pushes ahead with AI-RAN toward 6G &nbsp;&nbsp; Light Reading",
-      "date": "2026-11-24T03:07:08+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRpZW1kUllMOXVIcUlRcjJaMUVEQ1pnZjhaR3cyR01DbWgxX2FJMzNjOWN6V3EyNFY0UlliX0FHX3lmMU9Fc1BiZVJzRTIydE9xUVFGYVlmU3R0MnpLVU5iNHNjTzdsVE8xOE9MMFhJMUZWLXhwZzFiZHU1RldzMHBwWmQxaWJtVE1iSTVuNThkcUV1ZS00?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQXzdwMVdfV0xVQ1ZfM3poNjdlLWJpY3F4V2hzZnFGQXlQRzhyT0paMEVEN090VlRfNHBZNXJWeVhjU3FEUU53VTdpSXMtUzJROHNSOG1pc2hKRnFWdW0wQ3BXTDFvUG00bFdjZXA5cXNTellsT255YTBvTnhvRDFtVmpUUnlxdmpLdi1jN3BZV3NXRmM1T1dFWlpBZVNkWWdZek5PU081M2hMQWJ5YU5Kc2N0VmtGM3FnaWtRVko3SmxYVml3akp0N3FzUVBBeTU4OGZUUlo0WTNWVXlCVlRKVWl0b2tPWWE5Y2hEUG81TGIyaktNMFZTV0NqNDhCOEZieVVNdS1LNEk0QnR6U3BxSDJtZm9Cdnh4aUpDSk8zaEVuaW5lZDEtQkthOUpQSWVUQXNjR0pTdjg?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1302,14 +1432,14 @@
       "url": "https://yle.fi/a/74-20258573?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWU8ta0E4UjU5aU5GUUx6bkNxSktfT0RjU1RBZnFTYWpmeEFxS3RsbVdBeFBXZlJXS0dMRnJRVEY5bmoyR3BZU2htVHZTUW5wRmRXRm5WdG5RaTFZY0lIU19xSjlNRTJzano4YTdFRnJBVmJrdF94ZXh1T1hwYlFSOFdwOUtwejQzamZnV3E2X0NZVHZPLVFUU1FzN09HaUg1dHJ2TTM2X19ucndjSXRYczI3VHB4THZoRmxBc0hJVVBST1NfMVo4WGRWM1h2OU1vQVA1QkdKUFNhWU1TMWViQUZxYnQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Farmington Hills seniors fight for funds to replace Costick Center - The Detroit News",
-      "desc": "Farmington Hills seniors fight for funds to replace Costick Center &nbsp;&nbsp; The Detroit News",
-      "date": "2026-11-23T19:44:14+00:00",
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTYW1OYjZaSndwWURncVNHNllNWTJUYWdiVXdoU0tyelhORnZRemRqaWxsekdBTFAydEdWQnlJdTk1S0tEdjV2V3NYWEMxQ2ozQ0ZodkRVMTJFYjVKcGgyajRpZXRXUjdNWXgzVA?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Why We Slow Down With Age: Brain Serotonin Blocks Movement - Neuroscience News",
+      "desc": "Why We Slow Down With Age: Brain Serotonin Blocks Movement &nbsp;&nbsp; Neuroscience News",
+      "date": "2026-11-23T19:00:55+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWU8ta0E4UjU5aU5GUUx6bkNxSktfT0RjU1RBZnFTYWpmeEFxS3RsbVdBeFBXZlJXS0dMRnJRVEY5bmoyR3BZU2htVHZTUW5wRmRXRm5WdG5RaTFZY0lIU19xSjlNRTJzano4YTdFRnJBVmJrdF94ZXh1T1hwYlFSOFdwOUtwejQzamZnV3E2X0NZVHZPLVFUU1FzN09HaUg1dHJ2TTM2X19ucndjSXRYczI3VHB4THZoRmxBc0hJVVBST1NfMVo4WGRWM1h2OU1vQVA1QkdKUFNhWU1TMWViQUZxYnQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTYW1OYjZaSndwWURncVNHNllNWTJUYWdiVXdoU0tyelhORnZRemRqaWxsekdBTFAydEdWQnlJdTk1S0tEdjV2V3NYWEMxQ2ozQ0ZodkRVMTJFYjVKcGgyajRpZXRXUjdNWXgzVA?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkNzSmI3clZpbkZDa2hPWF91NF9saEYyZVdhSXhCSFRCRFhHeGhEUGtKWlNuc1doaE1MOElCdWVpMHg5eXpjZVdoaXlxWkN4R2syY21JNGFqN1UxeXFJYWIyUEx5aGhpdzRKTWh3?oc=5",
@@ -1340,6 +1470,16 @@
       "date": "2026-11-23T17:34:24+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/23/kanjonin-uuden-koulun-ja-paivakodin-rakentaminen-alkaa-kevaalla"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2NkN2o2RmZLZWtFWXJwNUd4bWExQl9ueUhHSTU1eURwdFdyc090ZWhfcTNIU1QyRTBZcGZfOTV5cHo5NnY1dkQ4Z05RZ25WaVJ3cGgybkJZN2VyN0ZpQnhPdFlTeHBSVk1sZUxiMEUwN3QwS21SR2ZtcWkzblUzaEM0YXFqbnZIb3dIWTFnQkRkQ1k?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Finnish Study Links Childhood Screen Time to Better Teen Cognition - JournalArta",
+      "desc": "Finnish Study Links Childhood Screen Time to Better Teen Cognition &nbsp;&nbsp; JournalArta",
+      "date": "2026-11-23T17:18:37+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2NkN2o2RmZLZWtFWXJwNUd4bWExQl9ueUhHSTU1eURwdFdyc090ZWhfcTNIU1QyRTBZcGZfOTV5cHo5NnY1dkQ4Z05RZ25WaVJ3cGgybkJZN2VyN0ZpQnhPdFlTeHBSVk1sZUxiMEUwN3QwS21SR2ZtcWkzblUzaEM0YXFqbnZIb3dIWTFnQkRkQ1k?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20258464?origin=rss",
@@ -1452,26 +1592,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWttMlVXUk9xdmtxSTk1akRoOXdqZEFmbkFqZFNOb2VUOVpraWR4X081cFFpa0RJNlQySXBqSmFRdlRvSEdWY3E3clVNYXRRX2FBTVVGVUNtek9qZjJLWXBoV094UE1ET0I3eHVVWmdSamdhTFBuMlFFQldsTzNIa29EMDhGbG1uNmNXTHNZVUQ3T1ZUOGotVkRmMEpxX2JvUVgxd2dzd0NIbW51NUdiZnEzRjVncHZfOEQ2R2dIcjFCMFVRRTh4eU54Rm83S2s2bHc?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UjZaT1Z6ZlRja0N0YmdpTUNqZWwzdm1rSUU5YnNBaUhEVjlHclR0ay1BYk56WmxQd3hYZTUyY1VVSmlPaVViTzBqMFF2alUwTk9PVXdyenM0MU41RWtZ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Explaining physical activity energy expenditure for active lifestyle and activity-friendly cities using machine learning-based approach - Nature",
-      "desc": "Explaining physical activity energy expenditure for active lifestyle and activity-friendly cities using machine learning-based approach &nbsp;&nbsp; Nature",
-      "date": "2026-11-23T12:19:14+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UjZaT1Z6ZlRja0N0YmdpTUNqZWwzdm1rSUU5YnNBaUhEVjlHclR0ay1BYk56WmxQd3hYZTUyY1VVSmlPaVViTzBqMFF2alUwTk9PVXdyenM0MU41RWtZ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMjYzd0tIak1nendPa0NIeWl2dlBhdVdCT0FRMkw3TzFkQllZbzA2OFhLMFN3akRNR0dTV3dXblFLWDFVR1JySkU4RGxvamFDMG9BbF8tS2lfVWVCMXNESTh0TC1CMHBkR2VhVW5lb0pfSzRLdlBTbDh2Z20teC1EaTE1X1lMWEtBMXc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Rasvamaksan hälyttävä lisääntyminen: 7 tapaa, jotka sinun on muutettava välittömästi. - Vietnam.vn",
-      "desc": "Rasvamaksan hälyttävä lisääntyminen: 7 tapaa, jotka sinun on muutettava välittömästi. &nbsp;&nbsp; Vietnam.vn",
-      "date": "2026-11-23T11:40:32+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMjYzd0tIak1nendPa0NIeWl2dlBhdVdCT0FRMkw3TzFkQllZbzA2OFhLMFN3akRNR0dTV3dXblFLWDFVR1JySkU4RGxvamFDMG9BbF8tS2lfVWVCMXNESTh0TC1CMHBkR2VhVW5lb0pfSzRLdlBTbDh2Z20teC1EaTE1X1lMWEtBMXc?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tbkYxcmNfY2o2b3lFQk8yUlBjaklOdWs3Y2prMkYwc01NcHhTVU1Pc1pBM0poaVFNRkFRWWpMUHBBcjRjc1BMM2xFb2dNVTNQRjFsU0FuX3NfMmZ2MHJyXzliNGVJc0IyWFZqWG40ZDdmN28?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1490,6 +1610,16 @@
       "date": "2026-11-23T10:39:44+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/23/pirkanmaalla-otettu-kayttoon-uusi-hyvinvointilahete-ikaantyneille"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam5BYkZ6aTl1NER5R0UzV2lsNWVSMThMWUR0QjFESzNIN3FqYW1jejVjalppdTRRdW8yclV6ckw2R0M5LUxJakwwMm5SQUpXcDhvdktydDVONkU4MXRLN0xmQzZINkdXWmNjX1Y2ajlibkE0b2hOVFBGQUZxM01YR2ZVWVB6OWNnZ2FlckV6OXlkV1pGSUd3?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Ruotsalaisten kaiken muistava tekoäly voitti Slushin - etn.fi",
+      "desc": "Ruotsalaisten kaiken muistava tekoäly voitti Slushin &nbsp;&nbsp; etn.fi",
+      "date": "2026-11-23T09:29:55+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam5BYkZ6aTl1NER5R0UzV2lsNWVSMThMWUR0QjFESzNIN3FqYW1jejVjalppdTRRdW8yclV6ckw2R0M5LUxJakwwMm5SQUpXcDhvdktydDVONkU4MXRLN0xmQzZINkdXWmNjX1Y2ajlibkE0b2hOVFBGQUZxM01YR2ZVWVB6OWNnZ2FlckV6OXlkV1pGSUd3?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OaERGVXVXZFp1Z1hFVDJXQ1FaOElLRnV0SEtaZWxPTjlEU0NhM1Uzd3pqcUJpMGg5SHZacjJEMmlSQXVNSTYwVWFKeHNZZzRmVTQzNzY4NjNncDlLZnFRaTZhS29HOHQ3UVUwc2h6d3ZDY1Bfcm4yaVlsQkpNUQ?oc=5",
@@ -1582,14 +1712,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jUjRpUGhHSlRLbFV3SzFBQzlma0U1WGMwMTBhZ2xwM1daa1VWc3dSbkRlbjNVelg3ejNObm91X1QxeWxPTEN1d2JrTDJ2NVluMlZodkxNTUw1alNKZ0xoTG9OT0Q2U1lVTFBQYTlxV2Y0MFFi?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1RqWTVfNVlhak16WFo0QWVaUGhJVjczVTJweXdvNDZxUHpGWFlzdlp1djhzSDZSamFleHV4LXRVWWozVWhLVWtVcmQxcEhxMldJS3BfeFItTFM4Sms5Tk55WXdzVG5rcmhVT05ZNVNKcklMaWpUaEUxeHRNM05jMmpkSjExWFprQVZQSmhqTFlXT29jUjJKVWV3VFhSdVdsTFhXSndqWWVmX1Y5ZGNGZU5HdU1CT1NQN1RZdUNibm1kcDZDelZCLWZXRXg?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Exercise or body weight? A major study examines what matters for cervical cancer risk - News-Medical",
-      "desc": "Exercise or body weight? A major study examines what matters for cervical cancer risk &nbsp;&nbsp; News-Medical",
-      "date": "2026-11-22T23:51:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1RqWTVfNVlhak16WFo0QWVaUGhJVjczVTJweXdvNDZxUHpGWFlzdlp1djhzSDZSamFleHV4LXRVWWozVWhLVWtVcmQxcEhxMldJS3BfeFItTFM4Sms5Tk55WXdzVG5rcmhVT05ZNVNKcklMaWpUaEUxeHRNM05jMmpkSjExWFprQVZQSmhqTFlXT29jUjJKVWV3VFhSdVdsTFhXSndqWWVmX1Y5ZGNGZU5HdU1CT1NQN1RZdUNibm1kcDZDelZCLWZXRXg?oc=5"
+      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tQmlBUTZYeUJ3UlpDQUxnUlNmdFpGUHpxSWo5ZEN4Z1NaZDExWDhDbER6Rl9mMm5xc3RMOGFjZk9STkQ2Q1VkcXJTY0ZvOEZqVlZtci16M1U0R1RWdTk2SHgwVWZEMGo0c0ZONlpldXlkcVU?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Johdon pöydälle ei mätkähdä yllätyslaskua, kun tekoälyä hallitaan taustalla - Tivi",
+      "desc": "Johdon pöydälle ei mätkähdä yllätyslaskua, kun tekoälyä hallitaan taustalla &nbsp;&nbsp; Tivi",
+      "date": "2026-11-23T03:30:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tQmlBUTZYeUJ3UlpDQUxnUlNmdFpGUHpxSWo5ZEN4Z1NaZDExWDhDbER6Rl9mMm5xc3RMOGFjZk9STkQ2Q1VkcXJTY0ZvOEZqVlZtci16M1U0R1RWdTk2SHgwVWZEMGo0c0ZONlpldXlkcVU?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5",
@@ -1612,6 +1742,16 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tcmRsdjBHa2E2Vi1pNnN4VmJnbUdkN01UMHlKN3U4SEZDeXM1RlRQSDVEaWtSM1UwbkZRSE1BWnAwNDBqeWhzWU5tZ0JLUERLRzFaMXJqQTAwallhZGlFUVpzbzZXeEtLRTE2LXg4akZ3MEhtdjYzYmdaMS0?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05d0Q1S3JvZ3ptaGluSTNUVzBUTmRUcUVEd1Yzd1JqQ0hrampsa25nSlpPSl9hZXppQWxlLWlVd2UxOXhzdDA4ZVpCUFBNRkQ3eTNMSkxzdUFaQWs2blE?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Helppoa suomea | Vantaan terveysasemilla tulkkia ei tarvitse odottaa, sillä tekoäly auttaa | Paikalliset - Vantaan Sanomat",
+      "desc": "Helppoa suomea | Vantaan terveysasemilla tulkkia ei tarvitse odottaa, sillä tekoäly auttaa | Paikalliset &nbsp;&nbsp; Vantaan Sanomat",
+      "date": "2026-11-22T17:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05d0Q1S3JvZ3ptaGluSTNUVzBUTmRUcUVEd1Yzd1JqQ0hrampsa25nSlpPSl9hZXppQWxlLWlVd2UxOXhzdDA4ZVpCUFBNRkQ3eTNMSkxzdUFaQWs2blE?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DbVFUczQ1cmZBdW8zTFR3dDNpbVhjank1THFySU81VzNGS09uWk5xblJSZTBBamduZzVCS2xBR1dFdw?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1620,16 +1760,6 @@
       "date": "2026-11-22T15:07:35+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DbVFUczQ1cmZBdW8zTFR3dDNpbVhjank1THFySU81VzNGS09uWk5xblJSZTBBamduZzVCS2xBR1dFdw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi - Yle",
-      "desc": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi &nbsp;&nbsp; Yle",
-      "date": "2026-11-22T10:52:09+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkJncEU4MjFxMVo2LTZqekdxV3NMaHRRUmZpWFZ5ZUxfSlo1YkFBV0NxUkh1R3dINFNSOHNTYV9nUHpGUWQ3cmR2VjEyWExBMHl4OWxESlNYTXRtMmp4c00xTDBiTlpyb0pTZm45dlNia2hzc0VxVWFVQndpeVhUQmxQejg1MzdVdDl0Q0pXUUg2VGFKTE5PZFQ1UlJJX0ZlTnk1MGdTZ19VRkdG?oc=5",
@@ -1690,16 +1820,6 @@
       "date": "2026-11-21T22:37:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNW9aOVU5UFRyZUtEMzFCQm9sU2N3ZEtLTlNiY3ZkRG54SWxpNTFBWDNsQ1BNaDk5ZkxFbFpKMlJjTG1fM1c2MDBTNURZZDVJOFdnZjdaQkxOY1htRnprM2llSF83ZkxHT0xRRXNVTU1zcXpmcTI2QlZFdzdFRG8xZTRLSmwzWm8tUG1vTkJuVll4S0RlVHc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFlyWF8wN0tlNzdLZ0xKTDVvbGQwWVhxeEdsbURIdnVRZVFQVDVUNERSREtvSHg2RHJnTUhmU2drSndoelJMYlVza2V5OVp6cXdEa19UbE00RmphZVY4SzZtN0Zhd256OVZ1bkJMR0F3M3IxWTVGX25ublpYc1F3Ymd0TnotNWhJZDB4OWZQMUJscVZpYmRiS0djaE9HdktRbzBVSl82UkJTZ2hjelNCODRGdzVuRS1wSDZLNndR?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Screen Time in Childhood Is Linked to a Surprising Brain Benefit in Teens, 8-Year Study Finds - ScienceAlert",
-      "desc": "Screen Time in Childhood Is Linked to a Surprising Brain Benefit in Teens, 8-Year Study Finds &nbsp;&nbsp; ScienceAlert",
-      "date": "2026-11-21T21:03:45+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFlyWF8wN0tlNzdLZ0xKTDVvbGQwWVhxeEdsbURIdnVRZVFQVDVUNERSREtvSHg2RHJnTUhmU2drSndoelJMYlVza2V5OVp6cXdEa19UbE00RmphZVY4SzZtN0Zhd256OVZ1bkJMR0F3M3IxWTVGX25ublpYc1F3Ymd0TnotNWhJZDB4OWZQMUJscVZpYmRiS0djaE9HdktRbzBVSl82UkJTZ2hjelNCODRGdzVuRS1wSDZLNndR?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5",
@@ -1952,16 +2072,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjVITFdUNXZfamJrWS00STl6OXJXeUF5b2tPN1dQRExkdU5RcjhuRTNFZ1k4WXlTQW1wcDgyME9sZy1ESEcxY1U3aGhlZllQMDZ6N3BES0FndkR6TFFfcGFyYTh4UFhNX3ptWW5sbWY4SFhEakFxbGpRajVhQ3pFYmYzb3N3b0JoSXFOOENlZ2toVzRPeHp2anJOaGl3QmRBQng0RHk3Y19rVmpiazhJ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnNZc0h0RkQ5VmFXUjdMZnotR3lwUExHSW9VM2x3cTJDOE9JejdNR2Rfb2VBX2ZzZjA2TzVNbTNLTlB1SFBXTHRNQ3hwMmdmSFZNeW53MmdZd0JSUGZfZ2RRYjBWU1Y5LVk4Uld6eXU2SHdjQnJ3Mm1kY05YNFZVckJXUE0zMXgwNlRienItSzRWc1o2VXNtQW5PLUs3TmFwb3VsX1Nkek82aDZDSlcxRw?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Swedish Three-Year-Olds Exceed Global Physical Activity Guidelines in Actigraphy Study - Bioengineer.org",
-      "desc": "Swedish Three-Year-Olds Exceed Global Physical Activity Guidelines in Actigraphy Study &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-20T13:11:38+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnNZc0h0RkQ5VmFXUjdMZnotR3lwUExHSW9VM2x3cTJDOE9JejdNR2Rfb2VBX2ZzZjA2TzVNbTNLTlB1SFBXTHRNQ3hwMmdmSFZNeW53MmdZd0JSUGZfZ2RRYjBWU1Y5LVk4Uld6eXU2SHdjQnJ3Mm1kY05YNFZVckJXUE0zMXgwNlRienItSzRWc1o2VXNtQW5PLUs3TmFwb3VsX1Nkek82aDZDSlcxRw?oc=5"
-    },
-    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/20/asukkaiden-yhteydenotot-johtivat-hikivuoren-turva-aidan-uusimiseen",
       "cat": "Tampere",
       "icon": "🏛️",
@@ -1990,16 +2100,6 @@
       "date": "2026-11-20T09:21:20+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/20/talvikauden-valmistelut-on-aloitettu-liikuntapaikoilla"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oUTJSckZmMVhmaEk1YjdYRDg3SkZmZFBjSWIwSndVNmNVSHdzTEVPTFFTLUdDSDNYM2dtQ21ieTJsTTk4V3NSaklpTS1faEthUDdmOVZ4LTlkWjI1aXkyTDZiUUo1ak1SaE1Rcm1jOA?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "For better mental health, how often you exercise may matter more than how hard - ScienceDaily",
-      "desc": "For better mental health, how often you exercise may matter more than how hard &nbsp;&nbsp; ScienceDaily",
-      "date": "2026-11-20T09:11:05+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oUTJSckZmMVhmaEk1YjdYRDg3SkZmZFBjSWIwSndVNmNVSHdzTEVPTFFTLUdDSDNYM2dtQ21ieTJsTTk4V3NSaklpTS1faEthUDdmOVZ4LTlkWjI1aXkyTDZiUUo1ak1SaE1Rcm1jOA?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNi1oQTVVajdWMTJuN0FLZk9DeGpPREpCcUFhWS00R2UwYy14VVJCLXl1U3pzZ0FMTUd0QU1lRnRUeEhZSWZod1VQWkk1WFBDbDBpZEdWaEpWQXR6N0hrazlvZnUzb1EzRVpEUGhtdExjZ20yY2Z5MDNxRFhvdVpxQm1YQ0xxR00xOEx5ZldwSno1REtzZ3VreFh0WVlnZmdIazN3Y0pVd3YtcVJ1WGdYUVBXd2w2RFZWY3dVUEMwRWVNQVZMY0dYLW95bl9STEFNTzNrbVdFdzhjREoycGYtM2V2QWhhSHlpck04N1VYLXFvX0E3ZXpsRXJmSUladk94Mnc?oc=5",
@@ -2032,16 +2132,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIVFBZek5iODV0Skp5N2RUSEJDOUlXRU1Fd1NzVU42aEJqckQyVDVybW1jWmRYTjRWVEo5Y2R2MTNET1VDWUJhMnZENm5ZU3VkamxjTWk1ZGpQcDJCYlZkNkVrdk5jWTR5TmpVbzVUQzF3X1V5Tlo5SFdR?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxbllBM3ltaWRpdTBtNW5nV2N3RWdoaEpwUnIyTkxvUEF0ekpTSkF5UjNKRWVocnVmRk1KNW10ajFSR3c2akxTeWtYWklNWUpoM3EyMnI0UEFVbkZp?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Weekly E-News - National Institute for Early Education Research",
-      "desc": "Weekly E-News &nbsp;&nbsp; National Institute for Early Education Research",
-      "date": "2026-11-20T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxbllBM3ltaWRpdTBtNW5nV2N3RWdoaEpwUnIyTkxvUEF0ekpTSkF5UjNKRWVocnVmRk1KNW10ajFSR3c2akxTeWtYWklNWUpoM3EyMnI0UEFVbkZp?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fajhCaTJ5Qlk1VUxTdDV2VEZWTC14TWNPRkdvaHhndU9rYkxsWl9DY3h2RUlTS05ZdGRWcXpNUWF5YVF5U1Nlbzk0TjRyajRKek9HLXl1NWtJem5LdXY2a2JrM3I3aG92VDdtY0Exd0FoamQwQlM1SHhCZUM3dHc?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -2050,16 +2140,6 @@
       "date": "2026-11-20T04:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fajhCaTJ5Qlk1VUxTdDV2VEZWTC14TWNPRkdvaHhndU9rYkxsWl9DY3h2RUlTS05ZdGRWcXpNUWF5YVF5U1Nlbzk0TjRyajRKek9HLXl1NWtJem5LdXY2a2JrM3I3aG92VDdtY0Exd0FoamQwQlM1SHhCZUM3dHc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWpPM1FVQXRkWmF1NHpVSHFXN01GcEptUkJHTmdZYWdFV2g2d1VGY3JwZXRLd2thRWxoSkMyWmM3RmQ3V0xxaUhxYzJTTjYtVzZhYmF4VTZrVUJuYXRMX1JRN1N3Q2dWVE5XSVotOFdfMWRwSy1RQWdwT2FObzN3NDRFMG9mY055Y2J0TlpzNmF5N20xTFk0b29VQXR2WjBHNVdCVllmeW5sSTBjajZ2OElTWdIBwwFBVV95cUxOYWpmM0UzdndTMzk2aGlkQTduTUZoZUk1RXRBOEVpSjNCTlA1eHdNRWxpR3IwQlA1dGxzMVlEdGw4VXhzMHF1OHlFcXRiaVVsR0xfaWhrSmJtV1BtLXVFb1BkbHEtNGVReHlnYkxSdUN2OUJReWJMTkUyc0tuOGN1bGM5Y1N0XzdyRVlaajFCLVRORTRPbTNmbGdadTNmNjhwbm5uYmxwV3ZVemdsNy1zOW1pYWVydUFzS2JNbl8yWkMtZkE?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "New Research: Short Walking Breaks May Improve Blood Sugar Control - University of Colorado Anschutz",
-      "desc": "New Research: Short Walking Breaks May Improve Blood Sugar Control &nbsp;&nbsp; University of Colorado Anschutz",
-      "date": "2026-11-19T21:39:53+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWpPM1FVQXRkWmF1NHpVSHFXN01GcEptUkJHTmdZYWdFV2g2d1VGY3JwZXRLd2thRWxoSkMyWmM3RmQ3V0xxaUhxYzJTTjYtVzZhYmF4VTZrVUJuYXRMX1JRN1N3Q2dWVE5XSVotOFdfMWRwSy1RQWdwT2FObzN3NDRFMG9mY055Y2J0TlpzNmF5N20xTFk0b29VQXR2WjBHNVdCVllmeW5sSTBjajZ2OElTWdIBwwFBVV95cUxOYWpmM0UzdndTMzk2aGlkQTduTUZoZUk1RXRBOEVpSjNCTlA1eHdNRWxpR3IwQlA1dGxzMVlEdGw4VXhzMHF1OHlFcXRiaVVsR0xfaWhrSmJtV1BtLXVFb1BkbHEtNGVReHlnYkxSdUN2OUJReWJMTkUyc0tuOGN1bGM5Y1N0XzdyRVlaajFCLVRORTRPbTNmbGdadTNmNjhwbm5uYmxwV3ZVemdsNy1zOW1pYWVydUFzS2JNbl8yWkMtZkE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemZqXzEtTkhEa0tXVTdWa2xCQjc3ZkRuVWJlbjZOQ0hWeGNValRuSHFEQ1hZbzAyVUFTZDNQX2cwT1JiTjc2UDAyRjdWYnNwd2RMMFp3TjFKQVdZeTNqNFBTMFkwZ050QzJCNUxoRkhMeVItRHFQZHhvOWRXYUU5WkJQQmxiOXlxams0NlJZbF96R1pYZ1BlZFRSeXhyZ212QjZMWmFLbVVzMHZvTjVNOEd3?oc=5",
@@ -2100,6 +2180,16 @@
       "date": "2026-11-19T16:43:01+02:00",
       "source": "Tampereen kaupunki",
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-on-laulava-kunta-yhdessa-laulaminen-tuodaan-osaksi"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlNSzAyUUhhOEtsZXE3ekFSNWZ1cDBNZ0luRUYzdzFhVnVSaUhSSDRRSk1DYURxclZndkRhTEUyZHQ4RDNOa0RtaDR6RldYME1SdFFQVmMtZVp0cFNWNU1nWEdRNGN5YXVNcmJkWUdTZ1daeUJpZllQS0dVdnhTTldCUVg5dTlTa3JCd3pjMkJtZlhxR3kzWjdSelJJcXRfWFJGQnVmUQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe County TDA approves $5M for new indoor recreation facility - WLOS",
+      "desc": "Buncombe County TDA approves $5M for new indoor recreation facility &nbsp;&nbsp; WLOS",
+      "date": "2026-11-19T16:23:47+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlNSzAyUUhhOEtsZXE3ekFSNWZ1cDBNZ0luRUYzdzFhVnVSaUhSSDRRSk1DYURxclZndkRhTEUyZHQ4RDNOa0RtaDR6RldYME1SdFFQVmMtZVp0cFNWNU1nWEdRNGN5YXVNcmJkWUdTZ1daeUJpZllQS0dVdnhTTldCUVg5dTlTa3JCd3pjMkJtZlhxR3kzWjdSelJJcXRfWFJGQnVmUQ?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-filharmonia-julkaisi-kevaan-konserttiohjelmansa",
@@ -2172,6 +2262,16 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXUxNXBFUVNsUmxyZDB0WEJtNkhpU1lSSkducUVtcGhhaHlzNnB6T0RGNjRSbnRlc2FoWUVtS1hTVjBNblc4YmxrRVd1bldUSWNzVnZmaUlCeGRGUzhKN2hubkhBNWMzcFB5WmRldFluczY5RlR6Ymd6Y2kxa1RCal9UODJ5cHRGRzZsdEsxZzRRZUJXWmpuRXhiWGFkd3p2ZllSUENmLTBjandwZUE?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Youth Structured Exercise May Slightly Increase Bone Mineral Content but Not Density - Bioengineer.org",
+      "desc": "Youth Structured Exercise May Slightly Increase Bone Mineral Content but Not Density &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-19T12:10:01+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXUxNXBFUVNsUmxyZDB0WEJtNkhpU1lSSkducUVtcGhhaHlzNnB6T0RGNjRSbnRlc2FoWUVtS1hTVjBNblc4YmxrRVd1bldUSWNzVnZmaUlCeGRGUzhKN2hubkhBNWMzcFB5WmRldFluczY5RlR6Ymd6Y2kxa1RCal9UODJ5cHRGRzZsdEsxZzRRZUJXWmpuRXhiWGFkd3p2ZllSUENmLTBjandwZUE?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TVdPZGxEV244aWlqQ1hOcllJVzZ5UE5YNDloeFI4bm1xaE85TXdvcWYtZTRPSXduR1FOVlVmaGhYdmhXZldrYllTYy1leGc3YThId0xaS1pCWVNHOGdB?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2200,16 +2300,6 @@
       "date": "2026-11-19T10:30:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFl3cWxfeHFaenJyd040V1FzazZxS2lKX3ZHVG9hczNkWTVScVJJLVFfRTRUZTI3a1hnS3ZGVXhKY3dBZHVOTEZvaEZNdl9rUm5JMGtLSWdfM3JicHk0UmZTUVNINHFjclVwWkVtZ1d6b0NnbzNTYUNmRlFhcG5KTXd5Ml9ZU1ByXzA5c1NzRklNMXlUWHpkTUhobDZzcDI3eWhYdVVKRkhpUUxjQUZqMUJTbWJlbXFxWEVTOUtXQQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pYVZWVjFSb1VxZDZvSWtHdUl6QmZ6WmhfTlZVd3FTYjljY3JwMlphRW0zWjQ2NEJacDc3OURkanZ6dw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Tekoälyjätti Anthropic listautui vihdoin pörssiin – tämän takia koko maailma katsoo nyt sen kurssia - Yle",
-      "desc": "Tekoälyjätti Anthropic listautui vihdoin pörssiin – tämän takia koko maailma katsoo nyt sen kurssia &nbsp;&nbsp; Yle",
-      "date": "2026-11-19T09:34:33+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pYVZWVjFSb1VxZDZvSWtHdUl6QmZ6WmhfTlZVd3FTYjljY3JwMlphRW0zWjQ2NEJacDc3OURkanZ6dw?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/haiharan-joulu-kutsuu-nauttimaan-joulun-tunnelmasta",
@@ -2252,36 +2342,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy01WW1WX212QzRJODdqeVlkS0xzLVJhZml1d3FEV0JYdHVEeFhiRms3UXFsV3l3bHFqQ1E4TmF0c3hFak9fdnBhRXFoNzJ0SDJUZTk0TUdSNmpWZkE2SE5qd2Jxc185aW0yUGExMTBsUVVtUzI4NExMcmY0WndqYi0xSWZJUDF4cU1Fd1BjdXVPU1dBcXRpV0JXd1k0Tk9OcXBHUzcxNFVoamQtVTNWMzlDV0lpczFWa1pfaEJzdVlBbkNRTDBB?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SX20wOXI0Y2ZKUHJLNnZUZHVmVUlOaUFVRmR0aEZkanNpWU1nbUl2UmZzbXM4bld1WTdIZW9qc2YtQ2JXM3N2dnhqelVrZERaSzh2X0F1QWhOSlBST1YxNko5U29WWXNURXBqMTJ4ZmZvVkFX?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Senaattori varoittaa: Tekoäly ajaa it-järjestelmät kaaokseen - Tivi",
-      "desc": "Senaattori varoittaa: Tekoäly ajaa it-järjestelmät kaaokseen &nbsp;&nbsp; Tivi",
-      "date": "2026-11-19T08:41:56+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SX20wOXI0Y2ZKUHJLNnZUZHVmVUlOaUFVRmR0aEZkanNpWU1nbUl2UmZzbXM4bld1WTdIZW9qc2YtQ2JXM3N2dnhqelVrZERaSzh2X0F1QWhOSlBST1YxNko5U29WWXNURXBqMTJ4ZmZvVkFX?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnFHNTdKbFdEQUU0aG1yTmxfdmpsakVKOHA5UkpRMGZOZ0F4SF9ONkd2Z0tkdjBxdlE1WURwR3BkU2duaWcwZGlhTkhpY1NJLS1lQnQ4b2FjX2dUWGxjWC1NckxBQjlveldrZHV1cTZFTTdMR3psT3VvT1dkSURmeTdKeTRSQ0wtLWlOdXNlbFdRQVJTQTJHTlpZUW85eGMzQ1RONlRhQ1pnU3B3OXdadFVIYnNGWmhHMjNGN0dNQjM0eV94UHhfZzM2UEtDNC0zT3VBM1BLWW9lQQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "SAK:n Eloranta: Tekoäly on otettava haltuun työntekijöille reilusti – ”Vastuita ei saa ulkoistaa koneille tai ohjelmistoille” - Demokraatti.fi",
-      "desc": "SAK:n Eloranta: Tekoäly on otettava haltuun työntekijöille reilusti – ”Vastuita ei saa ulkoistaa koneille tai ohjelmistoille” &nbsp;&nbsp; Demokraatti.fi",
-      "date": "2026-11-19T08:30:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRnFHNTdKbFdEQUU0aG1yTmxfdmpsakVKOHA5UkpRMGZOZ0F4SF9ONkd2Z0tkdjBxdlE1WURwR3BkU2duaWcwZGlhTkhpY1NJLS1lQnQ4b2FjX2dUWGxjWC1NckxBQjlveldrZHV1cTZFTTdMR3psT3VvT1dkSURmeTdKeTRSQ0wtLWlOdXNlbFdRQVJTQTJHTlpZUW85eGMzQ1RONlRhQ1pnU3B3OXdadFVIYnNGWmhHMjNGN0dNQjM0eV94UHhfZzM2UEtDNC0zT3VBM1BLWW9lQQ?oc=5"
-    },
-    {
-      "id": "https://www.tampere.fi/ajankohtaista/2026/11/19/turvapostipalvelussa-kayttokatko-24112026-kello-17-21",
-      "cat": "Päätöksenteko",
-      "icon": "🏛️",
-      "title": "Turvapostipalvelussa käyttökatko 24.11.2026 kello 17–21",
-      "desc": "Katkon aikana turvapostipalvelussa ei voi lähettää eikä lukea salattuja viestejä. Palvelu toimii normaalisti käyttökatkon päätyttyä.",
-      "date": "2026-11-19T08:00:02+02:00",
-      "source": "Tampereen kaupunki",
-      "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/turvapostipalvelussa-kayttokatko-24112026-kello-17-21"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXZMV1B0Xy1BazFQZllETnhpc2h0R1BEUkF4amxGcTh6NzlXTWFENFk4d3ZTS3RRbXJ5V0NoRWpiTUNzX3ktUVo3c3VXbWtBRDB2QnNUWC1OVHFYMXpfbEtXV2FrUTBRTS01Z2hqYUN5cmtMMnFVbjM3ZkV1dUxUeUs1eHRZOGswM2RqVFRZT2xqenViY2FDZTNuR2NyTzVGcl9XS2lGbjMyUGc?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2315,11 +2375,21 @@
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbENfU2NYNzBXLXo3cXJWU0h2bEJINVF4TnFuaW1IV1oySW1RMVpKRWRrWENjSkhlNGxBUUgteDlqQnp4al94Q0JZdU5VS28?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
-      "title": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä - Etelä-Suomen Sanomat",
-      "desc": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä &nbsp;&nbsp; Etelä-Suomen Sanomat",
+      "title": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä | Päijät-Häme - Etelä-Suomen Sanomat",
+      "desc": "\"Miljoonalla lastenaltaita\" – lahtelaiset keksivät rullahiihtoradan rahoille muutakin käyttöä | Päijät-Häme &nbsp;&nbsp; Etelä-Suomen Sanomat",
       "date": "2026-11-19T03:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbENfU2NYNzBXLXo3cXJWU0h2bEJINVF4TnFuaW1IV1oySW1RMVpKRWRrWENjSkhlNGxBUUgteDlqQnp4al94Q0JZdU5VS28?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFF5RTEwQkwxOHJvc3FYN08ySmZjbUpoNTl6el9jMDRGMUpvVi1oOW03MFZFcncweXA3ZXhtQzdIOURidUhRRFRxa2huazJNR1NydlJKeDZWOVUydTV5c29OSjJXU0VjM25rTE43Wk1xOFd6YlhQTVJjaUZfY0Y4bF9Rc09PMHg0UTFBVHNNZVRqQnpFY0s3NjdVT0xnMWlLTGc?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Physical activity primes the brain for psychotherapy - News-Medical",
+      "desc": "Physical activity primes the brain for psychotherapy &nbsp;&nbsp; News-Medical",
+      "date": "2026-11-18T19:52:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONFF5RTEwQkwxOHJvc3FYN08ySmZjbUpoNTl6el9jMDRGMUpvVi1oOW03MFZFcncweXA3ZXhtQzdIOURidUhRRFRxa2huazJNR1NydlJKeDZWOVUydTV5c29OSjJXU0VjM25rTE43Wk1xOFd6YlhQTVJjaUZfY0Y4bF9Rc09PMHg0UTFBVHNNZVRqQnpFY0s3NjdVT0xnMWlLTGc?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5",
@@ -2342,6 +2412,26 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "News - Hospital del Mar",
+      "desc": "News &nbsp;&nbsp; Hospital del Mar",
+      "date": "2026-11-18T14:26:55+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdrSFgzNl9DOU9VbWNJSnZRZ094bEVkSC16T2daWnIxZ1FvUWpEV1llY1d3WkZxTVlFeXMybk9zdjl2Ym9GRW9WQ2dYa1FpcE9VdUVNNHZOVkRRdjQ1RHR6VmREZjlhRUYxWGNrWmJTdXFla0NsVTlkNjFyM2JSbnUwSGhJZXgtODFFd01kT1BKX2JnMHgwVFJ5R0pJdnhWczhtdVdmZTVULVU0NmVYLQ?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Evening Exercise Modestly Outperforms Morning Training for Fat Loss in Clinical Trials - Bioengineer.org",
+      "desc": "Evening Exercise Modestly Outperforms Morning Training for Fat Loss in Clinical Trials &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-18T10:15:30+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQVdrSFgzNl9DOU9VbWNJSnZRZ094bEVkSC16T2daWnIxZ1FvUWpEV1llY1d3WkZxTVlFeXMybk9zdjl2Ym9GRW9WQ2dYa1FpcE9VdUVNNHZOVkRRdjQ1RHR6VmREZjlhRUYxWGNrWmJTdXFla0NsVTlkNjFyM2JSbnUwSGhJZXgtODFFd01kT1BKX2JnMHgwVFJ5R0pJdnhWczhtdVdmZTVULVU0NmVYLQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WSUo2STFObUhrdmVRd0g0LUJvZGo2cFBNejNyczFtWl83VWdDaVpha2ZUeVhYYmNaY0VacnlXRlFWdDVJcnZSR0N1SVJKTnhlQ3VTeEsyT3ZjUm1jQ1JqMmw2b0NlSW11VXREeg?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2362,6 +2452,16 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXVGMmtIeXFWTkh1Ync3UGhDOXVpU3c4dGN2RTNTa3pIdTh1Tk1NTXc0YkFvcUdrZUI3YnBWYTdvVFA1bFhLdlVNVHhOUDM4aDVnUVVCSEEzRW9CSmNZOE9GY1MxM3ZuZTFYbEEzTXZkNVVQTlJKYWlSZUlfazMtVW5oT2JfeTE0cVVZS2NKSm5FeDFPOE9jRHlDSVlUd1U5WVFmLUMzLUx3c3Zud3JMOU8tSQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmtPYmdXc041RkJFanowZEpPUHdxNjFUc0JaaDMwWTZRLUYteGN4YWVWeThFWmZqMmdmMV9fVTJYY3k5ci1UN1ZyS2ZfeHBIQ3BXcUttZjlUVFJfQm9paWF5Tk9IMm50dTdZTmtPbjc0UjlPaGZWdmI0ODVPbFB6eTkxaGFURlhRZC1tREl6a3hSeFBrQ2V3WWpfdlVReUlDTENUMXFFMGJOS1h3UnJ6Z2lyb0tuSkNRbWIwWmtKTFc5NmpmTWFhXzRpU2tvWVlpVjRoRzZYYXJUMkdVcXYw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Tietopohjainen päätöksenteko ei ole niin suoraviivaista kuin usein ajatellaan - STT Info",
+      "desc": "Tietopohjainen päätöksenteko ei ole niin suoraviivaista kuin usein ajatellaan &nbsp;&nbsp; STT Info",
+      "date": "2026-11-17T09:43:11+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZmtPYmdXc041RkJFanowZEpPUHdxNjFUc0JaaDMwWTZRLUYteGN4YWVWeThFWmZqMmdmMV9fVTJYY3k5ci1UN1ZyS2ZfeHBIQ3BXcUttZjlUVFJfQm9paWF5Tk9IMm50dTdZTmtPbjc0UjlPaGZWdmI0ODVPbFB6eTkxaGFURlhRZC1tREl6a3hSeFBrQ2V3WWpfdlVReUlDTENUMXFFMGJOS1h3UnJ6Z2lyb0tuSkNRbWIwWmtKTFc5NmpmTWFhXzRpU2tvWVlpVjRoRzZYYXJUMkdVcXYw?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR08?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2372,14 +2472,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWdIUWpUSDZINzZBN1NPcll5Mmk2ZW55YkdrdkhkcmpwUzlWSEhZdHVOWWhyZTIzM19oNGxLMUZFM0JUd1BMNVozU1NuNDlPam0ta20wVUxndENteXMyV1NRZnBsM0NjZ3J0V1M5V3JsOHc4WC0tektYM3B6dEI4cFQ1XzhaSmJXY0hRSFNXbkhSM3Y3Z0F5U2RjR08?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Honey Farm sport and recreation precinct master plan - Sunshine Coast Council",
-      "desc": "Honey Farm sport and recreation precinct master plan &nbsp;&nbsp; Sunshine Coast Council",
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGVZWVVkYW9aWDJiR0JhNkt4aXpqei1Id1hKQnRsUVByaVJjTXFrblBLTG44YWNmRDU2a1pwdTl0bFlfR2c4RG51anJHa0NoX25FSnhRVm5DOFNjbHdILUxwcEVkcFd4YVowOHN5SzAzT2xlVGIyTVpwVlRKTDRoQXg3dFhkRnBsczVjV296cEk?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Does Physical Activity Shape Preteens’ Risk for Binge Eating? - The University of Texas at Dallas",
+      "desc": "Does Physical Activity Shape Preteens’ Risk for Binge Eating? &nbsp;&nbsp; The University of Texas at Dallas",
       "date": "2026-11-17T08:00:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb1c0MlF6em0xUjBNYVZ4U0hlcVJ6d2cxWmRXOExpaTROMFNhNjJuQlJocGQ0UkQyaWo4QUtfdF90bTNCa1NJZU54RlA5OElBR0s2dnpaRWdxekJhT0VCQnFXZE82a24xT0ppdlRfYjRiNVF1bEZSWDQ4MVI2SXR0VlNrVW9jT3lIN0w3TF9RYmFiTzBBVTFyVHRaUVNtT3FhZFh3aVlZT01Gc1VMeFFySVl4U3dJeVdvQjFiZnB3OUpacy0za2RwUGlqeUY4UnRKRjkzZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGVZWVVkYW9aWDJiR0JhNkt4aXpqei1Id1hKQnRsUVByaVJjTXFrblBLTG44YWNmRDU2a1pwdTl0bFlfR2c4RG51anJHa0NoX25FSnhRVm5DOFNjbHdILUxwcEVkcFd4YVowOHN5SzAzT2xlVGIyTVpwVlRKTDRoQXg3dFhkRnBsczVjV296cEk?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXcyeUkzSThBYVpmVU1oX2VpYjBDbGJOWmlXRFRzaTF3SktXdjRwVWJSS2xRQjF5OS10bk80S3hQelFFVWRNWjRxM05pYkI2bnloWm9KM1RPbUwzMDJqVnJ1US1yVTVmRmFYRDZpeVFtOFNtcUlPSlVZQ05tU0ZhaDQ4THd2a0g3Y0RJamIwd1M?oc=5",
@@ -2392,26 +2492,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXcyeUkzSThBYVpmVU1oX2VpYjBDbGJOWmlXRFRzaTF3SktXdjRwVWJSS2xRQjF5OS10bk80S3hQelFFVWRNWjRxM05pYkI2bnloWm9KM1RPbUwzMDJqVnJ1US1yVTVmRmFYRDZpeVFtOFNtcUlPSlVZQ05tU0ZhaDQ4THd2a0g3Y0RJamIwd1M?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSX3hVNjlZZnE3dDI3cnE1R0RyMUZ3SVNqMERJT3MzMk1FdFppOU1LclBfdTlmdnVhcFJ1TUVkdmt2bThtOWJ2bEFGbE42eTQ4bEJvSVc1TzYxLU91VnNVSFJ2UFhZV2RVYkZxZms3VQ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising - ScienceDaily",
-      "desc": "Scientists tracked kids for 8 years. What they found about screen time was surprising &nbsp;&nbsp; ScienceDaily",
-      "date": "2026-11-17T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSX3hVNjlZZnE3dDI3cnE1R0RyMUZ3SVNqMERJT3MzMk1FdFppOU1LclBfdTlmdnVhcFJ1TUVkdmt2bThtOWJ2bEFGbE42eTQ4bEJvSVc1TzYxLU91VnNVSFJ2UFhZV2RVYkZxZms3VQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGg1eTNRczBCbHpkdEZHeENjM2ZWdlVLY3JFb3AtNm5lWE9GN2N4cFR5T0tENlI5YnZSWlNQdGxTWlA4bWtWaldITmhST2V5elN0SEVFS2pwbE1oNUl1T0RGTUNWX2djV09zaFZ5TDc3cC1NSktvQzYyX3B1TG9oVkl6TzRkRjJkcGhZbmdDc2lWSDEwWGVpWFR3b09heXJnTkt0dTcxdnM4T25zMTFRd1RrTUVBZmpHT0tR?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Column | How much life could a 10-minute walk buy you? Try our calculator. - The Washington Post",
-      "desc": "Column | How much life could a 10-minute walk buy you? Try our calculator. &nbsp;&nbsp; The Washington Post",
-      "date": "2026-11-17T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGg1eTNRczBCbHpkdEZHeENjM2ZWdlVLY3JFb3AtNm5lWE9GN2N4cFR5T0tENlI5YnZSWlNQdGxTWlA4bWtWaldITmhST2V5elN0SEVFS2pwbE1oNUl1T0RGTUNWX2djV09zaFZ5TDc3cC1NSktvQzYyX3B1TG9oVkl6TzRkRjJkcGhZbmdDc2lWSDEwWGVpWFR3b09heXJnTkt0dTcxdnM4T25zMTFRd1RrTUVBZmpHT0tR?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NWXlTb0N2TUZJWlNJVGY4YTFUUUZNTWR5bE5QbWVkcV85c1E2VC1uOE91dlRTVjdTaGVNeENkSlRJLWgzcFBmbGlB?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2420,86 +2500,6 @@
       "date": "2026-11-17T06:30:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1NWXlTb0N2TUZJWlNJVGY4YTFUUUZNTWR5bE5QbWVkcV85c1E2VC1uOE91dlRTVjdTaGVNeENkSlRJLWgzcFBmbGlB?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Liikuntapaikat - Keskilaakso",
-      "desc": "Liikuntapaikat &nbsp;&nbsp; Keskilaakso",
-      "date": "2026-11-16T19:45:52+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLWDh5bGVoMmQ3bzNUOS04QndvZFAyeEJXWS1YWmNWb3piVTBIaFF6NTVDN3dhR24wTGZqTS11Y0VWbWNybjVGX0drc1hRSHdiUlcydTNXb01rUQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sXzZYRUhMTURRbi10YkZNNzB2OHc2Ym9IZk1leGxXcWEzRWVZeUp5anJJcjJzRUhqejRDM05saEhOMVRFRHNCZmVTT25EVE5ZSHpGMnNaWjV2UQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Valituksella ei ollut vaikutusta Kouvolan liikuntapaikkojen vähentämiseen - Keskilaakso",
-      "desc": "Valituksella ei ollut vaikutusta Kouvolan liikuntapaikkojen vähentämiseen &nbsp;&nbsp; Keskilaakso",
-      "date": "2026-11-16T15:35:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sXzZYRUhMTURRbi10YkZNNzB2OHc2Ym9IZk1leGxXcWEzRWVZeUp5anJJcjJzRUhqejRDM05saEhOMVRFRHNCZmVTT25EVE5ZSHpGMnNaWjV2UQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GR3pqNGVsblozTFpRTnR3cDh3VnhSNWpZNTZ2bUVWTHhlZUFyc1FOUjBLLUNobUJyWi11c2NTSWNFYzl4NG9MSktjMzZ3UjhDM0JLRm9JU0dJeWU4?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "AI could help turn population evidence into personalised physical activity guidance - EurekAlert!",
-      "desc": "AI could help turn population evidence into personalised physical activity guidance &nbsp;&nbsp; EurekAlert!",
-      "date": "2026-11-16T15:15:27+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GR3pqNGVsblozTFpRTnR3cDh3VnhSNWpZNTZ2bUVWTHhlZUFyc1FOUjBLLUNobUJyWi11c2NTSWNFYzl4NG9MSktjMzZ3UjhDM0JLRm9JU0dJeWU4?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUZ4c3hYZkFiNkVlSXVmTlhZc1JDVHpiQjMtVU5FOHdQQTl6RjNNZ0MwcGd4dVlDZE5TUGhXOTVBQmF6YS11WkcyWGNuZlRCbklWbnllbnRYV2RQN2FSN2tWaDBSM0JxWFhmV2ZINnZZcHRnZUtTR2JEMlg3YldzWHZya08tcmJSNWRERzNwdURIUFNuckJDZThrd1JVQ3NuMWJwTndKb3k4VVlLY2lxSE9sQjFfYUR3UTNGMWJn?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Alakoulujen Miekkakalauintikisat kirkkonummen uimahallissa 20.11. - Kirkkonummen Sanomat",
-      "desc": "Alakoulujen Miekkakalauintikisat kirkkonummen uimahallissa 20.11. &nbsp;&nbsp; Kirkkonummen Sanomat",
-      "date": "2026-11-16T08:00:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUZ4c3hYZkFiNkVlSXVmTlhZc1JDVHpiQjMtVU5FOHdQQTl6RjNNZ0MwcGd4dVlDZE5TUGhXOTVBQmF6YS11WkcyWGNuZlRCbklWbnllbnRYV2RQN2FSN2tWaDBSM0JxWFhmV2ZINnZZcHRnZUtTR2JEMlg3YldzWHZya08tcmJSNWRERzNwdURIUFNuckJDZThrd1JVQ3NuMWJwTndKb3k4VVlLY2lxSE9sQjFfYUR3UTNGMWJn?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm0xZjQzLWwxTkMzRE1CMTFWVVpEM2hwd1FEWVdUTXdlcF9qb0NNVzU5MmhHR3lKbUxGaHVYU1JjNUZQZ2Etdy1VNXczd1k0NFhUNER0bUFpeUo4d0x2aXpLQUVlTXJUa2hBWGxVU0Y3ejZoak9aa0RrMVBmNENuR2h5ZE5lU2V4bEEtX1VwS2ZnMVljazdBN3hHcw?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "A growing public health worry: Prolonged sitting - Harvard Gazette",
-      "desc": "A growing public health worry: Prolonged sitting &nbsp;&nbsp; Harvard Gazette",
-      "date": "2026-11-16T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYm0xZjQzLWwxTkMzRE1CMTFWVVpEM2hwd1FEWVdUTXdlcF9qb0NNVzU5MmhHR3lKbUxGaHVYU1JjNUZQZ2Etdy1VNXczd1k0NFhUNER0bUFpeUo4d0x2aXpLQUVlTXJUa2hBWGxVU0Y3ejZoak9aa0RrMVBmNENuR2h5ZE5lU2V4bEEtX1VwS2ZnMVljazdBN3hHcw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "New York - Sports, Recreation, Outdoors - Britannica",
-      "desc": "New York - Sports, Recreation, Outdoors &nbsp;&nbsp; Britannica",
-      "date": "2026-11-14T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWZrVjJXQ2F3NDNrWmFZeU41ck05ZUthVGlYTVF0SWhxQ1duSjU4cmNRTlZVRzc4dVllS1dzMmJwUlFBemxNU3NrcTNleEg0SDA0cE0wR3ZoaF9hck03bGY4cVpxUDVLNHV3anB4OS1BQkdRQXdTT3RtYWRUWEI4R3NHbWk3dXdmSVprVjgxM0FZSUkxekczOU5qUkZhMkhoS0ZKeWtCVDIxTFc0NUpnRFBoSVc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "New PETIO Guideline Sets Methodological Reporting Standards for Geriatric Exercise Trials - Bioengineer.org",
-      "desc": "New PETIO Guideline Sets Methodological Reporting Standards for Geriatric Exercise Trials &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-14T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWZrVjJXQ2F3NDNrWmFZeU41ck05ZUthVGlYTVF0SWhxQ1duSjU4cmNRTlZVRzc4dVllS1dzMmJwUlFBemxNU3NrcTNleEg0SDA0cE0wR3ZoaF9hck03bGY4cVpxUDVLNHV3anB4OS1BQkdRQXdTT3RtYWRUWEI4R3NHbWk3dXdmSVprVjgxM0FZSUkxekczOU5qUkZhMkhoS0ZKeWtCVDIxTFc0NUpnRFBoSVc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWxaV0JXSk1GZjJ1cmk0a2NVd04wdXhYYnotQlJ0N1Z0MzdNd21QNXlkN2VTUkpwRFNIcXdVZ1BDZ2sxM1IzczNBdXBsSG9qcEdybmNCTjdUQWdzc0RCUzFjeHRfY0FLYzRvU1l0eTdqZmlvNElacmRYZWQxbk1oSlhfbnJtVVJieThUQXhR?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Tekojäärata aukeaa yleisökäyttöön sunnuntaina - Porin kaupunki",
-      "desc": "Tekojäärata aukeaa yleisökäyttöön sunnuntaina &nbsp;&nbsp; Porin kaupunki",
-      "date": "2026-11-13T08:00:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWxaV0JXSk1GZjJ1cmk0a2NVd04wdXhYYnotQlJ0N1Z0MzdNd21QNXlkN2VTUkpwRFNIcXdVZ1BDZ2sxM1IzczNBdXBsSG9qcEdybmNCTjdUQWdzc0RCUzFjeHRfY0FLYzRvU1l0eTdqZmlvNElacmRYZWQxbk1oSlhfbnJtVVJieThUQXhR?oc=5"
     }
   ],
   "sources": [
@@ -2507,7 +2507,7 @@
       "name": "Yle",
       "category": "Suomi ja maailma",
       "ok": true,
-      "count": 12,
+      "count": 11,
       "reason": ""
     },
     {
@@ -2577,14 +2577,14 @@
       "name": "Google News",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 24,
+      "count": 23,
       "reason": ""
     },
     {
       "name": "Google News",
       "category": "Tutkimus",
       "ok": true,
-      "count": 35,
+      "count": 32,
       "reason": ""
     },
     {
