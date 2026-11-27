@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-27T20:48:44.512179+00:00",
+  "updated": "2026-11-27T22:49:57.838005+00:00",
   "items": [
+    {
+      "id": "https://yle.fi/a/74-20259510?origin=rss",
+      "cat": "Urheilu",
+      "icon": "🏒",
+      "title": "Susijengi hiljensi kuumana käyneen Slovenian – Olivier Nkamhoua avasi, mistä loppupelin torikokouksessa oli kyse",
+      "desc": "Suomen miesten koripallomaajoukkue otti vahvan kiinnityksen MM-kisapaikkaan. Slovenian pelaaja tulistui ilmeisesti Edon Maxhunin puheista.",
+      "date": "2026-11-28T00:33:46+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259510?origin=rss"
+    },
+    {
+      "id": "https://yle.fi/a/74-20259508?origin=rss",
+      "cat": "Suomi ja maailma",
+      "icon": "🌍",
+      "title": "Ainakin 14 siirtolaista kuollut Kanariansaarten edustalla",
+      "desc": "Meripelastajat pelastivat 84 muuta siirtolaista, jotka vietiin El Hierron saarelle.",
+      "date": "2026-11-27T23:52:15+02:00",
+      "source": "Yle",
+      "url": "https://yle.fi/a/74-20259508?origin=rss"
+    },
     {
       "id": "https://yle.fi/a/74-20259503?origin=rss",
       "cat": "Suomi ja maailma",
@@ -10,6 +30,16 @@
       "date": "2026-11-27T21:17:34+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259503?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUzhXUlJ6NHI2WFRSelFmWG5qNksyenlvZEN2RHI1eU5jZXhzcG5LRzY3eUFpWTRfT2N5WTJ2R05YZ0dBTjE2Nm9YRzhTVm0yVXRGU3hkNUl6RDQ2MGc?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Tutkimus: Tekoäly tunnistaa kuolemansairaat ihmiset - Ilta-Sanomat",
+      "desc": "Tutkimus: Tekoäly tunnistaa kuolemansairaat ihmiset &nbsp;&nbsp; Ilta-Sanomat",
+      "date": "2026-11-27T21:03:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUzhXUlJ6NHI2WFRSelFmWG5qNksyenlvZEN2RHI1eU5jZXhzcG5LRzY3eUFpWTRfT2N5WTJ2R05YZ0dBTjE2Nm9YRzhTVm0yVXRGU3hkNUl6RDQ2MGc?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20259501?origin=rss",
@@ -25,7 +55,7 @@
       "id": "https://yle.fi/a/74-20259368?origin=rss",
       "cat": "Urheilu",
       "icon": "🏒",
-      "title": "Sonja Leinamo riemastutti Ampumahiihtotietäjää pelannutta fania ”Mä laitoin sut kakkoseksi”",
+      "title": "Sonja Leinamo riemastutti Ampumahiihtotietäjää pelannutta fania: ”Mä laitoin sut kakkoseksi”",
       "desc": "Päivän suomalaisnimi onnitteli Kontiolahdella katsojaa, joka oli veikannut hänen sijoituksensa oikein Ylen pelissä.",
       "date": "2026-11-27T20:36:44+02:00",
       "source": "Yle",
@@ -45,8 +75,8 @@
       "id": "https://yle.fi/a/74-20259502?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
-      "title": "Siipirikkoinen Susijengi hyvällä peli-ilmeellä Sloveniassa – Nkamhoua, Maxhuni ja Amzil vahvassa vireessä",
-      "desc": "Seuraamme tässä artikkelissa Suomen miesten koripallomaajoukkueen MM-jatkokarsintaottelua Sloveniaa vastaan.",
+      "title": "Susijengille tärkeä vierasvoitto Sloveniasta – Mustapha Amzilille suomalaisittain harvinainen yli 30 pisteen ilta",
+      "desc": "Seurasimme tässä artikkelissa Suomen miesten koripallomaajoukkueen MM-jatkokarsintaottelua Sloveniaa vastaan.",
       "date": "2026-11-27T20:30:04+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259502?origin=rss"
@@ -152,14 +182,14 @@
       "url": "https://yle.fi/a/74-20254812?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkxzVDhzQldQcHJ6X1dTclVrVTdweG9zbnBxWEdWZXNEMEVTQXdwV3haM0h1Rl8xcXM5S0kxRlJERUNiSXZ5ZDB6WmJYanRybDZtRzlPTWg3TVlsaWhNeW5FMkVibUtQQjl3MWUzQi1MNTRSLVZmcjFjbUJiQ3NWZnNoSG8zSnVPSE5MZHFsSW9IVVpSY0c5dEpoTXg4V3c1cWhGYkFycDZoTkNiYmtObmw0OVJSZkZlMXdkeWdoY0Y3OGFCNTRQWVFKOHI2b05IUWFOenlYTU15TVZR?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "BigBear.ai vs. Cerebras Systems: Which Artificial Intelligence Stock Is a Better Buy for 2027? - The Motley Fool",
-      "desc": "BigBear.ai vs. Cerebras Systems: Which Artificial Intelligence Stock Is a Better Buy for 2027? &nbsp;&nbsp; The Motley Fool",
-      "date": "2026-11-27T18:51:04+00:00",
+      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlQzRzVDcFRGQ0pDTUExY0VISTJVNUxUanE0cDlQT2F3YThteDFwRUlkcGZ3cExTOEtSS2FpcjF1c2l0MlNJaTZWcXg5ZWdVU2tMM1B1Yjd5TFRkMzZreGtQTTRkTEZfb0RyY0xnSXhEakoyMEdCOXhaUlh0VVc2ZGtveGVKcDVjWWxMZGxoQVZ5TzIzVWxWc2Y2Z0s4c3FyU2kyNkkxUnQ4NDI0bWNzMw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Not All Physical Activity Protects Against Dementia, Study Finds - Yahoo Health",
+      "desc": "Not All Physical Activity Protects Against Dementia, Study Finds &nbsp;&nbsp; Yahoo Health",
+      "date": "2026-11-27T18:14:28+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkxzVDhzQldQcHJ6X1dTclVrVTdweG9zbnBxWEdWZXNEMEVTQXdwV3haM0h1Rl8xcXM5S0kxRlJERUNiSXZ5ZDB6WmJYanRybDZtRzlPTWg3TVlsaWhNeW5FMkVibUtQQjl3MWUzQi1MNTRSLVZmcjFjbUJiQ3NWZnNoSG8zSnVPSE5MZHFsSW9IVVpSY0c5dEpoTXg4V3c1cWhGYkFycDZoTkNiYmtObmw0OVJSZkZlMXdkeWdoY0Y3OGFCNTRQWVFKOHI2b05IUWFOenlYTU15TVZR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRlQzRzVDcFRGQ0pDTUExY0VISTJVNUxUanE0cDlQT2F3YThteDFwRUlkcGZ3cExTOEtSS2FpcjF1c2l0MlNJaTZWcXg5ZWdVU2tMM1B1Yjd5TFRkMzZreGtQTTRkTEZfb0RyY0xnSXhEakoyMEdCOXhaUlh0VVc2ZGtveGVKcDVjWWxMZGxoQVZ5TzIzVWxWc2Y2Z0s4c3FyU2kyNkkxUnQ4NDI0bWNzMw?oc=5"
     },
     {
       "id": "https://yle.fi/a/74-20259331?origin=rss",
@@ -360,6 +390,16 @@
       "date": "2026-11-27T14:50:32+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259409?origin=rss"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMG9LSE5aam5XVXdxMktuLTZDT2VzQVdjUkpyTDBCaV81dVBjZjZ6Zmt6WTQzU0FYcGtWX3BwaTdHSnVsZzdPaWM4Ql84UG9kcmR2LUVlVDFINDY4R05zdnZ3ZGctMjhIMWxtcEVlU0xYTEk0QlNsQkE3eV8wNWsybWZLWFZuN2pCLVE?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Build an AI Agent in Python: 12 Steps, 80 Min - shattered.io",
+      "desc": "Build an AI Agent in Python: 12 Steps, 80 Min &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-27T14:20:02+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMG9LSE5aam5XVXdxMktuLTZDT2VzQVdjUkpyTDBCaV81dVBjZjZ6Zmt6WTQzU0FYcGtWX3BwaTdHSnVsZzdPaWM4Ql84UG9kcmR2LUVlVDFINDY4R05zdnZ3ZGctMjhIMWxtcEVlU0xYTEk0QlNsQkE3eV8wNWsybWZLWFZuN2pCLVE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56SThCRDFZMVJjQUkxbFVJTFFOSWJiRXAzbDZmcUFrc25oY21GVFg5Nl9WZWRGNjVadmdQN3U3UmhoVDRpc09qZkJvR1FMMGtFQmI0SF8zdlFwV1JqMnI4YVYwSUowUkpNYXJRZVpPeVdMU1FR?oc=5",
@@ -632,16 +672,6 @@
       "url": "https://yle.fi/a/74-20259120?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1F4U1hKcFNzOUNabVdKQk5BdGZJazNKc19pdEVjZHpMUHNJcWdUd3pOb1VJREhveEthWkYzMXVyNWhEOWhxaDRMTW9peEpmQTNQb0pYVlRDN0tMbTRHdUZOelRLemlteHRubmlSYUJoQnlIX1AtaVBZbG1BMHo0ZnZNTlNRY3ZhdE9Hc2JtbUd2X0ZKMmRZOVpxQWlCZjRncGo4ZlpJOXhvUVZ5TFFteVJyc2VXRXl5WWREeEVsMGYtWEJDLWh5SnYtWG1rUE0?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "New sports facilities key to Buncombe tourism authority strategy - The Asheville Citizen Times",
-      "desc": "New sports facilities key to Buncombe tourism authority strategy &nbsp;&nbsp; The Asheville Citizen Times",
-      "date": "2026-11-27T10:01:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1F4U1hKcFNzOUNabVdKQk5BdGZJazNKc19pdEVjZHpMUHNJcWdUd3pOb1VJREhveEthWkYzMXVyNWhEOWhxaDRMTW9peEpmQTNQb0pYVlRDN0tMbTRHdUZOelRLemlteHRubmlSYUJoQnlIX1AtaVBZbG1BMHo0ZnZNTlNRY3ZhdE9Hc2JtbUd2X0ZKMmRZOVpxQWlCZjRncGo4ZlpJOXhvUVZ5TFFteVJyc2VXRXl5WWREeEVsMGYtWEJDLWh5SnYtWG1rUE0?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOU1QeW0zWUs5ay1yNnJtcGY5bWxZZmtYRl9Ua0VtTHZNM2d5VkhvR3FWNzFnYkpJdi1XN3ZNbE1kRklhRzEzenk2cTllbEljallDcGpPdGp6bkh4cjVSOUU2bkY3SDBOY3FVclg0Z1NiSlFVMEtUYnFWZC1oRXY4cExibU9IcnQ2eXNZUGdMWGRxdFpxcG1xR1N1V3NkdHZoQWw4UktIeVUzMnNxbGdXR2tYV3NNS3F4ZEdpenlDbw?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -672,14 +702,14 @@
       "url": "https://yle.fi/a/74-20259301?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDhEck9QTUlDNDYwaWRiVXU3dU5aMF9JclN1Y1RoQ1pUMTU3Ry1lUXlFYXNxY1BVaEdmMU9PQWg4dmtKeU9oa19YSXd6OUtrY2xhS0U3Um5kUFlfU1RGXy1HaGZDZVpja0JSUEVLdW91U2pxVS1GeTdfdks0N1R6UC0yUQ?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Exercise Snacks: Benefits of Short Movement Breaks - HOLR Magazine",
-      "desc": "Exercise Snacks: Benefits of Short Movement Breaks &nbsp;&nbsp; HOLR Magazine",
-      "date": "2026-11-27T09:14:12+00:00",
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTN0cGN0dUduSzNiVlhvTVJDSG5iMWJSSXFLZk9HZEloQWVpTkdBckFZN3d2aW5yTmw1U29wVVd2LUxfZU5rell2dUFCS1lhdXFNNXkxQ0J5LW5XOVlfZ2pzejBKenEyaFBQWkJNM1k3RF84dDNLVGNSQXdmZVZuUkFCTWFRZnNNcEpQVERrRFN5TDRTR2hPS3BnOGxRRTV6d2hsaQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "UAE launches AI guide to help parents navigate technology in education - Fast Company Middle East",
+      "desc": "UAE launches AI guide to help parents navigate technology in education &nbsp;&nbsp; Fast Company Middle East",
+      "date": "2026-11-27T09:34:09+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDhEck9QTUlDNDYwaWRiVXU3dU5aMF9JclN1Y1RoQ1pUMTU3Ry1lUXlFYXNxY1BVaEdmMU9PQWg4dmtKeU9oa19YSXd6OUtrY2xhS0U3Um5kUFlfU1RGXy1HaGZDZVpja0JSUEVLdW91U2pxVS1GeTdfdks0N1R6UC0yUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZTN0cGN0dUduSzNiVlhvTVJDSG5iMWJSSXFLZk9HZEloQWVpTkdBckFZN3d2aW5yTmw1U29wVVd2LUxfZU5rell2dUFCS1lhdXFNNXkxQ0J5LW5XOVlfZ2pzejBKenEyaFBQWkJNM1k3RF84dDNLVGNSQXdmZVZuUkFCTWFRZnNNcEpQVERrRFN5TDRTR2hPS3BnOGxRRTV6d2hsaQ?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/27/paakirjasto-metson-uusi-kahvila-avautuu-viimeistaan-maaliskuussa",
@@ -782,16 +812,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jZkRnNTFNRkU0VkpaSG4xOGNZa0xhNlNOYlpSemZ4VHFRNVJKSzFRLWJyUHZrVjhZQmU4NGxEWGs5UUkyQ3VaS1dIWVZyVVA3MlBpTjM0UTZSdTB0SXFFc2xrSjFaMzAzMHRaRHFTZURkQnJy?oc=5"
     },
     {
-      "id": "https://yle.fi/a/74-20259043?origin=rss",
-      "cat": "Urheilu",
-      "icon": "🏒",
-      "title": "Inka Hämäläisellä, 20, on ampumahiihtäjäksi harvinainen ominaisuus – kateissa ollut ase sai valmentajan vihaiseksi",
-      "desc": "Inka Hämäläinen liittyi maajoukkueeseen poikkeuksellisen nuorena. Ville Kotikumpu puhuu hänestä potentiaalisena olympiamitalistina.",
-      "date": "2026-11-27T07:00:39+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259043?origin=rss"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVVLNUkxdkxRSUE0b1lES0VDYklzWXVMZTJnYXUzNWd5VzZKWWdxQnFaZjFqWXdFdnd6b0N5bVZONjlIX2xGRko0V3hWMmoteng5TEpZYklqU1I1OEhrWnlyeWRqSUF6RnRkek5lU0VycGJvT1UtNzVqekFsM0pDemFfV1lzd2tCbmlMOWYtSmEtUnZhZnZzVno1UFdjX0JWS0dURm56MnplSk9FYlZRbzNaQQ?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -812,6 +832,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGNGTGdjQ1NMZE9KbTJXQno0clZwVmtjUEp1ZGRuOUtiTzBvNm84YWswdVRKaUluYVI0b1dOR3MtMzUxRDJPYl9YeTZMa2VlbkxMOHRxWWhDNVZ5ekpFNHY1UmpNTU1mOGx2Ry0tUG1DS0VmVHNUNDlCN1ViOGJ3R2gwQ2FSbWVLNkYyYWRMbXYzQktRSGhvcjhOX2FKYkJmMjJ5NUxpWmxTSHpnLW55Z0YtVFg2aVVn?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWThsQ0VhWThObHVYbUdpdXRxNXdtMlVrNWNYcUIyQjVnWC02MlZQeWN1VE81ZkVLcmdYTUJiZy1ROTMtc1A1VG9kM2JnWlZRajdRVEZKRUphN05wOGZLb3dycWVFT3FnUDNMb3lTRWIwVjVESjEzdzN2X1JQU1BhZnZHOA?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Voiko tiedettä julkaista ilman tekoälyä? - Lääkärilehti",
+      "desc": "Voiko tiedettä julkaista ilman tekoälyä? &nbsp;&nbsp; Lääkärilehti",
+      "date": "2026-11-27T06:00:00+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWThsQ0VhWThObHVYbUdpdXRxNXdtMlVrNWNYcUIyQjVnWC02MlZQeWN1VE81ZkVLcmdYTUJiZy1ROTMtc1A1VG9kM2JnWlZRajdRVEZKRUphN05wOGZLb3dycWVFT3FnUDNMb3lTRWIwVjVESjEzdzN2X1JQU1BhZnZHOA?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20259273?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
@@ -822,26 +852,6 @@
       "url": "https://yle.fi/a/74-20259273?origin=rss"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXJEcEhvZDQ1Y25JVlVHTGxxbnJsSjE5S3B5dE9QODJWV2xuYTJldS0wLWpMWFN1RGFIdTJHTUJLS0xuMXdLVmlrSXliUTRIUmxtNTBod2V0RUptQkUtM1VPVF9idmNHWEp1S21aWEI1U2lYZ2t5WUoycXNvS3lpZVZZYVBxcU03V3NkTktLWV9zRWY0U0hDZkVPbE83a2xIaE80WXFyY0toNFlWRExXNkRRdmh4NUtISWc?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Exercise Interventions Associated With Improved Quality of Life After Stroke in Meta-Analysis - Bioengineer.org",
-      "desc": "Exercise Interventions Associated With Improved Quality of Life After Stroke in Meta-Analysis &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-27T05:10:39+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXJEcEhvZDQ1Y25JVlVHTGxxbnJsSjE5S3B5dE9QODJWV2xuYTJldS0wLWpMWFN1RGFIdTJHTUJLS0xuMXdLVmlrSXliUTRIUmxtNTBod2V0RUptQkUtM1VPVF9idmNHWEp1S21aWEI1U2lYZ2t5WUoycXNvS3lpZVZZYVBxcU03V3NkTktLWV9zRWY0U0hDZkVPbE83a2xIaE80WXFyY0toNFlWRExXNkRRdmh4NUtISWc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzZwbDRLZWxHbFVTVEpNbDdiM0h6SmRKVS1MblZXbHFwT1J4U3lhSEhZbklRMjBfZ2FIbzdqcEhvVVFKNWQwdjhRb2NSeGhpRDV1eGcxQ3NPZkxFeWxaMVZESkYtM0tZN0U5cGNGMGx3WVVQY2N2dUxNWU5nQXJrQXhnMmFjTm1wbURLR1pHNno4c2xwSUl3?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Tech Stocks 20% Off Highs, Nvidia at 9x Earnings - shattered.io",
-      "desc": "Tech Stocks 20% Off Highs, Nvidia at 9x Earnings &nbsp;&nbsp; shattered.io",
-      "date": "2026-11-27T04:49:59+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzZwbDRLZWxHbFVTVEpNbDdiM0h6SmRKVS1MblZXbHFwT1J4U3lhSEhZbklRMjBfZ2FIbzdqcEhvVVFKNWQwdjhRb2NSeGhpRDV1eGcxQ3NPZkxFeWxaMVZESkYtM0tZN0U5cGNGMGx3WVVQY2N2dUxNWU5nQXJrQXhnMmFjTm1wbURLR1pHNno4c2xwSUl3?oc=5"
-    },
-    {
       "id": "https://yle.fi/a/74-20259272?origin=rss",
       "cat": "Suomi ja maailma",
       "icon": "🌍",
@@ -850,16 +860,6 @@
       "date": "2026-11-27T04:44:23+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259272?origin=rss"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026) - The Hype Magazine",
-      "desc": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026) &nbsp;&nbsp; The Hype Magazine",
-      "date": "2026-11-27T04:38:52+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1NETHR2NWYzOXVxVzUzTTZPYzlHd3Y1SXEwWHVJUURDSWVSQmtSd1JiX1RaRm1Rb0xuY3JoSnlqR19HRUcxSVVhUXQtSWpDNHVPNHJhZlBxUHFHcFhya21uazE1ZTNYQThVVVZkZzRHdTA5X0tCa3dSSzVXeUt4Z3pJZDFoRTF6REE?oc=5",
@@ -890,16 +890,6 @@
       "date": "2026-11-27T03:39:07+02:00",
       "source": "Yle",
       "url": "https://yle.fi/a/74-20259270?origin=rss"
-    },
-    {
-      "id": "https://yle.fi/a/74-20259269?origin=rss",
-      "cat": "Suomi ja maailma",
-      "icon": "🌍",
-      "title": "Presidentti Trump: Nvidian Huang ei ole turvallisuusuhka",
-      "desc": "Presidentti Trump sanoo, että markkinat ovat suhtautuneet myönteisesti Jensen Huangin paluuseen Nvidian ruoriin.",
-      "date": "2026-11-27T02:56:09+02:00",
-      "source": "Yle",
-      "url": "https://yle.fi/a/74-20259269?origin=rss"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeks2bm43RTNPZ2hncUZYOUNwRGlEVEpTTmZRWXVtcW0waGVEMWFMOC1YeE5UWjEtUWdqZ0hPRlI3c1M3cTJBSzAzWEZ6ejVrQmRwcERmUnJjU2FHSTA0ZEZlMjFQOGs0elBZRDhEaC1YSUFINjNTV2dmX2poR19mdNIBlAFBVV95cUxNWTJhUFlTZFVuajdKb3BLaE9vTkJYc2xiVUF2d0d0ZTlTNWRWWlV3R0lfeUNCcU4xVWlsQm52elFCejlBZUROYkVtaEtyQ1hTTm1Va2lnVUNuQmtsckVzeS1qOEwyVGtLQ3F0RmsxQnhzenVqSUdXZ0RKWUZiSDFpUHdSZlpJSVhWREdxWjF2OFhhc2JF?oc=5",
@@ -1282,16 +1272,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmNhRy1EUWVHT1ExOHBLbzFvVU9NRDFVblllclpWUVhpU1FSSXJMa29uNGFWSDVhckx4YVhlOVRiYmlQalJjR1hhSDZpRlV6V2ZlUkJ2U002RjBENjlJRWVWdVUtN2MtSU9jUDlreHNmQkQtSFB1LVdVRENGbFMtSWdEN2FzX2VzRlE?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYW1sbk1BMnI3ZTFKTjZDMjV1Q3hhajBEODVNOXMzel9IanUydU5DOENwRXA5U3NULXRrVUhsOEpLbEFVX2tZYTQ0TWlpcFNVcmVTaENMVlNySy0wVF8wYmppRl9kenozMHlhX2xSY19vUXNZbGtxbXllVUhaUXRXRGkxTDFvOWRzdHBZSmdKYVBKS2c?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Vitamin D Yields No Added Bone Density Gains Over Exercise Alone - Bioengineer.org",
-      "desc": "Vitamin D Yields No Added Bone Density Gains Over Exercise Alone &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-26T19:58:07+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYW1sbk1BMnI3ZTFKTjZDMjV1Q3hhajBEODVNOXMzel9IanUydU5DOENwRXA5U3NULXRrVUhsOEpLbEFVX2tZYTQ0TWlpcFNVcmVTaENMVlNySy0wVF8wYmppRl9kenozMHlhX2xSY19vUXNZbGtxbXllVUhaUXRXRGkxTDFvOWRzdHBZSmdKYVBKS2c?oc=5"
-    },
-    {
       "id": "https://yle.fi/a/74-20259247?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1342,24 +1322,14 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/26/liikuntapalvelujen-hintoihin-esitetaan-korotuksia-vuodelle-2027"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYUZPVVhpREQzSmkxaUc0SExSSTAxNEJ2NW5mQ0pjTU1naGdQQzNMSmNUemh6bEkzVmFUZklRMkoxNHJia1R1UVRYMXJkWk9xU1E0V3RmMnhWemxudk8wdG03V1NpeC1yeVFvYlc4V3VYTjZfUkg2emVqMGtic053cGRmZnZiRGNRQlFjZHJlX3FMTkQyS2JwNEdKcmllaTR2TEdFWVU4eFhHaDJMWC1LWFdTMno1TFdLOThkSnlsdk9GMUk2VVlHZDdzenJlNThEUThTLWJSc1hscmFjS2hqNzY4YkdvZVpkYTZ4azBWT3Z4WG1LMzN4VDhCNXh6T3o5UFdFNTVoQjVla2VtWHJRSkJqZXY2Y0xPZUktMFRGVEU2Zw?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUxXQS1YY2thOHRTNGdqT2dPR0dFVjdDeHlpdklWUHNvS0hTR1FrVnRVc2tkT2JNaWxKc09FcXkxMDNxbE9XLVJRT1NySlEzcE5rXzEtbjVjV3FzTVlQVEJjR2luXzVOZXFfLUFaV0EtOHZILWxXWGNZeEdjNVNGd0U3amVoRmk1UkRMM3VFMXg4YXlPa3Q1TFM5RQ?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
-      "title": "Oracle Academy and Oracle University join forces with the North Macedonian Ministry of Digital Transformation to support technology education and lifelong learning - Oracle Blogs",
-      "desc": "Oracle Academy and Oracle University join forces with the North Macedonian Ministry of Digital Transformation to support technology education and lifelong learning &nbsp;&nbsp; Oracle Blogs",
-      "date": "2026-11-26T17:21:23+00:00",
+      "title": "Accelerating Pharma Workflows with Machine Learning - Chromatography Online",
+      "desc": "Accelerating Pharma Workflows with Machine Learning &nbsp;&nbsp; Chromatography Online",
+      "date": "2026-11-26T17:05:00+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYUZPVVhpREQzSmkxaUc0SExSSTAxNEJ2NW5mQ0pjTU1naGdQQzNMSmNUemh6bEkzVmFUZklRMkoxNHJia1R1UVRYMXJkWk9xU1E0V3RmMnhWemxudk8wdG03V1NpeC1yeVFvYlc4V3VYTjZfUkg2emVqMGtic053cGRmZnZiRGNRQlFjZHJlX3FMTkQyS2JwNEdKcmllaTR2TEdFWVU4eFhHaDJMWC1LWFdTMno1TFdLOThkSnlsdk9GMUk2VVlHZDdzenJlNThEUThTLWJSc1hscmFjS2hqNzY4YkdvZVpkYTZ4azBWT3Z4WG1LMzN4VDhCNXh6T3o5UFdFNTVoQjVla2VtWHJRSkJqZXY2Y0xPZUktMFRGVEU2Zw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFJ6MXZ2Nm9CekFlbVF3ZnNyd0RyMUs0MFpMaS1QbVJMbTROcmd3b0RDMlRuUlA2dmlCNThiYUstSFg0b2hVS2p1T3ZKUHl4c1NsNnA4RzYzZ3BLbjE1VEk4U3JvTDJ1Zm1xXzJsT1RCN2FDekt1dmNSWmtqUGY5QVNqNEd1Sl9OM0NkWA?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Google, Meta & AWS: AI for Data Centre Sustainability - Sustainability Magazine",
-      "desc": "Google, Meta & AWS: AI for Data Centre Sustainability &nbsp;&nbsp; Sustainability Magazine",
-      "date": "2026-11-26T17:19:48+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONFJ6MXZ2Nm9CekFlbVF3ZnNyd0RyMUs0MFpMaS1QbVJMbTROcmd3b0RDMlRuUlA2dmlCNThiYUstSFg0b2hVS2p1T3ZKUHl4c1NsNnA4RzYzZ3BLbjE1VEk4U3JvTDJ1Zm1xXzJsT1RCN2FDekt1dmNSWmtqUGY5QVNqNEd1Sl9OM0NkWA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUxXQS1YY2thOHRTNGdqT2dPR0dFVjdDeHlpdklWUHNvS0hTR1FrVnRVc2tkT2JNaWxKc09FcXkxMDNxbE9XLVJRT1NySlEzcE5rXzEtbjVjV3FzTVlQVEJjR2luXzVOZXFfLUFaV0EtOHZILWxXWGNZeEdjNVNGd0U3amVoRmk1UkRMM3VFMXg4YXlPa3Q1TFM5RQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjA3LUYxNFlNaHRQZldjbGs4eVBqTk1IZDhmOEFVOGdheE9FR3pBMEVMdzlmWGdiSUMzdUdhdi04RlZZaXVtdVptUGZ3MDhoam56Ul9sT28ta0tIdmpHSm9TNkJ4OG9QWWtDOFVlb1VzdExpR3NIZjlWZTc3cWhocHc1cVozV1h3a2otYnpHZDdRZVJmYkJnMng2dXE3SkZwTXQtYmZBWXJ5eFlzMFUwRlFxbjFmbDNDemdF?oc=5",
@@ -1370,6 +1340,16 @@
       "date": "2026-11-26T17:01:17+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjA3LUYxNFlNaHRQZldjbGs4eVBqTk1IZDhmOEFVOGdheE9FR3pBMEVMdzlmWGdiSUMzdUdhdi04RlZZaXVtdVptUGZ3MDhoam56Ul9sT28ta0tIdmpHSm9TNkJ4OG9QWWtDOFVlb1VzdExpR3NIZjlWZTc3cWhocHc1cVozV1h3a2otYnpHZDdRZVJmYkJnMng2dXE3SkZwTXQtYmZBWXJ5eFlzMFUwRlFxbjFmbDNDemdF?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjlNaXN1dnNIb3d3Y2xXeG5NVEVZSTVJYVVXdXdkMFpmSzI4LTExMEFOT3kzODdWRWNNWUpyNmkzR3ZxdEVJbW9lS3pHdUpJY0pXaWNqVU5GRXI5U3lwYk5oa0V1eEI2c2o2MEtsX2l2Vmd1RXNqLVlqS1EwSHBoX3JGeUc1Z0gyd0xjSkl4ZGF0bDhnLTluWC1kTDRadUhVekxvVFlqVmphUnNCNHZfZ19ieW5mUTU1NmRncjRXZkM1Zw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Community Study Identifies Multilevel Factors Shaping Older Adults Baduanjin Exercise Participation - Bioengineer.org",
+      "desc": "Community Study Identifies Multilevel Factors Shaping Older Adults Baduanjin Exercise Participation &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-26T16:36:11+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjlNaXN1dnNIb3d3Y2xXeG5NVEVZSTVJYVVXdXdkMFpmSzI4LTExMEFOT3kzODdWRWNNWUpyNmkzR3ZxdEVJbW9lS3pHdUpJY0pXaWNqVU5GRXI5U3lwYk5oa0V1eEI2c2o2MEtsX2l2Vmd1RXNqLVlqS1EwSHBoX3JGeUc1Z0gyd0xjSkl4ZGF0bDhnLTluWC1kTDRadUhVekxvVFlqVmphUnNCNHZfZ19ieW5mUTU1NmRncjRXZkM1Zw?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2J2ejZoS1dSOXdtVmpOZWw5b3N1NjZkLWJTVkRpWDR4eGdOS05uLW94RjVDUXJkLW1Qd2h2dk1iQnpvdUI2MVl6YjNwTEZYZDhBdnNic1h4UVk1UGR4c3pubWV2MjhWRUJpOVBJT0s4RHRFWjJCVmgwMmF5VkJOc0QzLWN2UVAxQ2E0T1B6M0w3c3EyM1RxaklGRG9kbkdXMzdCZmdFaE9QRDdzdkE?oc=5",
@@ -1390,6 +1370,16 @@
       "date": "2026-11-26T15:48:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRXdLRUs4dzBXNHNrMDhQU2loelBUbDZYN3NqYmc3enA4ckdnWWx4RnY0Q3lBNlBaZVExMmZZdDhic1VZUWNjZGZFQTBMQlY3T0tHd2NUSUtPM2hwYUVnUw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1dxZ0ZHVzVaajl5YUFyWGdlVUFvNHo2T3RrX1VHRVhoU20yNm9EZ1hmcEhKSWVYb3RHS0c4SGV4THBJTkxjWlg3YmZsZDNudmhzRHhDaDRFb1FtUmh3N3BFS0VTQUdUX2I2X3dOdkE1TDVkeVcyMlMxcjBHWG5ISnNNT2FnMk1pN1dWVS1fRQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "OpenAI Navier-Stokes Solution: 10,000 Agents, 0 Verified - shattered.io",
+      "desc": "OpenAI Navier-Stokes Solution: 10,000 Agents, 0 Verified &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-26T14:34:59+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ1dxZ0ZHVzVaajl5YUFyWGdlVUFvNHo2T3RrX1VHRVhoU20yNm9EZ1hmcEhKSWVYb3RHS0c4SGV4THBJTkxjWlg3YmZsZDNudmhzRHhDaDRFb1FtUmh3N3BFS0VTQUdUX2I2X3dOdkE1TDVkeVcyMlMxcjBHWG5ISnNNT2FnMk1pN1dWVS1fRQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHNTU3FsazNzLWNzUEZoYlFod1BQelN4alJhbjk3dlh1WDM5djFTN1ZjcGlyaURXaFd5eFRGMF90V0o5bl9ucHBvNU8wRjhGVkR2WmpkSnBxTzZJa2JSZTVPeDBPeW15SGdzZXpVRlRHNmd3MGxGVEpMcEV0REV6Y1Vfb3V0dk56VEpHX3RR?oc=5",
@@ -1422,6 +1412,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlFYd3U2NlZNZzl5VnAweElTakhZTTZieFpmNHhSMXRhazdvUjZfV1JKcjBXMVFfakxZREllY2YycUVTdUNFREpFRFpiRGdSNVhNNlRSYWs0N2RVYlF6V21faEFRcEpBRE1oZDllekhRVkpmUkx6Y2oyMlI1ZWpKUEZzdllWa3JfMXZSSUJPX1BZVFBnMUxjZUI1ZURxLVk?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2NfMk9kcnN3UWxZNmdOdTVUaVl6M2xZMHVrUk9xRUttV0p1djhKZHZPY1JUM1dvejRpMFBMUVlzdGVvVkhhY0hxS1oyMzY3VHNsM2pScnd3aEVuTV8tT1FhTWRzRkVuOE9hUU9WSTNGSFN3d3FjSkQ2bFNmQ3ZuSGhXbG4tRjV1QzZQRkRlbk1DWXB4WThZdmJLWGdkWjlwS1VhMmFwZWdya1Y5Q3pqeFMxWTdrUWtQdDF5eW4ydnEtQkpEeENQZTRid2dnLXM0YlV6cXNLQ0x0Zw?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready - AiThority",
+      "desc": "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready &nbsp;&nbsp; AiThority",
+      "date": "2026-11-26T12:01:21+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2NfMk9kcnN3UWxZNmdOdTVUaVl6M2xZMHVrUk9xRUttV0p1djhKZHZPY1JUM1dvejRpMFBMUVlzdGVvVkhhY0hxS1oyMzY3VHNsM2pScnd3aEVuTV8tT1FhTWRzRkVuOE9hUU9WSTNGSFN3d3FjSkQ2bFNmQ3ZuSGhXbG4tRjV1QzZQRkRlbk1DWXB4WThZdmJLWGdkWjlwS1VhMmFwZWdya1Y5Q3pqeFMxWTdrUWtQdDF5eW4ydnEtQkpEeENQZTRid2dnLXM0YlV6cXNLQ0x0Zw?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/26/nyssen-linjastosuunnitelma-vuodelle-2028-valmistui-ratikka-laajenee-ja",
       "cat": "Päätöksenteko",
       "icon": "🏛️",
@@ -1432,24 +1432,14 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/26/nyssen-linjastosuunnitelma-vuodelle-2028-valmistui-ratikka-laajenee-ja"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYkJTcWdMUGNPcVkzTFFNRDJqWDR2NXhuaGoxaFZiNTdUWTc0TzdGdnRVb3gzTnNwQk5fLTRabXZXWTVWNTVqSWlpeDdzUGdKekowb0VWdHJ2WXBwaktabGZhemY1LWxENzRFcnhfQlB0T25LZ2dxTGMyTHYyZURtRnpuazdsLXdWYjM3REFsak00aXlGOXJrdlkwR0JLMkV4a2V0eFoyS0w4QVlUSE1PSkpnQU1ZdFhRMENyQllnclJnOUdSRDE2d0Jvcm5DWG9zWEh6c0l6QktBZi1CWHN6OEh5aVA?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "SRV starts construction of the first phase of the Kokonniemi Sports Centre new construction project – new ice arena to open in Porvoo in autumn 2028 - Cision News",
-      "desc": "SRV starts construction of the first phase of the Kokonniemi Sports Centre new construction project – new ice arena to open in Porvoo in autumn 2028 &nbsp;&nbsp; Cision News",
-      "date": "2026-11-26T12:00:00+00:00",
+      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhmRmdOektPcE9GaFVuS2RnTTFlSVh4ZERla1VsTThuLXVNd3lMRnE1bDNZUGh5LW9WRkh5WUNRX2pLajFKN2pQVTRjOGcya2ptYlVoRzVTTG92VFhyakh3ckJaV3I2UVcxaGE3TUxDMnY5aXNCcjZ3Rm9IZnVXb3dkMy1PbjRTcGxsTFBfWnN4bVJjeUxJVDd4Zk8tZ2hD?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Home-Based Physical Activity Improves Motor Symptoms in Parkinson’s Disease - Bioengineer.org",
+      "desc": "Home-Based Physical Activity Improves Motor Symptoms in Parkinson’s Disease &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-26T11:51:49+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYkJTcWdMUGNPcVkzTFFNRDJqWDR2NXhuaGoxaFZiNTdUWTc0TzdGdnRVb3gzTnNwQk5fLTRabXZXWTVWNTVqSWlpeDdzUGdKekowb0VWdHJ2WXBwaktabGZhemY1LWxENzRFcnhfQlB0T25LZ2dxTGMyTHYyZURtRnpuazdsLXdWYjM3REFsak00aXlGOXJrdlkwR0JLMkV4a2V0eFoyS0w4QVlUSE1PSkpnQU1ZdFhRMENyQllnclJnOUdSRDE2d0Jvcm5DWG9zWEh6c0l6QktBZi1CWHN6OEh5aVA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcjZzd0pwNHBHWEIteTNXY01PMjRSdktmQlc2OGl5cEdFN0ZsMUtMNXhIbjB6QkFNckg2NjdUcmZVcGdaem41QVZXZDhOcEhiQTZFSkx2djhiUQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Black Friday | Tekoälystä on tullut tarjoushaukan tukipilari - HS.fi",
-      "desc": "Black Friday | Tekoälystä on tullut tarjoushaukan tukipilari &nbsp;&nbsp; HS.fi",
-      "date": "2026-11-26T10:34:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpcjZzd0pwNHBHWEIteTNXY01PMjRSdktmQlc2OGl5cEdFN0ZsMUtMNXhIbjB6QkFNckg2NjdUcmZVcGdaem41QVZXZDhOcEhiQTZFSkx2djhiUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkhmRmdOektPcE9GaFVuS2RnTTFlSVh4ZERla1VsTThuLXVNd3lMRnE1bDNZUGh5LW9WRkh5WUNRX2pLajFKN2pQVTRjOGcya2ptYlVoRzVTTG92VFhyakh3ckJaV3I2UVcxaGE3TUxDMnY5aXNCcjZ3Rm9IZnVXb3dkMy1PbjRTcGxsTFBfWnN4bVJjeUxJVDd4Zk8tZ2hD?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/26/linnainmaan-nuorisotila-murusta-tulee-kaikkien-kohtaamispaikka",
@@ -1512,16 +1502,6 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/26/yhdeksan-kunnan-yhteisesti-hankkimat-ict-palvelut-kayttoon-tampereen"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVM5S3otQTE2VGtkQng3WldHUlJ2QlphSC1BdGNtaW50MjRTNnJKY0VVN3ZLeEY1RmxzZXc4eldDUl9NdllnZjE1WVVYbHN4Ujd4TW9kNEhTYnBfWWR5NUJNa0tIS2lvNTZTOElvR3FBZzlPWlp2M2preWZCQXB0UzRySGdYcTltdW9UNHl3?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Malaysia Tech Index Falls 17.1% on AI Growth Doubts - shattered.io",
-      "desc": "Malaysia Tech Index Falls 17.1% on AI Growth Doubts &nbsp;&nbsp; shattered.io",
-      "date": "2026-11-26T07:04:57+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVM5S3otQTE2VGtkQng3WldHUlJ2QlphSC1BdGNtaW50MjRTNnJKY0VVN3ZLeEY1RmxzZXc4eldDUl9NdllnZjE1WVVYbHN4Ujd4TW9kNEhTYnBfWWR5NUJNa0tIS2lvNTZTOElvR3FBZzlPWlp2M2preWZCQXB0UzRySGdYcTltdW9UNHl3?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYVJwOG5tb0dfcE9Cdm42WHczUXVfdlRoQ0JtaEZUdU5laWE5VmxjcEFqZGMtQ09QcWhhdGxmZ2Q3NnJ3Q2VjNl9pNmJuTjM5TnFydzdMT3pkdF9WcjFWcndpRFBrYTZGOFU1V3k0M1VZRlkwRXpaMUVjeVF5RzBhdkNFQXFiLWVsbDRVX1ByOEdacHhVNkllSWlMN0wxRnEtTzlSbHZkSXJ0M2l0LXREd2pwNjZmZ3pLVXNfRW1ES0JtSkxqdldrbHdaa2N5bHBKWWlUQVhlZzlqRHRxYjd6ektPdHdXbHk2aEZvT0RaUXRHMENLMF9tNlMtSWVFaEZYSGV6UlNDRVllVDhH?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1562,16 +1542,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRzVZbHZwRDRsczFHVFQ3a1hNNk5BQkJGZnFweXpfaGFZekYySkM5U0xRRGR6Y2xvTTRkcDJPVkpsWXlnSjlXS1hWM3hyUjczS25LdGFhS3E5WFgzTm0zOHhJZ0YxWG9GcmVmVDJfZ2gwS3Iza2JYdjJKUm9pMkdaTFNodERjOW1vX2gxR2ozX1dTNGtkNXJrZFMxLXl6TDEyaWlPN29jM29BSG45MEduNmZSYnhTeW1Yb2lZYUZn?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlJiZWFYTEtvNGNZWF9qZ2p3RnhGdEl1MlVGSmtVaU9IY08yQjRpZTh2aHF3S3F6ald5Z1JfZjhQbmsxU1RxeVVycnlyYWlsMXpYYl93WWlrdjRSRUxzVXZxUVpaaWZwSUVEMkthQnpMeUU4R1pSYjRDZUZ5SEpUMW56bHpMS3JHZ0wtVUZtVWxkMC05QXhVSl9SWHlGSnRST3NEYXlHclQ5T1FhTWV3TWJLdGE?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Structured Exercise Improves Fitness, Mood, and Inflammatory Markers in Metabolic Disorders - Bioengineer.org",
-      "desc": "Structured Exercise Improves Fitness, Mood, and Inflammatory Markers in Metabolic Disorders &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-26T02:09:34+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTlJiZWFYTEtvNGNZWF9qZ2p3RnhGdEl1MlVGSmtVaU9IY08yQjRpZTh2aHF3S3F6ald5Z1JfZjhQbmsxU1RxeVVycnlyYWlsMXpYYl93WWlrdjRSRUxzVXZxUVpaaWZwSUVEMkthQnpMeUU4R1pSYjRDZUZ5SEpUMW56bHpMS3JHZ0wtVUZtVWxkMC05QXhVSl9SWHlGSnRST3NEYXlHclQ5T1FhTWV3TWJLdGE?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3A4ZV81NWMyeFJnM29taVQ2NjNiZXJqQ1ZkODV3emRJQ1FJVk0zVmEzcTdrTUFIcWJSZG5PRHZ2ZmtTLTRSOWh5bVFzcWpFTno2YmtsZ3lPbjJpNG1NWmNPWjA3MW1peXlFdUFFb1ppRjBvaHJ1bnJhVS1JeGVsUTVoSEhTOS02cmhSNnI4M0ZZdEZFdVo5UGlKR2JSbzN5bVdfZjJXeFo?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1580,6 +1550,16 @@
       "date": "2026-11-26T02:04:32+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3A4ZV81NWMyeFJnM29taVQ2NjNiZXJqQ1ZkODV3emRJQ1FJVk0zVmEzcTdrTUFIcWJSZG5PRHZ2ZmtTLTRSOWh5bVFzcWpFTno2YmtsZ3lPbjJpNG1NWmNPWjA3MW1peXlFdUFFb1ppRjBvaHJ1bnJhVS1JeGVsUTVoSEhTOS02cmhSNnI4M0ZZdEZFdVo5UGlKR2JSbzN5bVdfZjJXeFo?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzZlZjRleGY2d1JyTXpkQkhDNVFpNjJPU3FNYkR3YkVIMWQydUZTd2dfeDBHQlo4dzBjTi12Ni1tY0gtVkFXTUoxWjZuc20zOGx3aDdEdnhZRmpwT0loVjh3OWFBQUMtUi1wMEQtR0NLQnhEVmloemxxYzRnMjhZa1BBbTBhRzQyZGc?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Sport, recreation stakeholders call for more funding as budget public hearings continue - Calgary Herald",
+      "desc": "Sport, recreation stakeholders call for more funding as budget public hearings continue &nbsp;&nbsp; Calgary Herald",
+      "date": "2026-11-25T20:35:36+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUzZlZjRleGY2d1JyTXpkQkhDNVFpNjJPU3FNYkR3YkVIMWQydUZTd2dfeDBHQlo4dzBjTi12Ni1tY0gtVkFXTUoxWjZuc20zOGx3aDdEdnhZRmpwT0loVjh3OWFBQUMtUi1wMEQtR0NLQnhEVmloemxxYzRnMjhZa1BBbTBhRzQyZGc?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ERkZfRHZYMnM2VkRiV2NHR0lfdmltVnlFNGdWRlFiWGJnTTNzQVMwYTFSbG4xQmxHQmhZV0ZjTkNodw?oc=5",
@@ -1612,24 +1592,14 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUGZPR1VFNGEwU1FWVDZMeTBwRW51UHYyVU5IYUh4ek5jbElibmNiRjZGOHNZLWhYNXVHMF9OUFdaUzFDV0xfbnQyLW9BbFVCRHlRaEFWdFlCTjl0cmFuMFdCUzNYc01ZSG9hSDB1NkpNZ1o0SVJ5QUExaXFDWVN6UkRnY2RpRU9jTEJpQUtVZjVWZGlRVXdsOXMzXzZqQnFqOUszTEpGSGJvVkQ4dW5rNDJGNHNyZHNSTGYzeWJqc2lTdW5fazdZR3NsWWNPNVY3THRmN05rNHIzMDRMSVg0Z2hDUm9XRFE3Y0tnVXBsLXF2cG1mbGxERkRNWlpvS3M5bWgzRGptSDFxcmtuWWJUN3VrZw?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWVCV1FmUWhjWDNsdmVZN2tuRVhsLWZnWkx0MG9XNDU0a3BHVlJNMkk4MmZ5ZXVoQ1A3Rjk2ZHRBeVRxQ1JDMXowVDZQdklQTC1kV295V2Q0Q1dERGtaTUZOMFBUSGhLTlhNbHp1UlA4TmdXenhEVEl0RnVvZnRoVjZyeGRFWDV1bU1xUGpOdW1WcmZqT3hCdXItT25rSUVqT243Mnh3?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing - US News Money",
-      "desc": "Artificial Intelligence Stocks: The 10 Best AI Companies | Investing &nbsp;&nbsp; US News Money",
-      "date": "2026-11-25T17:40:00+00:00",
+      "title": "Logistics M&A Buyers Screen for 5 Things in AI Software - shattered.io",
+      "desc": "Logistics M&A Buyers Screen for 5 Things in AI Software &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-25T17:46:29+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHFZQW0zOUM3ZVhtZy1HVEZmbXBSdlFubi1OYWFjSktBMEdlaks0NU84UmJaSTlyMF9tZkU0dERkdURhTzN2VVd0RkFhem15Q21POEpacUllc3p2cnZpRjdMRzV4ell1WGx0enhHc29IaVdHNE9hWjFoRDczY1l6ckwzLUJ0WFp2aGx1SGJOTkpycVRReVN0YVA5c2ZDMGxT?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSkNyZGJEVmJ0a0wtdXlQdFI2QXlTTnllblliNW5STHNCTzNyOVZjRW9hczdEcndRVkM0bHhVaUxBbm1Eay02WFNTWGczanNUV3JsbFNlQllfWmlCR3JBUHZjd2M2aXpzd0lheTFDc0dFQmd6S2lJ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Alexandria Unveils $117 Million Sports Complex Plan to Boost Economy and Expand Youth Opportunities - The Zebra",
-      "desc": "Alexandria Unveils $117 Million Sports Complex Plan to Boost Economy and Expand Youth Opportunities &nbsp;&nbsp; The Zebra",
-      "date": "2026-11-25T17:36:49+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwSkNyZGJEVmJ0a0wtdXlQdFI2QXlTTnllblliNW5STHNCTzNyOVZjRW9hczdEcndRVkM0bHhVaUxBbm1Eay02WFNTWGczanNUV3JsbFNlQllfWmlCR3JBUHZjd2M2aXpzd0lheTFDc0dFQmd6S2lJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWVCV1FmUWhjWDNsdmVZN2tuRVhsLWZnWkx0MG9XNDU0a3BHVlJNMkk4MmZ5ZXVoQ1A3Rjk2ZHRBeVRxQ1JDMXowVDZQdklQTC1kV295V2Q0Q1dERGtaTUZOMFBUSGhLTlhNbHp1UlA4TmdXenhEVEl0RnVvZnRoVjZyeGRFWDV1bU1xUGpOdW1WcmZqT3hCdXItT25rSUVqT243Mnh3?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUdRVnJ0Wm4tWXhLdE5DLXBPbFN4M0I4U3djd1NKZVBjUHE1RER6OTNfVUF6U2xNY0kzNmJqQmpjRVNBa181VUtzN2FsTVpkT09fUHR3ZmM3NXlIbkRKOTJwcFRTTk90LV9XQVdMSmVzcVN0TENCUzZzX3hLOWVKVDRQWTFIRnRuV0g0?oc=5",
@@ -1680,16 +1650,6 @@
       "date": "2026-11-25T14:54:28+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR2p4cXc5U3V4RTMtUmpsbkRhUXZhaXpFSWpuMFh6eGEweDVNclFOQ3ViV0tVUzl0a29MVWc4WFlacHRiV2F4TGtmMU43SEs4QktfNm9UaGpNelNVMnNfSkhOX19zUDBKcjJrR2dRTXpYYUs2XzZuU1dmNEt4MnhQZTJEbFp2aHdZQXV6MjE3WHRuaDFjZzN6ZGQ2VzBDM0dfMmRwUG9wM3hCY0x6andqNjJoWUxGSnpIMmxYSzF5cEpSRVQ1TDhfOGxHSUIzajBi?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzRKcndTdnF4Q1N5YmR3dE9pdWxMUkVSWi1qMlB6QW96a2h2anJnVE9ZUzlyOXgtYkdvUGx1MkFrM2xxZTlkNzZ6QjV5SEl4V05VWFJ4aGtKeDlEdGhPYUlnUWtHTGRRQmpoMVFKV0c2R0VTUHp6eDJvSWlQcTNnOXl2QkRLSF85d3lfSFMtekFHN2ZkU092SUMwLU9oMWl6Zm9F?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "AI Black Friday Shopping: 59% Plan It, Models Miss 42% - shattered.io",
-      "desc": "AI Black Friday Shopping: 59% Plan It, Models Miss 42% &nbsp;&nbsp; shattered.io",
-      "date": "2026-11-25T14:36:54+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUzRKcndTdnF4Q1N5YmR3dE9pdWxMUkVSWi1qMlB6QW96a2h2anJnVE9ZUzlyOXgtYkdvUGx1MkFrM2xxZTlkNzZ6QjV5SEl4V05VWFJ4aGtKeDlEdGhPYUlnUWtHTGRRQmpoMVFKV0c2R0VTUHp6eDJvSWlQcTNnOXl2QkRLSF85d3lfSFMtekFHN2ZkU092SUMwLU9oMWl6Zm9F?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWxzZWctQlAtS2VYRExoZjFjNWhiRHllUDJIS0V4ZHdod0pycEpjQVMydS1oYTlnTXRqSHQzcDVhRTZoSFpZcThaR0N5WkRUbkhPQXU5M255aTZZRmdYdWlVMzA2TkdwWnRrQnpBUjBqdUNhQy1ZNXRuN3VrNVFfc19RYUxOVHJF?oc=5",
@@ -1782,6 +1742,36 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmQtUGFlTGZnSXZmOWJtTVpoaUdWTkRyNDNrSlU5SXh3TWVMUk9XRGUyOUVOYjlmV19Oelc3VmVNVER2eHhHckJ2Rnh6MXByTGdUbm1YMlMtcUQ4T24xM2luVEZKZzQ5NUl1SFlZUmRxWng2X3ZKRlU0bHdsLWtXZ0xHaEtpOEo0T010bklVeUU4NjM5ZFVFZUtKWQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzloUmpweGxnZm9XbHhjaEpsdXp1ZzNKQVRzbnJtWFg1QUNpeDVMRXM0YUNzV3B2TmRDSmZJT3Fuak5hRFhhbW5wR3ZReXoxZC1lSlZld0ltTHEwcV82ZlB5VUdHQ1BsYTVFMzJ0WWYzMDBaOUNpWW9lb1prT0dnYzFJNmJEajRWOHJaNDAyX1lpYUQz?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Best AI Courses (2026): Udemy Online AI, LLM and AI Agent Courses Reviewed by Expert Consumers - Yahoo Finance",
+      "desc": "Best AI Courses (2026): Udemy Online AI, LLM and AI Agent Courses Reviewed by Expert Consumers &nbsp;&nbsp; Yahoo Finance",
+      "date": "2026-11-25T11:20:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNzloUmpweGxnZm9XbHhjaEpsdXp1ZzNKQVRzbnJtWFg1QUNpeDVMRXM0YUNzV3B2TmRDSmZJT3Fuak5hRFhhbW5wR3ZReXoxZC1lSlZld0ltTHEwcV82ZlB5VUdHQ1BsYTVFMzJ0WWYzMDBaOUNpWW9lb1prT0dnYzFJNmJEajRWOHJaNDAyX1lpYUQz?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRzUxNEx0THQ1S2pvVGFVbFp0Skx0X3ZuaVhCYV9xeTBMbXRmMDlJYTExcjFaRjA0RXlfYnhLX25FQURBUUpNREZXYXNZZER3QUpoVHVhVXd3RndXUHNJZEVnQUlldDVkZkd2Rk1XcFp4ckpoMm9taTRySzlTTnVOTEZRaFBLZUE?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "BlackSky Adds AI Analytics to Space-Based Intelligence With EpochGeo Acquisition - GovCon Wire",
+      "desc": "BlackSky Adds AI Analytics to Space-Based Intelligence With EpochGeo Acquisition &nbsp;&nbsp; GovCon Wire",
+      "date": "2026-11-25T10:58:59+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRzUxNEx0THQ1S2pvVGFVbFp0Skx0X3ZuaVhCYV9xeTBMbXRmMDlJYTExcjFaRjA0RXlfYnhLX25FQURBUUpNREZXYXNZZER3QUpoVHVhVXd3RndXUHNJZEVnQUlldDVkZkd2Rk1XcFp4ckpoMm9taTRySzlTTnVOTEZRaFBLZUE?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEFuRUxYdlhJdUUteVdqV3plajMwWmc5Nm83RXBZbDNvU01ETFppTTF5SXU3SUFfTWpVdDBUOF9fMmJyZHZUQ2t3NGtSTFpHTC1TZmtNbDJoTWRhU3VuWjJ6M3AtZi1jdThiX092cmFTZ3pqVHVmWFZoaU5GZUh6U0NNRWhzaHRhbnRuaVRFOWpVQnM?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Maple Raises $5.3M Seed for Privacy-Focused Cloud AI Agent - shattered.io",
+      "desc": "Maple Raises $5.3M Seed for Privacy-Focused Cloud AI Agent &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-25T10:26:46+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEFuRUxYdlhJdUUteVdqV3plajMwWmc5Nm83RXBZbDNvU01ETFppTTF5SXU3SUFfTWpVdDBUOF9fMmJyZHZUQ2t3NGtSTFpHTC1TZmtNbDJoTWRhU3VuWjJ6M3AtZi1jdThiX092cmFTZ3pqVHVmWFZoaU5GZUh6U0NNRWhzaHRhbnRuaVRFOWpVQnM?oc=5"
+    },
+    {
       "id": "https://yle.fi/a/74-20258833?origin=rss",
       "cat": "Tampere",
       "icon": "🏙️",
@@ -1812,16 +1802,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR05oejU3d2M5NVRjaG1KQzM5Mm5QM20wQUxNVHluT21VM01ibmtrVjlobEZWWWJmOXhsbERSZ1hucDVwSTRtb2cyZmN5V0U2Zm8yd0t5TUFaTXBNQ3hHdktxbHJJZmZrUmdIa3p1dE1WNFBpS184R1ZLeExhbVJ5LU9ZaS1JVzRUcFVTRHUtN0MtRHhHSTRQbWlUX3BxQQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "OpenAI | ChatGPT, Sam Altman, & Microsoft - Britannica",
-      "desc": "OpenAI | ChatGPT, Sam Altman, & Microsoft &nbsp;&nbsp; Britannica",
-      "date": "2026-11-25T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ba1QyTkx0cjRqbWxxX2ZPbmpGSmpBU2lkNEdpcXRWa09JNjRkZEswMk8zcFFDbFA1dGJ3LV9KUU96RkRJUjZ1WU1GWnNRVGw0?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlRLZkhMS1hmTDMyY3dVc2FTQXN1Z0VUZkhDU0E4TkpmOWZzZEdhWU5jbWEyQnFPUE9PS05iNDZ4UmQ2MWhZSWVHQVlSU0FRbXAzMVkxWlRjM3VUTjdiZEtfcFkxa1BoeUtVcUp2TzFsVEtiZk1NcldNdy11RnBYY29OdEdldHlEUXFDZ1BWRlpZV0xjbW83SDZseGFBWDRwUlVYMzVtSnNCVUp2bXpwdTlTQURDNzRm?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1832,26 +1812,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSlRLZkhMS1hmTDMyY3dVc2FTQXN1Z0VUZkhDU0E4TkpmOWZzZEdhWU5jbWEyQnFPUE9PS05iNDZ4UmQ2MWhZSWVHQVlSU0FRbXAzMVkxWlRjM3VUTjdiZEtfcFkxa1BoeUtVcUp2TzFsVEtiZk1NcldNdy11RnBYY29OdEdldHlEUXFDZ1BWRlpZV0xjbW83SDZseGFBWDRwUlVYMzVtSnNCVUp2bXpwdTlTQURDNzRm?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVlNV2t2MkxXVTR0MHdzSFJtUkEzZTU3OE9pVlBTbThoTUdxRzNUODFBQndOUGFJbURNT25URE9iMDRYQWtkYUsza0lWOHh5Y2ZTN1J0WkxkdjNEcHF2TEo3VnFDRkpCSF8tV0JzZHpPaUlvd1Jac2Q2OV9FTkRYNl9JS2JTVl82SkxnRA?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Hot Springs board approves land purchase for sports complex - Hot Springs Sentinel Record",
-      "desc": "Hot Springs board approves land purchase for sports complex &nbsp;&nbsp; Hot Springs Sentinel Record",
-      "date": "2026-11-25T01:30:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVlNV2t2MkxXVTR0MHdzSFJtUkEzZTU3OE9pVlBTbThoTUdxRzNUODFBQndOUGFJbURNT25URE9iMDRYQWtkYUsza0lWOHh5Y2ZTN1J0WkxkdjNEcHF2TEo3VnFDRkpCSF8tV0JzZHpPaUlvd1Jac2Q2OV9FTkRYNl9JS2JTVl82SkxnRA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTAtWnVUMV9MS2pnNDhTYkpMOWVwMVlQT3l3VlE1cEdYTG5TZkdIOVdqWWFVVUIzY2JOOVpFdWl2SnZOOXV1VFR1UlpDQjNPRFF3Z254LVo0Y2RMS3c1R0h6enh5TjRzbmd5OUptTWxIYjIwWXNTckNJNkN4Zm1nVHZxLTYzWHpTN01FU0N0MjVTcGlvVVQySVJVdU9MS2JKeVM5MTV5bDE?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Developer seeks TIF incentives as $6 million youth sports hub targets downtown Alton - The Business Journals",
-      "desc": "Developer seeks TIF incentives as $6 million youth sports hub targets downtown Alton &nbsp;&nbsp; The Business Journals",
-      "date": "2026-11-24T21:15:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTAtWnVUMV9MS2pnNDhTYkpMOWVwMVlQT3l3VlE1cEdYTG5TZkdIOVdqWWFVVUIzY2JOOVpFdWl2SnZOOXV1VFR1UlpDQjNPRFF3Z254LVo0Y2RMS3c1R0h6enh5TjRzbmd5OUptTWxIYjIwWXNTckNJNkN4Zm1nVHZxLTYzWHpTN01FU0N0MjVTcGlvVVQySVJVdU9MS2JKeVM5MTV5bDE?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmJLS1JTMkJjVVVKeEo1ZHgzS09kN1Q3b3pTc2IwVUdld1VQTEREQUJjb29uODdnTXVBNkFmekRJVVFINXNOZXB2eS1uQjAwVzJwX0dDSUtWa3NIaEtuT25UcE5qUk1MYmU2WUtGV0VSUlNNZFVwbFRDOFVvQVNNcGlEbDBHcHNVWm1ScUNkczd0dk00UDNz?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -1860,6 +1820,26 @@
       "date": "2026-11-24T19:18:06+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmJLS1JTMkJjVVVKeEo1ZHgzS09kN1Q3b3pTc2IwVUdld1VQTEREQUJjb29uODdnTXVBNkFmekRJVVFINXNOZXB2eS1uQjAwVzJwX0dDSUtWa3NIaEtuT25UcE5qUk1MYmU2WUtGV0VSUlNNZFVwbFRDOFVvQVNNcGlEbDBHcHNVWm1ScUNkczd0dk00UDNz?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcG1fZmQ5S2tZUl9ndWdqNWhpZXZxRDFPN0hDdkxrZjNaX3huUlVGbndmRFVsQlBCVlFjbmloenYzaFhVbG9oYXRKaDVQNFRqOU1wb2VoaVlDN1VOVXF3VTJ4cGU?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Faculty Position in Artificial Intelligence + Engineering - The Journal of Blacks in Higher Education",
+      "desc": "Faculty Position in Artificial Intelligence + Engineering &nbsp;&nbsp; The Journal of Blacks in Higher Education",
+      "date": "2026-11-24T19:04:43+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rcG1fZmQ5S2tZUl9ndWdqNWhpZXZxRDFPN0hDdkxrZjNaX3huUlVGbndmRFVsQlBCVlFjbmloenYzaFhVbG9oYXRKaDVQNFRqOU1wb2VoaVlDN1VOVXF3VTJ4cGU?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkX0Y3U0JFMmxGMEVJQ1RsNGRDVjM3eEY0emZUNmlEWGdBazlpU29mNzFIa0IwQlFqRXlWZTF5QzY0OTJ6VXgzN3BONlpoLVFRa0wyN2ZjRVowb2Vn?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "PolyU study uses machine learning to predict restaurant survival from online reviews; helping industry spot risks early and build resilience - EurekAlert!",
+      "desc": "PolyU study uses machine learning to predict restaurant survival from online reviews; helping industry spot risks early and build resilience &nbsp;&nbsp; EurekAlert!",
+      "date": "2026-11-24T16:44:21+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkX0Y3U0JFMmxGMEVJQ1RsNGRDVjM3eEY0emZUNmlEWGdBazlpU29mNzFIa0IwQlFqRXlWZTF5QzY0OTJ6VXgzN3BONlpoLVFRa0wyN2ZjRVowb2Vn?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYeWNCTXFvVEtLZGRSWFBVSmJ4TEdDT3pmaHk2WHhyd19zeUxwcGx4cWtqTGh4S0phWWoyUUM2eUEzYmhrdkJSRy1FQ0ZKZXprOWhMcW5uRlBMS0FK?oc=5",
@@ -1892,16 +1872,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcWFnZXN1XzlacXg1bk5HeEdoNjd0NzFwazk4QzU2eFpBUmc0eWxuUVhvazhzblRTckY3M2hHTTlfSW52N3NMbGtBZUZYODkwT0lncnBGWktOM3J3MWt2SmRhR1EwY1RfY2VEOVNXeUlZek9ZZlFFRnRscmdpeEViRmNaa1YyVUEyYlhOMlV2V2l1UURvMzJtX3B6TmRqenlfMzFicC1LYmN5RDZRd0hvVjl0TF9ObkZTUFF4a3dYWXZCNENXbUwxbnYzV0JsVGcwQjVhRHVGZFJrR0N4UXBwSHZ2S045RWwtUUYwekNVMVVXczg?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnJkdS13QjZoRkRmN2VrdmQyRDdsMy1uSzNJWERYbGxTUTdTSUlVLVJIdTdVR2hPQlVYZkt2dmthYk9zZGxDRjFsUm5oQlI1UldIYnFzeUNUZGU0ZXdUX3pRZUtjTzh4cUlqMGxqcTQxNG9DZWFpb28xc2pta052Q0xsYllsbTZKTERuS25RTVpoSE56SU1adjlrSDZ5VmxtZE5WTVBHUnZ0U2lkWVRXNA?oc=5",
-      "cat": "Tutkimus",
-      "icon": "🔬",
-      "title": "Scoping Review Maps Structured Exercise and Sleep Outcomes Across Neurologic Disorders - Bioengineer.org",
-      "desc": "Scoping Review Maps Structured Exercise and Sleep Outcomes Across Neurologic Disorders &nbsp;&nbsp; Bioengineer.org",
-      "date": "2026-11-24T15:22:56+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUnJkdS13QjZoRkRmN2VrdmQyRDdsMy1uSzNJWERYbGxTUTdTSUlVLVJIdTdVR2hPQlVYZkt2dmthYk9zZGxDRjFsUm5oQlI1UldIYnFzeUNUZGU0ZXdUX3pRZUtjTzh4cUlqMGxqcTQxNG9DZWFpb28xc2pta052Q0xsYllsbTZKTERuS25RTVpoSE56SU1adjlrSDZ5VmxtZE5WTVBHUnZ0U2lkWVRXNA?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJLYm82Rnd1XzNPb25Na2pEZGNCbW9Ocm5PUm10Vm85eWF3SFFZdkZweDhkanJkV2VOTkdVak9RQnp6Z0dvYlB0SXpadG9XRjI0clZFUmVuYTdXRGRkdE5Zd2lrYXBiSkVVcVNBZk1rUjlIY3RNbFBjN3Y4Q0UzZDlWSjdUaHpsQ28zMFNQNFlxamdUQ0tBb3pYVEczV2dYRWoxMzZxNEdyZTVLbHpJeU96Y0twbWN4ZEgyUUFyLW15S0RseE9jTQ?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -1910,6 +1880,26 @@
       "date": "2026-11-24T15:20:00+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJLYm82Rnd1XzNPb25Na2pEZGNCbW9Ocm5PUm10Vm85eWF3SFFZdkZweDhkanJkV2VOTkdVak9RQnp6Z0dvYlB0SXpadG9XRjI0clZFUmVuYTdXRGRkdE5Zd2lrYXBiSkVVcVNBZk1rUjlIY3RNbFBjN3Y4Q0UzZDlWSjdUaHpsQ28zMFNQNFlxamdUQ0tBb3pYVEczV2dYRWoxMzZxNEdyZTVLbHpJeU96Y0twbWN4ZEgyUUFyLW15S0RseE9jTQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUpkNFAtMGlNTWFPR2VaWG5fempuRFM2X3pWeWZSbDNYMzduVk5Nci0wcXFJaUNSeXVlcWhucnBTUnE5TmdUVU4zeDNuTjg1RFR3c0hXeFRtdlZ5NFZVcmxuemxPUUc4dExSeUJ1YWJGRUJRYmRCX3haMzdna2ZrUUk0SjRfak80am5UM0pFQ2gyaHM0dGZSam9KVQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "OpenAI, Anthropic Safety Alarms: 2 Dozen+ Sources Cited - shattered.io",
+      "desc": "OpenAI, Anthropic Safety Alarms: 2 Dozen+ Sources Cited &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-24T15:06:22+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUpkNFAtMGlNTWFPR2VaWG5fempuRFM2X3pWeWZSbDNYMzduVk5Nci0wcXFJaUNSeXVlcWhucnBTUnE5TmdUVU4zeDNuTjg1RFR3c0hXeFRtdlZ5NFZVcmxuemxPUUc4dExSeUJ1YWJGRUJRYmRCX3haMzdna2ZrUUk0SjRfak80am5UM0pFQ2gyaHM0dGZSam9KVQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdERlYnBTelN5cEZkTDRsYlVFZ0dSaGpwNE5vVTlNaUtKXy1zWWZ1YnVMQ1pwbmZaVlgxeWIxYVI1ZC11bWJzNk5TMS0wZ25KVHBzMTBHUGdqZlhwcWJEUVE5T3NrSXY4MWtHUzJ0b3Nmd0xITk8yTFFCODNlOXpPMFlFM3pqVHpGY1RSckFYaXl6RG5Lb05fTlhxSnNlWFlDNmpyMFlldy1Gd3Y0?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Operator survey: AI RAN delivers immediate operational value - Light Reading",
+      "desc": "Operator survey: AI RAN delivers immediate operational value &nbsp;&nbsp; Light Reading",
+      "date": "2026-11-24T15:02:11+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdERlYnBTelN5cEZkTDRsYlVFZ0dSaGpwNE5vVTlNaUtKXy1zWWZ1YnVMQ1pwbmZaVlgxeWIxYVI1ZC11bWJzNk5TMS0wZ25KVHBzMTBHUGdqZlhwcWJEUVE5T3NrSXY4MWtHUzJ0b3Nmd0xITk8yTFFCODNlOXpPMFlFM3pqVHpGY1RSckFYaXl6RG5Lb05fTlhxSnNlWFlDNmpyMFlldy1Gd3Y0?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORDdYTlZ5U0o5TVVDOHM1Wkh0MzFJeU92dXkxdm9GVjJjczBHSi16SE9KMWRoazBKYW5Ja1dXRFRlX2pDaG5rcXlGN19yRk5HWkNha3RaVlpYLU12MGowN2hCZWhTZ2ViVERjQkVTVTRjblY2RE5ZbmdUYWxhbzY3eWNua0JpR0JuSnNfLW5KbThJSGF3M2ZKNjVmMTYzaEo2TEloWGNNSHBRcXVWMG5Yb3dGdWtpdTVEMm51WGNaNHIwLV9nMEgwTEJDZVk5YzBSN293RDAwTHJmZUgwdTlnMGpualpVcUxlZzBrRU9WeWY5OFNLblVDX0RkMjR2YkliVk9wRDRnaVhrcy1veU1vWHhmWE5rbHdEcFZDM3ZpMmVFUlRCNzhxWkhHcVJzajdZ?oc=5",
@@ -1922,14 +1912,14 @@
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxORDdYTlZ5U0o5TVVDOHM1Wkh0MzFJeU92dXkxdm9GVjJjczBHSi16SE9KMWRoazBKYW5Ja1dXRFRlX2pDaG5rcXlGN19yRk5HWkNha3RaVlpYLU12MGowN2hCZWhTZ2ViVERjQkVTVTRjblY2RE5ZbmdUYWxhbzY3eWNua0JpR0JuSnNfLW5KbThJSGF3M2ZKNjVmMTYzaEo2TEloWGNNSHBRcXVWMG5Yb3dGdWtpdTVEMm51WGNaNHIwLV9nMEgwTEJDZVk5YzBSN293RDAwTHJmZUgwdTlnMGpualpVcUxlZzBrRU9WeWY5OFNLblVDX0RkMjR2YkliVk9wRDRnaVhrcy1veU1vWHhmWE5rbHdEcFZDM3ZpMmVFUlRCNzhxWkhHcVJzajdZ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZ4cnBjODNXdXoyYWFfQ1k0LVVjRERXNXZXOHoza0RlR2p4RTRoUmxZdDd2V2hKeHpSdUVGandZM2E0VFVpdWhkYVBETFZ1Q1pOX2hSSFVHQ0ROVEV6SkloSEwwaWhKZlAxMXpuTF9Ea3otdmdURTNhMU11ZEpVYm1iMF80aHhtQWNaUmZ5dld3eTBrVXc?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVUzaDJxZHZVaHZZdmFaYk9xZGdVa3JfMjRGaVFGa2oxQmZpRkZPNzlaZW1EX1l3cjBqaHRiSXVuMGxaVThjc052WVhZNkROdEd2Q3BCRGJjNnpEbXdlTjY4M20yaWNoWkgyRk5hXzZ3YWo0LVpSVGJRZTc4SGs0T2VEX2xqSWU5MjJjc3lyRUpTVnI0?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
-      "title": "Meta-pomolta varoitus – Tekoäly voi riistäytyä käsistä - Kauppalehti",
-      "desc": "Meta-pomolta varoitus – Tekoäly voi riistäytyä käsistä &nbsp;&nbsp; Kauppalehti",
-      "date": "2026-11-24T14:30:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYnZ4cnBjODNXdXoyYWFfQ1k0LVVjRERXNXZXOHoza0RlR2p4RTRoUmxZdDd2V2hKeHpSdUVGandZM2E0VFVpdWhkYVBETFZ1Q1pOX2hSSFVHQ0ROVEV6SkloSEwwaWhKZlAxMXpuTF9Ea3otdmdURTNhMU11ZEpVYm1iMF80aHhtQWNaUmZ5dld3eTBrVXc?oc=5"
+      "title": "Ex-Imperva Founders Raise $10M Seed for AI Agent Security - shattered.io",
+      "desc": "Ex-Imperva Founders Raise $10M Seed for AI Agent Security &nbsp;&nbsp; shattered.io",
+      "date": "2026-11-24T14:01:21+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeVUzaDJxZHZVaHZZdmFaYk9xZGdVa3JfMjRGaVFGa2oxQmZpRkZPNzlaZW1EX1l3cjBqaHRiSXVuMGxaVThjc052WVhZNkROdEd2Q3BCRGJjNnpEbXdlTjY4M20yaWNoWkgyRk5hXzZ3YWo0LVpSVGJRZTc4SGs0T2VEX2xqSWU5MjJjc3lyRUpTVnI0?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/24/rantaperkiossa-muutoksia-kulkureitteihin-2711-pyorailyn-seudullinen",
@@ -1982,24 +1972,34 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/24/hopinatottero-on-lasten-pirkkaset-kulttuurikuukauden-kiertava"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1paY0FEYkpiOEVUcUM5Z3NPbnVwVFlXQVJaVGM3RkExNmVyMHhGaGNNRFJqbHhWV2hwS29HQVhCWTNxOFE5bXVya2hCY2xWOGJaYUc1Q2MxbXJDS3d3RGZ3Z3JZY3k1dERybE1rWGd3ZGZDRFV0S2xYcjlwMkFNUzhRMzJjSlloT1NIRVFWc3ZkX0xuM1JKcFVTb0JQOFFmRjZadEVmYw?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Mitä kannattaa opiskella, jotta tekoäly ei vie töitä? 11 min 24 s - MTV Katsomo",
-      "desc": "Mitä kannattaa opiskella, jotta tekoäly ei vie töitä? 11 min 24 s &nbsp;&nbsp; MTV Katsomo",
-      "date": "2026-11-24T05:15:00+00:00",
-      "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1paY0FEYkpiOEVUcUM5Z3NPbnVwVFlXQVJaVGM3RkExNmVyMHhGaGNNRFJqbHhWV2hwS29HQVhCWTNxOFE5bXVya2hCY2xWOGJaYUc1Q2MxbXJDS3d3RGZ3Z3JZY3k1dERybE1rWGd3ZGZDRFV0S2xYcjlwMkFNUzhRMzJjSlloT1NIRVFWc3ZkX0xuM1JKcFVTb0JQOFFmRjZadEVmYw?oc=5"
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "New York - Sports, Recreation, Outdoors - Britannica",
+      "desc": "New York - Sports, Recreation, Outdoors &nbsp;&nbsp; Britannica",
+      "date": "2026-11-24T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0QUZFYnlfcmV1aFU2dngyMWVDaDUzc3BGdzJBWHFQcTFVUWdBY3Q4X1RCVGJOamtwU05ObHZTdWNyX0VQNmV2d3lpS2VqU1ZBWUZXZlVQQWtiVDA4NXJXcnhEUEEwZExnd3ZDYUtCZGJoNGNRODBibQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHN2amZpWndZRmNNaDhzVEFtRmFDZlc0OTRoSThGZXhOcm9rdVUwcmxlXzljNjllTU5XZXlQd1F3cFl1Z2dEc1d0eFByTXRqWkFJaTF1QUN1VXdoclYydGowNVRwY21lWUFEbkE1ZUVUWVFld1kyY1VwQlNSamplWGNjUU9tX1NxZVpVUHdsZFl6S1B2R3c?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QV3ZWN3hfR0JGVjg1eGx3bjM2UXlMQWtXVGh5UWpXU3E1Q1YyTU9tYmNTVHRhNzRvakxjLTV0aEc5dHcxd2g4U1NrUk0tTjF3V09rNVo2WXZpZzNHZWpacmNhbzlGdS03N0hHUVRtaGlCeEpxdWpNcjFtaWlMbkU?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "7 Ways Hosting the Olympics Impacts a City - Britannica",
+      "desc": "7 Ways Hosting the Olympics Impacts a City &nbsp;&nbsp; Britannica",
+      "date": "2026-11-24T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QV3ZWN3hfR0JGVjg1eGx3bjM2UXlMQWtXVGh5UWpXU3E1Q1YyTU9tYmNTVHRhNzRvakxjLTV0aEc5dHcxd2g4U1NrUk0tTjF3V09rNVo2WXZpZzNHZWpacmNhbzlGdS03N0hHUVRtaGlCeEpxdWpNcjFtaWlMbkU?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRpZW1kUllMOXVIcUlRcjJaMUVEQ1pnZjhaR3cyR01DbWgxX2FJMzNjOWN6V3EyNFY0UlliX0FHX3lmMU9Fc1BiZVJzRTIydE9xUVFGYVlmU3R0MnpLVU5iNHNjTzdsVE8xOE9MMFhJMUZWLXhwZzFiZHU1RldzMHBwWmQxaWJtVE1iSTVuNThkcUV1ZS00?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
-      "title": "OpenAI AI Development Limits Plan After Anthropic IPO - shattered.io",
-      "desc": "OpenAI AI Development Limits Plan After Anthropic IPO &nbsp;&nbsp; shattered.io",
-      "date": "2026-11-23T21:36:13+00:00",
+      "title": "T-Mobile pushes ahead with AI-RAN toward 6G - Light Reading",
+      "desc": "T-Mobile pushes ahead with AI-RAN toward 6G &nbsp;&nbsp; Light Reading",
+      "date": "2026-11-24T03:07:08+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcHN2amZpWndZRmNNaDhzVEFtRmFDZlc0OTRoSThGZXhOcm9rdVUwcmxlXzljNjllTU5XZXlQd1F3cFl1Z2dEc1d0eFByTXRqWkFJaTF1QUN1VXdoclYydGowNVRwY21lWUFEbkE1ZUVUWVFld1kyY1VwQlNSamplWGNjUU9tX1NxZVpVUHdsZFl6S1B2R3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRpZW1kUllMOXVIcUlRcjJaMUVEQ1pnZjhaR3cyR01DbWgxX2FJMzNjOWN6V3EyNFY0UlliX0FHX3lmMU9Fc1BiZVJzRTIydE9xUVFGYVlmU3R0MnpLVU5iNHNjTzdsVE8xOE9MMFhJMUZWLXhwZzFiZHU1RldzMHBwWmQxaWJtVE1iSTVuNThkcUV1ZS00?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkNzSmI3clZpbkZDa2hPWF91NF9saEYyZVdhSXhCSFRCRFhHeGhEUGtKWlNuc1doaE1MOElCdWVpMHg5eXpjZVdoaXlxWkN4R2syY21JNGFqN1UxeXFJYWIyUEx5aGhpdzRKTWh3?oc=5",
@@ -2010,26 +2010,6 @@
       "date": "2026-11-23T18:45:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkNzSmI3clZpbkZDa2hPWF91NF9saEYyZVdhSXhCSFRCRFhHeGhEUGtKWlNuc1doaE1MOElCdWVpMHg5eXpjZVdoaXlxWkN4R2syY21JNGFqN1UxeXFJYWIyUEx5aGhpdzRKTWh3?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamE5SFRBMVZjT1dsNDhZZ3JRcHlDSTczZk5JZjI0akZqcFg1RjVOOVF6elQzcHd2Z00zTUp6Rm40cHBGQjViY1pIRkdBTlFXUjEzYTFkbEZBRjM2R1V3R3AwbnRjaFhORXRnb1VTSmpHYjY3dE42M3ZWZFlfTFY4bWtkbGM0TGZwbjF2clQtNENKWEM1VUMybEVyMWVWOGNyTUtBR0hWZlduLUdhR2g0UHQ0RQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Innovaccer integrates Grok Voice into Gravity Voice AI agents - Fierce Healthcare",
-      "desc": "Innovaccer integrates Grok Voice into Gravity Voice AI agents &nbsp;&nbsp; Fierce Healthcare",
-      "date": "2026-11-23T18:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamE5SFRBMVZjT1dsNDhZZ3JRcHlDSTczZk5JZjI0akZqcFg1RjVOOVF6elQzcHd2Z00zTUp6Rm40cHBGQjViY1pIRkdBTlFXUjEzYTFkbEZBRjM2R1V3R3AwbnRjaFhORXRnb1VTSmpHYjY3dE42M3ZWZFlfTFY4bWtkbGM0TGZwbjF2clQtNENKWEM1VUMybEVyMWVWOGNyTUtBR0hWZlduLUdhR2g0UHQ0RQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ2t4N0NoMHRVMldoRGR2dGJQaUFLSGpOMnRqQmtwN3E4V3k0dE1ILUYtRjR1eUFIX215OHlRTmZRTEZHd0tXdWd6aHByd3FHWHlYcnhWTWJjSzRlZFk5emNrQVJ5Q243bE93RGprc25vbnRNd0d5Q2FrMG9FcGs5eFY3SXZsbzFLbEczaWFNV0ZQbldpT0VjQjVXOGtuSXlmNjd3TzMxMWttOE5GandEOHNZNGxtbUdVU3NoZWxNMUVpelNXQllHY0RwWTBuMldZc3loa25TbFhpd1lLYWRKWE9sdUxjV01rMWVuZUtmOUhtczZrVDhJOUZzTkVsZlRBbDgyVHZZdw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Paterson Unveils $1.36 Million Little Larry Doby Field Renovation, Connecting Baseball History With New Generation - TAPinto",
-      "desc": "Paterson Unveils $1.36 Million Little Larry Doby Field Renovation, Connecting Baseball History With New Generation &nbsp;&nbsp; TAPinto",
-      "date": "2026-11-23T17:56:34+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ2t4N0NoMHRVMldoRGR2dGJQaUFLSGpOMnRqQmtwN3E4V3k0dE1ILUYtRjR1eUFIX215OHlRTmZRTEZHd0tXdWd6aHByd3FHWHlYcnhWTWJjSzRlZFk5emNrQVJ5Q243bE93RGprc25vbnRNd0d5Q2FrMG9FcGs5eFY3SXZsbzFLbEczaWFNV0ZQbldpT0VjQjVXOGtuSXlmNjd3TzMxMWttOE5GandEOHNZNGxtbUdVU3NoZWxNMUVpelNXQllHY0RwWTBuMldZc3loa25TbFhpd1lLYWRKWE9sdUxjV01rMWVuZUtmOUhtczZrVDhJOUZzTkVsZlRBbDgyVHZZdw?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/23/kanjonin-uuden-koulun-ja-paivakodin-rakentaminen-alkaa-kevaalla",
@@ -2050,16 +2030,6 @@
       "date": "2026-11-23T16:06:01+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4eUw0RlB0aXFXZDRjTlFjMmE4WktsQ3o5a3o0UWNrNDhtUm1wZUtjUEhOYmJ3LWVuS1g0MG0wY2djdGlyT0tod3NhVGV5UkJaSWU5cm43b3pvaVV1WldIMU1XMTRTSlNKN3Zna05wT2NMdG1jOEtMazRGT1E0UQ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODBFMl9mM0Jsa0Rxa1JRQU04MzBBc2QzWlAzS0RlcWYxV0FlWmJxSmFIMTNydzBxb1pkTWM1SmdHVTV4N1BFenBOUHB5Q3h4SzJVaTVSRUl2c0ViZXZnVVRyc1BFQlNsZVNPYlNEdzZ1YkhQLVBnbE1pY2c5RThrSnVzeTE?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "AI Pulse Check: Machine Learning Boosts Yield 12% - PharmTech.com",
-      "desc": "AI Pulse Check: Machine Learning Boosts Yield 12% &nbsp;&nbsp; PharmTech.com",
-      "date": "2026-11-23T15:59:59+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNODBFMl9mM0Jsa0Rxa1JRQU04MzBBc2QzWlAzS0RlcWYxV0FlWmJxSmFIMTNydzBxb1pkTWM1SmdHVTV4N1BFenBOUHB5Q3h4SzJVaTVSRUl2c0ViZXZnVVRyc1BFQlNsZVNPYlNEdzZ1YkhQLVBnbE1pY2c5RThrSnVzeTE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2w4LWx5RmRzaDgtOG9iaHV1Ukt3WXBYR0ZJVERUQktoZDE3cVhTcmpZNHRWMnh6SUg1T1A0QTlKWmcxYm9WVXZ5ZEIzOWViWV81ckl2YzFYS0gySGwtTWdkZkRBVFp5N29VZjJJakJSTjMzM3hZbl9YbDMwYmY5UTRDOXVoLWhySkx6RHoyZ2hfQ1BnUzZVeXVVU05YRktJNDZPT2xKT20wbFNjWk9HNmp5cU5MSm5mRS1RUA?oc=5",
@@ -2092,16 +2062,6 @@
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaUzRSRmpFOUlBek9sQ3ZDUU5Zem5KaFdGUUxOMnBUbW5lLXhkSDVVRGZJaGFBLXg1eUdaN19JVDNkZw?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWttMlVXUk9xdmtxSTk1akRoOXdqZEFmbkFqZFNOb2VUOVpraWR4X081cFFpa0RJNlQySXBqSmFRdlRvSEdWY3E3clVNYXRRX2FBTVVGVUNtek9qZjJLWXBoV094UE1ET0I3eHVVWmdSamdhTFBuMlFFQldsTzNIa29EMDhGbG1uNmNXTHNZVUQ3T1ZUOGotVkRmMEpxX2JvUVgxd2dzd0NIbW51NUdiZnEzRjVncHZfOEQ2R2dIcjFCMFVRRTh4eU54Rm83S2s2bHc?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Oracle Academy guest lecture explores machine learning in practice at Middlesex University in Mauritius - Oracle Blogs",
-      "desc": "Oracle Academy guest lecture explores machine learning in practice at Middlesex University in Mauritius &nbsp;&nbsp; Oracle Blogs",
-      "date": "2026-11-23T12:37:25+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWttMlVXUk9xdmtxSTk1akRoOXdqZEFmbkFqZFNOb2VUOVpraWR4X081cFFpa0RJNlQySXBqSmFRdlRvSEdWY3E3clVNYXRRX2FBTVVGVUNtek9qZjJLWXBoV094UE1ET0I3eHVVWmdSamdhTFBuMlFFQldsTzNIa29EMDhGbG1uNmNXTHNZVUQ3T1ZUOGotVkRmMEpxX2JvUVgxd2dzd0NIbW51NUdiZnEzRjVncHZfOEQ2R2dIcjFCMFVRRTh4eU54Rm83S2s2bHc?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UjZaT1Z6ZlRja0N0YmdpTUNqZWwzdm1rSUU5YnNBaUhEVjlHclR0ay1BYk56WmxQd3hYZTUyY1VVSmlPaVViTzBqMFF2alUwTk9PVXdyenM0MU41RWtZ?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2110,16 +2070,6 @@
       "date": "2026-11-23T12:19:14+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05UjZaT1Z6ZlRja0N0YmdpTUNqZWwzdm1rSUU5YnNBaUhEVjlHclR0ay1BYk56WmxQd3hYZTUyY1VVSmlPaVViTzBqMFF2alUwTk9PVXdyenM0MU41RWtZ?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tbkYxcmNfY2o2b3lFQk8yUlBjaklOdWs3Y2prMkYwc01NcHhTVU1Pc1pBM0poaVFNRkFRWWpMUHBBcjRjc1BMM2xFb2dNVTNQRjFsU0FuX3NfMmZ2MHJyXzliNGVJc0IyWFZqWG40ZDdmN28?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Artificial Intelligence at Amgen – Two Use Cases - Emerj Artificial Intelligence Research",
-      "desc": "Artificial Intelligence at Amgen – Two Use Cases &nbsp;&nbsp; Emerj Artificial Intelligence Research",
-      "date": "2026-11-23T11:01:02+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tbkYxcmNfY2o2b3lFQk8yUlBjaklOdWs3Y2prMkYwc01NcHhTVU1Pc1pBM0poaVFNRkFRWWpMUHBBcjRjc1BMM2xFb2dNVTNQRjFsU0FuX3NfMmZ2MHJyXzliNGVJc0IyWFZqWG40ZDdmN28?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/23/pirkanmaalla-otettu-kayttoon-uusi-hyvinvointilahete-ikaantyneille",
@@ -2152,16 +2102,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGtxZnd6SVVPN3FreEx6cFRBSE9YZk5kZEliNUdqRjZwcFpmejhWUEEyZlIyUFh3SUtBLVlPRVhISmFnN2xaUzZsQjNiQXVMaTBOODF5czN6MEtaMkJLUGw3R21KbGZVcUN3RHM2MFdjdWtsQk5MMXdodGR6dUJVdDhMMlFySVFTaEpXTGNyT2ZoU0s2X2ZhX1JFSDZEVTNOT3ZWV0ota0FacFBMaXQ3RnVzMA?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ekdfUDFkSFd6azRmWHN4ekk4cFNlSEdIRF9LQmFzLW1Bb3pfeHYzODFqTXZ0TkE2NFZzYUV0TzlGTms5VjlYYUhXWGhrMUJUOTk5S3FHamdBQQ?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "20+ Healthcare AI Use Cases with Examples - AIMultiple",
-      "desc": "20+ Healthcare AI Use Cases with Examples &nbsp;&nbsp; AIMultiple",
-      "date": "2026-11-23T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80ekdfUDFkSFd6azRmWHN4ekk4cFNlSEdIRF9LQmFzLW1Bb3pfeHYzODFqTXZ0TkE2NFZzYUV0TzlGTms5VjlYYUhXWGhrMUJUOTk5S3FHamdBQQ?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CWWpoTVJlRHJiUWNjLVowTkFYeWw2Nm5NeTBoVjZFZlI2cmZGdXA2eUZrSjdzM2FFWEU0TlJZaXdQWmZERGI5N3A3enNqSjl5akpKMXlNYVVnQXBsNWNWM2FsNDBJYm0tdmVNSTRXb1M?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2180,6 +2120,16 @@
       "date": "2026-11-23T07:29:56+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBbUhjZmplTlc0SU52NFJfeE9TaVhBTWxxbHRINU5qZ3VzSWNiX3ZYQzA3TVBFc0FZemtxelF6VmpqN1A0TkJIY1dxUnpYVnQ0RWVINlRQVVVfRWFDRWZSeDFnRVhvLTRQNFdmNjg2WnZXRzY2?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWF9OaXh0a29zQnVsSUFMc3ZkSjFRZFRIcjN6SkM5N1RBMnBXamRKS0dWUDlSVU43MFM4bFYtTVF1TjdHcm04UTlONXdDc2dGNWNpQ2FzS2ZoYnBJZEozZEJkdFJ6MThNRkNTMWFwdG8yMnMtRzdlNWhvX2U3TXdnMF9RVEkxVF80UTdNU21Pd2ctNGZIMEVpOEVrQlgxZDhiWExuMW1OdDUxa2ItVUtIRHVnVU1BaW9Y?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense - MIT News",
+      "desc": "AI-driven technique could help engineers design analog chips faster and with less expense &nbsp;&nbsp; MIT News",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWF9OaXh0a29zQnVsSUFMc3ZkSjFRZFRIcjN6SkM5N1RBMnBXamRKS0dWUDlSVU43MFM4bFYtTVF1TjdHcm04UTlONXdDc2dGNWNpQ2FzS2ZoYnBJZEozZEJkdFJ6MThNRkNTMWFwdG8yMnMtRzdlNWhvX2U3TXdnMF9RVEkxVF80UTdNU21Pd2ctNGZIMEVpOEVrQlgxZDhiWExuMW1OdDUxa2ItVUtIRHVnVU1BaW9Y?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jUjRpUGhHSlRLbFV3SzFBQzlma0U1WGMwMTBhZ2xwM1daa1VWc3dSbkRlbjNVelg3ejNObm91X1QxeWxPTEN1d2JrTDJ2NVluMlZodkxNTUw1alNKZ0xoTG9OT0Q2U1lVTFBQYTlxV2Y0MFFi?oc=5",
@@ -2212,6 +2162,16 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96Sm1EaVlsMHctNGtBMDBYdVRreWpySVdVS1RhSVZCUzk3enZHQmlIS3lWY2Rmajh2Q3RNZWU2RDEwc3ZEX2tONEpsbEN6RXowZk1ySVdaWXVVR09jX21aelV6UQ?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tcmRsdjBHa2E2Vi1pNnN4VmJnbUdkN01UMHlKN3U4SEZDeXM1RlRQSDVEaWtSM1UwbkZRSE1BWnAwNDBqeWhzWU5tZ0JLUERLRzFaMXJqQTAwallhZGlFUVpzbzZXeEtLRTE2LXg4akZ3MEhtdjYzYmdaMS0?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "DarkSky Certified Outdoor Sports Lighting - DarkSky International",
+      "desc": "DarkSky Certified Outdoor Sports Lighting &nbsp;&nbsp; DarkSky International",
+      "date": "2026-11-22T18:16:09+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tcmRsdjBHa2E2Vi1pNnN4VmJnbUdkN01UMHlKN3U4SEZDeXM1RlRQSDVEaWtSM1UwbkZRSE1BWnAwNDBqeWhzWU5tZ0JLUERLRzFaMXJqQTAwallhZGlFUVpzbzZXeEtLRTE2LXg4akZ3MEhtdjYzYmdaMS0?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNm9IdXp1aHpSSGVzOVN0OHJ0a2k5dzdrMTZEOVRQbHNWQVZTSDBmbjBzWV90TU9mOG9leE5JT1F4QTdjYjM2emhLMmZNaVV6d1VVUU9qT1ZNazIybjROcTEtMjV5RS0wMXRmcFJwNA?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2220,6 +2180,36 @@
       "date": "2026-11-22T14:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vNm9IdXp1aHpSSGVzOVN0OHJ0a2k5dzdrMTZEOVRQbHNWQVZTSDBmbjBzWV90TU9mOG9leE5JT1F4QTdjYjM2emhLMmZNaVV6d1VVUU9qT1ZNazIybjROcTEtMjV5RS0wMXRmcFJwNA?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi - Yle",
+      "desc": "Liki 170 vuotta vanha pulma ratkesi tekoälyn avulla – matemaatikko: Tulkittava vielä ihmisille ymmärrettävästi &nbsp;&nbsp; Yle",
+      "date": "2026-11-22T10:52:09+00:00",
+      "source": "Google Uutiset",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRdTNQNnM3UHRPMWswTDdoQW1KaGJBejdwTW1tYTJfMzhwZnJvWG56UExveFRteFp2TzNneDZteFZhUQ?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade - Reuters",
+      "desc": "Anthropic's post-debut stumble delivers reality check for AI trade &nbsp;&nbsp; Reuters",
+      "date": "2026-11-22T10:22:43+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWtIWXhnWHpsWWZSZ2dFVFRFSXBHaUxOWlp1VnFSZEoycGRtMDE1NVhuM2NEa2ZUTHlLN0lFbG5aX295SThLcFVXMEV3VmJidHF2amdDelVYWWprLXRsNWpodU9LcERma2xnc2pWaTZGbmNHZnYwREdjQnBOcGR0S0JSdnZTaC1aYmtBWXdRXzJiVDhHbFBEZ3lDdWhzS3Q3dnFMY3d3cjZIdw?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWVFN3U2YzhTSFhMUkxpNUVGV1NtZ0E1dmp6a3Z3OXRSTG45UWZZZFQ4ZllQRzVpX3Npc2Jpc09YSkhaYUhadkdGU0tHNWJlY1JOUkpWQjFhdk9Ccld3dUhRME5uSkFSVmtvaHhaeGJlWUZKSlZzMk9Td0dmaWZNaHZxNE5XdVZPTUE?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "An A.I. Editor’s Essential Tool: The Typewriter - The New York Times",
+      "desc": "An A.I. Editor’s Essential Tool: The Typewriter &nbsp;&nbsp; The New York Times",
+      "date": "2026-11-22T08:00:07+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWVFN3U2YzhTSFhMUkxpNUVGV1NtZ0E1dmp6a3Z3OXRSTG45UWZZZFQ4ZllQRzVpX3Npc2Jpc09YSkhaYUhadkdGU0tHNWJlY1JOUkpWQjFhdk9Ccld3dUhRME5uSkFSVmtvaHhaeGJlWUZKSlZzMk9Td0dmaWZNaHZxNE5XdVZPTUE?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POExvT0x5WEFTamZUWGd5bW9uVkg1elljempJOXJoblp5VUhqc3UwakgwSEh6N0dDaEhmWExBUUVzd014SnhKSTZnSDhPNXQ3a0FIRWZWWFlMQ1V5Mm80UQ?oc=5",
@@ -2242,6 +2232,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkFtaHMtN1FWSllFbWladFBrVjJkNkRoaTZKTzNraF9taVZPaUxQRXdNMm5ER3Ftb3U3Yy11WU1fT21HS0ZNSFJReGR4ZVdnSTRuS205bmFkcmtzWjF5VVR0T3ExdWZVU2dNSXRmSF9zTkVoV0hCVEptc0VyQnZKYjNBOWxjenhMdEJfdHVB?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5",
+      "cat": "Tekoäly",
+      "icon": "🤖",
+      "title": "California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’ - New York Post",
+      "desc": "California colleges strike major AI deal as educators rage at machine learning: ‘Homogenized slop’ &nbsp;&nbsp; New York Post",
+      "date": "2026-11-21T19:01:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0JQSGlpd0NTRlpvbko0QllyaElJUG5ud1F4aWdvSm8xVlZCenBLZ0pCWUY0Q2Jrd29WR2I1RUpxak1CYUdtS0xHdWJIVllGVC0zeUVreGwySlZ6Wnd4WXViTDkxX01aMXROYU9jdUdlTi1WTEgwZjhqM01aUHpLT1M3YWtISXNwZHhkRnVLVktxdkwxbmFmOUJzN2ZrdG5MOFdV?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVl91V0dzQ2plYXdtMWl6VExld0Yyc1JJVldOSTRsNm9OZzYwTURaVjUyV1NFamd1bU4yQTFZb2V0Z1FqenduX1U1VFJFWGkya3k5UExEV2paWW9jUC1WLVpXT1FtOHNyNWNKdUR6Vm9mTkM0Q1lwa2VrOUJHOEcyZ3dLTV92NjJEd2MzV0hmUzdidDk1YkdEM3JGa1FFdmFnbHQySzd2bGFTR2wtWEtNblNWZDJsMFE?oc=5",
       "cat": "Tutkimus",
       "icon": "🔬",
@@ -2262,16 +2262,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCd2dTek4ySGNoUXBUVHNGY0d3aDJ3WjNqRllsUUlMUE1pN2NoZGFQc2NwSmlXVUsxdndtSkowd3VYRGJkWTRsVVdxMl9yQkcxTVdDYTZEOA?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlNjllWThKbDl4MDBsNHliTC1NTnNYdlE3NTZvVE9iLXA5NlN5MS1TNS1UWi1wMzlCd242ZWN4NzBZQW9XbGN5M0lpd0hRU3FHMU9DdW5VUjdDN09jT0NkbFAzVGNnbkdRNjVHcm02VlpXZE5INnhfOFVB?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Nouvelle artificial intelligence - Britannica",
-      "desc": "Nouvelle artificial intelligence &nbsp;&nbsp; Britannica",
-      "date": "2026-11-21T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlNjllWThKbDl4MDBsNHliTC1NTnNYdlE3NTZvVE9iLXA5NlN5MS1TNS1UWi1wMzlCd242ZWN4NzBZQW9XbGN5M0lpd0hRU3FHMU9DdW5VUjdDN09jT0NkbFAzVGNnbkdRNjVHcm02VlpXZE5INnhfOFVB?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaW8wbHMyWjItTVJZTy11UFJyTHRVVUltU2Z0Rmh3eks1UjNtUU1zTTZXbnIzaHpHY2pKcjd6eU5Ga3NCQnhVTzFtMTF6Zmd4amh5S25zbElubHZNbmNvSk45UEQtZmRsRk1nNWN5d1g?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
@@ -2282,44 +2272,34 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaW8wbHMyWjItTVJZTy11UFJyTHRVVUltU2Z0Rmh3eks1UjNtUU1zTTZXbnIzaHpHY2pKcjd6eU5Ga3NCQnhVTzFtMTF6Zmd4amh5S25zbElubHZNbmNvSk45UEQtZmRsRk1nNWN5d1g?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBmT2lvOEJmc3N3ZzlLRVUyZ3VPaUdOYVJKenpCQllSbHp0R3hEMGRNUC1MSTRuT2d0RHAzZlBYWkZxd3hRY1hTWDB3VzluM1dQYXh0LTA4R3czOE1ZWnQxUTFYRlJSSlJ6eEZNMW5pWDZQN3pKdmh5NkREUEYweW9HVVI0d09TOFo4Y2hjWkpQdXF4S0ZzYVF1T1Q1TjR1NnBVejRvdTR6elg0cHpsQmdFSk45bkFVZ25qcW9mOWNyTGlBZkRDUmJ6anBaVUpYd3pNTg?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13WjdmN0ppMmtibWY4ZVBGNVZBZmFPTnJfRUpOLS1tU0x0a0Q3cUJfdmVJbUdZZVhzeU1oeWhPR2NXOVhmdkdqdUxaQ2dHMkIyaV9LdXRza3M5aXJQ?oc=5",
       "cat": "Tekoäly",
       "icon": "🤖",
-      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together - Amazon Web Services",
-      "desc": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together &nbsp;&nbsp; Amazon Web Services",
-      "date": "2026-11-21T01:06:42+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBmT2lvOEJmc3N3ZzlLRVUyZ3VPaUdOYVJKenpCQllSbHp0R3hEMGRNUC1MSTRuT2d0RHAzZlBYWkZxd3hRY1hTWDB3VzluM1dQYXh0LTA4R3czOE1ZWnQxUTFYRlJSSlJ6eEZNMW5pWDZQN3pKdmh5NkREUEYweW9HVVI0d09TOFo4Y2hjWkpQdXF4S0ZzYVF1T1Q1TjR1NnBVejRvdTR6elg0cHpsQmdFSk45bkFVZ25qcW9mOWNyTGlBZkRDUmJ6anBaVUpYd3pNTg?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3h3dEMxajVfSHBOSDFvVDdMeGhBOXVtUU0wUzk0MUhHNjlBTVZzZ2ZqNDA2bm5xXy1OSEdqejNSV3kzLVU4dllOdmlwaTMyZmdnazVwd0dMdHVEamZRX1dYSXhwWXVFNV9uSFJoa001WUpKWWVfWFliN3I0Mm5FM2VRQWN4aVFBa1kyTlVDQTVHTGdPRC0xSWVQa3c5X2tOMXJXOXVyUUl1Y1VOQnV3VXNuRl9sLTBnN3VJWHd1TmNBWlM2cXc?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill | Amazon Web Services - Amazon Web Services (AWS)",
-      "desc": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill | Amazon Web Services &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "date": "2026-11-21T00:14:26+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3h3dEMxajVfSHBOSDFvVDdMeGhBOXVtUU0wUzk0MUhHNjlBTVZzZ2ZqNDA2bm5xXy1OSEdqejNSV3kzLVU4dllOdmlwaTMyZmdnazVwd0dMdHVEamZRX1dYSXhwWXVFNV9uSFJoa001WUpKWWVfWFliN3I0Mm5FM2VRQWN4aVFBa1kyTlVDQTVHTGdPRC0xSWVQa3c5X2tOMXJXOXVyUUl1Y1VOQnV3VXNuRl9sLTBnN3VJWHd1TmNBWlM2cXc?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44aEpXTmZ1WGFsSnhhRGtNTGJuMExDNXR5Q0pYR3BKTElMdmVIZUNENFNyOVdmRW9JOXVyN1ZsQ2hyc09QTC1YUDZTMTNaYUJFb3VabXMzNHFlT01TTEE?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Matemaatikolta hämmästyttävä väite – tekoäly saattoi ratkaista yhden matematiikan suurimmista mysteereistä - Ilta-Sanomat",
-      "desc": "Matemaatikolta hämmästyttävä väite – tekoäly saattoi ratkaista yhden matematiikan suurimmista mysteereistä &nbsp;&nbsp; Ilta-Sanomat",
-      "date": "2026-11-21T00:10:00+00:00",
+      "title": "Matematiikka | Matemaatikko väittää ratkaisseensa vuosisatoja vanhan pulman tekoälyllä - HS.fi",
+      "desc": "Matematiikka | Matemaatikko väittää ratkaisseensa vuosisatoja vanhan pulman tekoälyllä &nbsp;&nbsp; HS.fi",
+      "date": "2026-11-21T04:24:00+00:00",
       "source": "Google Uutiset",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44aEpXTmZ1WGFsSnhhRGtNTGJuMExDNXR5Q0pYR3BKTElMdmVIZUNENFNyOVdmRW9JOXVyN1ZsQ2hyc09QTC1YUDZTMTNaYUJFb3VabXMzNHFlT01TTEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13WjdmN0ppMmtibWY4ZVBGNVZBZmFPTnJfRUpOLS1tU0x0a0Q3cUJfdmVJbUdZZVhzeU1oeWhPR2NXOVhmdkdqdUxaQ2dHMkIyaV9LdXRza3M5aXJQ?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbW1BN0dsUThocUZoaFpET21zZG5RY1lYYk9GUVNsTnNjZTBNSHd0dnVPNHlfc0VWdXVkMjdIcUxIM2N1MFR1b0pxQmFFTDhpamFKYnVZY1VzWjRpN0ZBQ1YyeEhVM2FyNWt3bTlDVTFWc2NVTmp0MzlxM0NWdWxpMXpsb3ZHclp3YkRVdklDWFZjZjBnUVp1TDlabWp3dURtN2tTWWVIeFIxdldOX0VXNG1vM2pTSFBRRzBjM1RzRDBBYUJtRGh6TjNhSk02YWxnTElpVU80UFFTdzduSVAtdkxLamE?oc=5",
-      "cat": "Tekoäly",
-      "icon": "🤖",
-      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters - Amazon Web Services",
-      "desc": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters &nbsp;&nbsp; Amazon Web Services",
-      "date": "2026-11-20T22:35:24+00:00",
+      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGt2c1lsNi1OUFFPQTJJQ2djZHVmNnhLSFFsU0doYmlaUXJXemJtY25fMDJ5OE84c0dnZU9yWTRlcWp2Zjd2b1k5RnNIazRGQy15c1ZpT2haUUpCb1oxWkMxRHFwSnJjbnNWQjNFZlJ6THEyeEM5U2t4UnZtT2tsTzNnMmdVUFJvSWdDSVlsRDk5bWtHa0MySHg2MTB3TG9xTFJ6Mkx4Y3JBX1VGSWk2YjczbXdzaUpM?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Exercise Interventions Improve Physical Function and Quality of Life in Frail Multimorbidity - Bioengineer.org",
+      "desc": "Exercise Interventions Improve Physical Function and Quality of Life in Frail Multimorbidity &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-20T22:22:45+00:00",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbW1BN0dsUThocUZoaFpET21zZG5RY1lYYk9GUVNsTnNjZTBNSHd0dnVPNHlfc0VWdXVkMjdIcUxIM2N1MFR1b0pxQmFFTDhpamFKYnVZY1VzWjRpN0ZBQ1YyeEhVM2FyNWt3bTlDVTFWc2NVTmp0MzlxM0NWdWxpMXpsb3ZHclp3YkRVdklDWFZjZjBnUVp1TDlabWp3dURtN2tTWWVIeFIxdldOX0VXNG1vM2pTSFBRRzBjM1RzRDBBYUJtRGh6TjNhSk02YWxnTElpVU80UFFTdzduSVAtdkxLamE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGt2c1lsNi1OUFFPQTJJQ2djZHVmNnhLSFFsU0doYmlaUXJXemJtY25fMDJ5OE84c0dnZU9yWTRlcWp2Zjd2b1k5RnNIazRGQy15c1ZpT2haUUpCb1oxWkMxRHFwSnJjbnNWQjNFZlJ6THEyeEM5U2t4UnZtT2tsTzNnMmdVUFJvSWdDSVlsRDk5bWtHa0MySHg2MTB3TG9xTFJ6Mkx4Y3JBX1VGSWk2YjczbXdzaUpM?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Tallahassee parks visionary Randy Trousdell dies at 89 - Tallahassee Democrat",
+      "desc": "Tallahassee parks visionary Randy Trousdell dies at 89 &nbsp;&nbsp; Tallahassee Democrat",
+      "date": "2026-11-20T22:07:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHQyNW4zcDZvQ2h5SzgtR1RaZmdtU2NueUxFcFdDVGVqN2pQSGRSdGJuVmVwVWJMNXB3SDBNSkI1RDJtaDdpTWlVOXdMQ3l5a0hfMlRSTjQ2al9DNnlJbVBHZFU1YnlsREhqZ3JNdnFJNkZEbHk1czBNb01JRnhJZGRCb1hLRmR2cWNzcExLNDRPeTZCVU4zM0RkTERobnZxbVBjenVxOVBBOFAtXzlNNmxHaUQwcV9aWGpoZkd0QXlFVDdKakcxcXdTTWFRRHJGVS1TMjlPRHpQSEU?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUZPTUhmd1lpOTJ1MHlFallLV2MtakVqUnBjWlBpcmF4RzUwYTlUREU5WDlaV05LODRPdW01N1h6RE1XNndvNnpoWS1BTHJTMGpoMllFVkVEdndiaWs2X1Nwc3Q4OUp3YWVpY3FuZ2FsOUx4b3pKdTIwRmNySDdFOWdQb0FkMFE0b1M1ZVhiV20zTXZXQlFTUGZqajZPLUhxc3k4X3oxQ0JTRDFPcE5tbVpLWXIxYzVtd3BFak1ob3FKSHE3YVpCcw?oc=5",
@@ -2330,16 +2310,6 @@
       "date": "2026-11-20T17:42:51+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUZPTUhmd1lpOTJ1MHlFallLV2MtakVqUnBjWlBpcmF4RzUwYTlUREU5WDlaV05LODRPdW01N1h6RE1XNndvNnpoWS1BTHJTMGpoMllFVkVEdndiaWs2X1Nwc3Q4OUp3YWVpY3FuZ2FsOUx4b3pKdTIwRmNySDdFOWdQb0FkMFE0b1M1ZVhiV20zTXZXQlFTUGZqajZPLUhxc3k4X3oxQ0JTRDFPcE5tbVpLWXIxYzVtd3BFak1ob3FKSHE3YVpCcw?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2d3d3BPdVU1bFRENFliNlY0aGtIRkszTXlDamJiRnhjZi14UF8zOFMyTE5RbGxOMGgyTlZqc2xZcG5ydDhWVTFFR003Snd1UUZfV1BaSDlGLU1xWEh5RVhuWXl1a3VMM09OUk9GdEpBS0lxc241VHNGN1M2N2o0ck56ZllCejJKNW92MjBuQjl1Y0p1Xy10aEFTb3ZoaGk5V1gw?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "City of Richmond Introduces Official Name, Logo, and Website for RKY Sports Complex - WBONTV",
-      "desc": "City of Richmond Introduces Official Name, Logo, and Website for RKY Sports Complex &nbsp;&nbsp; WBONTV",
-      "date": "2026-11-20T16:21:22+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2d3d3BPdVU1bFRENFliNlY0aGtIRkszTXlDamJiRnhjZi14UF8zOFMyTE5RbGxOMGgyTlZqc2xZcG5ydDhWVTFFR003Snd1UUZfV1BaSDlGLU1xWEh5RVhuWXl1a3VMM09OUk9GdEpBS0lxc241VHNGN1M2N2o0ck56ZllCejJKNW92MjBuQjl1Y0p1Xy10aEFTb3ZoaGk5V1gw?oc=5"
     },
     {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/20/kulttuuritalot-kutsuvat-joulun-elamyksiin-ja-yhteiseen-tekemiseen",
@@ -2382,6 +2352,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/20/asukkaiden-yhteydenotot-johtivat-hikivuoren-turva-aidan-uusimiseen"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CTkRvdzVfVUxzTzh4c0ZsTXNSZHVEdzR0aGNtYm1vRnlDaVY0MXBnSXVPOXYzTE9fSzNXN3JxRm9YaDhBNDBPby1iQ1JSYS1QQk01ZG5Hel80RzdpLXUw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Social determinants of health, lifestyle factors, and artificial intelligence in cardiovascular risk stratification for systemic lupus erythematosus: a narrative review - Nature",
+      "desc": "Social determinants of health, lifestyle factors, and artificial intelligence in cardiovascular risk stratification for systemic lupus erythematosus: a narrative review &nbsp;&nbsp; Nature",
+      "date": "2026-11-20T09:44:16+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CTkRvdzVfVUxzTzh4c0ZsTXNSZHVEdzR0aGNtYm1vRnlDaVY0MXBnSXVPOXYzTE9fSzNXN3JxRm9YaDhBNDBPby1iQ1JSYS1QQk01ZG5Hel80RzdpLXUw?oc=5"
+    },
+    {
       "id": "https://www.tampere.fi/ajankohtaista/2026/11/20/talvikauden-valmistelut-on-aloitettu-liikuntapaikoilla",
       "cat": "Päätöksenteko",
       "icon": "🏛️",
@@ -2412,6 +2392,16 @@
       "url": "https://www.tampere.fi/ajankohtaista/2026/11/19/tampere-on-laulava-kunta-yhdessa-laulaminen-tuodaan-osaksi"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "Buncombe tourism authority puts $5M toward new county rec center - The Asheville Citizen Times",
+      "desc": "Buncombe tourism authority puts $5M toward new county rec center &nbsp;&nbsp; The Asheville Citizen Times",
+      "date": "2026-11-19T12:51:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWlo2NXg2UW4yV29POUk4dGp6a3hOOFZYSmRKaWNkbzJQeU5SWkxKTDRkYXo0R2NyMEMyX0ZFVnk3dWFHSnJvUUpYak8wYVBvZkxFRzVnOF9iWVFrLU5lWDl4Nkg2NXQxTEZjaUxYQzZfdHlHSlo3SnZzRmV5WHZCU0tiZ1FmQ2dnTEZzbnduZ2I1VzZ1UExBZk4zTUwwM0NmUUk0TVZVb01zLURuMWE1Vk0zazhWU2I0TkdvamxkSE1CUzVKa21nakpPRENmQQ?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy01WW1WX212QzRJODdqeVlkS0xzLVJhZml1d3FEV0JYdHVEeFhiRms3UXFsV3l3bHFqQ1E4TmF0c3hFak9fdnBhRXFoNzJ0SDJUZTk0TUdSNmpWZkE2SE5qd2Jxc185aW0yUGExMTBsUVVtUzI4NExMcmY0WndqYi0xSWZJUDF4cU1Fd1BjdXVPU1dBcXRpV0JXd1k0Tk9OcXBHUzcxNFVoamQtVTNWMzlDV0lpczFWa1pfaEJzdVlBbkNRTDBB?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2430,16 +2420,6 @@
       "date": "2026-11-19T08:00:00+00:00",
       "source": "Google Uutiset",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43c0Q1NWpxcm5LNE9YenBUc0ZKMk5WMFNjOEJhNjdtbm04UmRsLUprRGFjdnpJUk1mVllPUU12TEVFRVJLMElueHd1SDFaa0hiOVptUDhuRG0yUVlMbWkxMA?oc=5"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2o0aDc4NHFjMGxic1hrVEZWMFBQSVF3WkZqd0hfQkdDMmZOLVoxYmJoNWRCeGNNRUc3c0FXaGJwMk5lSFI0RktvSldoYkQ5WXdNS3BvZ3FNQWNuUWtIYnExWFR3OU5HdjJUWHRWbmV1ZEJaU2g4YXk0cmxNXzljck5YWWU1ai0wZVNCbkN4OW9sMEdQd2NEQWtFdEVqZUlZZjBJbDJaSQ?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Mark Ein reaches deal to take over, renovate Rock Creek Tennis Center - The Business Journals",
-      "desc": "Mark Ein reaches deal to take over, renovate Rock Creek Tennis Center &nbsp;&nbsp; The Business Journals",
-      "date": "2026-11-19T08:00:00+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2o0aDc4NHFjMGxic1hrVEZWMFBQSVF3WkZqd0hfQkdDMmZOLVoxYmJoNWRCeGNNRUc3c0FXaGJwMk5lSFI0RktvSldoYkQ5WXdNS3BvZ3FNQWNuUWtIYnExWFR3OU5HdjJUWHRWbmV1ZEJaU2g4YXk0cmxNXzljck5YWWU1ai0wZVNCbkN4OW9sMEdQd2NEQWtFdEVqZUlZZjBJbDJaSQ?oc=5"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXZMV1B0Xy1BazFQZllETnhpc2h0R1BEUkF4amxGcTh6NzlXTWFENFk4d3ZTS3RRbXJ5V0NoRWpiTUNzX3ktUVo3c3VXbWtBRDB2QnNUWC1OVHFYMXpfbEtXV2FrUTBRTS01Z2hqYUN5cmtMMnFVbjM3ZkV1dUxUeUs1eHRZOGswM2RqVFRZT2xqenViY2FDZTNuR2NyTzVGcl9XS2lGbjMyUGc?oc=5",
@@ -2462,6 +2442,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNW1Tb19EenczaGpxcGt0Q0FycjVlQjRTT1pKWVZZUFo1bWVBaDk1SHVzOEpoQlFDUWNwYmFwcXZYSzg4VkhvMVFDYlFlbmdqOGZNTmd0ZTZSU19YSXZBMnFhWU9odDBUVU1QSFU1QUtWcUhNNF9iOGd5c3VhTlVkMHdMZlc3blFKTTFJYVJfYnZVcVlTNFNjTjRidFRwM2Rydlo2ZzR3d1NYUm8wSlRReFpibW1YTXhqR0hScmNjN0pGWko2djRJR3lrLVRCQ3RLdXc5dEpkbGlqOWlHSmUyS1paR1k?oc=5"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmhCYnRkN1RYVi1MWk9DSWtqVXpvd1FZTWtVZENWTEZjV1RodWFRRWxoQk5SaEtxTDRfSFRNTWx5YkNHb2MxMzFmdS1jN2kxU1VEdHlMb0NLZEJoQk85UzRxVGZIUGhHLTkxTWwzckdQVnlnRmNpbEZNQVFnN0N3N1hMUkhFNl8xQWlFSGZpTGRsTEkwNFFqWUYzajVTMmN4c2pid1FJYUw3MUxtakV1SGY3RWN6MWpaeVJmd1BKYw?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "Umbrella Review Finds Limited Evidence That Exercise Consistently Alters Biomarkers in Depression - Bioengineer.org",
+      "desc": "Umbrella Review Finds Limited Evidence That Exercise Consistently Alters Biomarkers in Depression &nbsp;&nbsp; Bioengineer.org",
+      "date": "2026-11-19T05:27:25+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmhCYnRkN1RYVi1MWk9DSWtqVXpvd1FZTWtVZENWTEZjV1RodWFRRWxoQk5SaEtxTDRfSFRNTWx5YkNHb2MxMzFmdS1jN2kxU1VEdHlMb0NLZEJoQk85UzRxVGZIUGhHLTkxTWwzckdQVnlnRmNpbEZNQVFnN0N3N1hMUkhFNl8xQWlFSGZpTGRsTEkwNFFqWUYzajVTMmN4c2pid1FJYUw3MUxtakV1SGY3RWN6MWpaeVJmd1BKYw?oc=5"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE84NWI5eGdIeDZ4RUd4elI2NVMxeUxWWURDYmphdkd2V3BSQTF5Sm1JbG5tREtIY3VwYzFKVXdiSzk?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2482,16 +2472,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMbENfU2NYNzBXLXo3cXJWU0h2bEJINVF4TnFuaW1IV1oySW1RMVpKRWRrWENjSkhlNGxBUUgteDlqQnp4al94Q0JZdU5VS28?oc=5"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzNGTXAzRmVSRFdXY204Mkt0aGNzRERORFc4aWhTcEZDTlNFREJNZlRwc1VtN0JIVllHeVlfRDY2cGo2V2FvQ3JybmNnWkJNTEwtaG9qLTd6OUo3NVRkNXJrMS1LMEVFT0pVNEJHSXVDYmZfbjRiUnNqUE5YSlJOZ1JtMEJOclhhLUE?oc=5",
-      "cat": "Liikunta-ala",
-      "icon": "🏟️",
-      "title": "Parks and Rec Survey Seeks More User Input - Daily Sitka Sentinel",
-      "desc": "Parks and Rec Survey Seeks More User Input &nbsp;&nbsp; Daily Sitka Sentinel",
-      "date": "2026-11-19T00:26:19+00:00",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzNGTXAzRmVSRFdXY204Mkt0aGNzRERORFc4aWhTcEZDTlNFREJNZlRwc1VtN0JIVllHeVlfRDY2cGo2V2FvQ3JybmNnWkJNTEwtaG9qLTd6OUo3NVRkNXJrMS1LMEVFT0pVNEJHSXVDYmZfbjRiUnNqUE5YSlJOZ1JtMEJOclhhLUE?oc=5"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5",
       "cat": "Liikunta-ala",
       "icon": "🏟️",
@@ -2500,6 +2480,26 @@
       "date": "2026-11-18T19:17:30+00:00",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFQ4ZXpFRXZRNTQxXzdKVjNpNV8wUVFkeXk0ZFZycEVZWUFrZkQ5Q3NILVJmcDVJbG5YTUpqZlFKZmxXeWJXekRHWFI3dTY5QVRIZWhkVmxxM0Ixai1Xa01saFEtTTZudlpnMzlTTmFhWTdGSVJhM3Z1QW9aVTY4WElEV1lJY0VkRkhlTi16YjBxMm52a3FkOGw1QjJfOC1Ybi16VS1sWGFwdXo4WTByU3RmbWYtUHlybkhJNW9lWTg3djNVRFE?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5",
+      "cat": "Tutkimus",
+      "icon": "🔬",
+      "title": "News - Hospital del Mar",
+      "desc": "News &nbsp;&nbsp; Hospital del Mar",
+      "date": "2026-11-18T14:26:55+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05UmtXXzNHZXRUSHNkQ1RSbU9SdVZiM3hSVkxNUktULS1NNC1MY2FEWnFjNHZNY3VWeE8wNENmWkd2U3VzQ1RrcUpMZlhJZU82d2pQRmVzd1ZjaHAycTY0MExfaHR6TEM1OXc?oc=5"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5",
+      "cat": "Liikunta-ala",
+      "icon": "🏟️",
+      "title": "KemperSports to Run AWE Sports at Showboat, a 140,000-Square-Foot Atlantic City Youth Sports Venue - Youth Sports Business Report",
+      "desc": "KemperSports to Run AWE Sports at Showboat, a 140,000-Square-Foot Atlantic City Youth Sports Venue &nbsp;&nbsp; Youth Sports Business Report",
+      "date": "2026-11-18T08:00:00+00:00",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeElEcEltZ2w3WlNsaUF1eWxPYmI4NVJ5alk3UUhqaE12WXowNllPbGZTZ0ItQUpoRzR2WjJWZlFlZktiTzlxVGloLVBsUnBuUnZVSDZiZy0ycUlwOG1OYVRCMGZUSEw1R3lsLWtNeUpua0p0Si1wTWVISnlaa2tlWEF4ZmFnSjVrV09RQjYxY18xU1dabDR5VFhwb2RzMjc1Qk03bU1Yaw?oc=5"
     }
   ],
   "sources": [
@@ -2563,7 +2563,7 @@
       "name": "Google Uutiset",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 15,
+      "count": 16,
       "reason": ""
     },
     {
@@ -2577,7 +2577,7 @@
       "name": "Google News",
       "category": "Liikunta-ala",
       "ok": true,
-      "count": 35,
+      "count": 23,
       "reason": ""
     },
     {
@@ -2598,7 +2598,7 @@
       "name": "Google News",
       "category": "Tutkimus",
       "ok": true,
-      "count": 29,
+      "count": 35,
       "reason": ""
     },
     {
